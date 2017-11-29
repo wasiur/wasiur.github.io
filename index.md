@@ -30,6 +30,7 @@ I am broadly interested in applications of probability theory and statistics in 
 4. Adrian Šošić, **Wasiur R. KhudaBukhsh**, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. _International Conference on Autonomous Agents & Multiagent Systems (AAMAS)_, 2017. Available at: [https://dl.acm.org/citation.cfm?id=3091320](https://dl.acm.org/citation.cfm?id=3091320).
 5. **Wasiur R. KhudaBukhsh**, Julius Rückert, Julian Wulfheide, David Hausheer and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. _IFIP Networking Conference (IFIP Networking)_, 2016. Available at: [http://ieeexplore.ieee.org/document/7497234/](http://ieeexplore.ieee.org/document/7497234/).
 6. Mahdi Mousavi, Hussein Al Shatri, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. _IEEE 86th Vehicular Technology Conference (VTC)_, 2017. 
+
 ### Preprints
 1. **Wasiur R. KhudaBukhsh**, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. (A shorter version with preliminary results available at: [https://arxiv.org/abs/1612.05543](https://arxiv.org/abs/1612.05543).)
 2. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328).
