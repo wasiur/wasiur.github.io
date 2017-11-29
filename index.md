@@ -14,13 +14,13 @@ I am broadly interested in applications of probability theory and statistics in 
 3. [ORCID](https://orcid.org/0000-0003-1803-0470)
 
 ## Education
-1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany
+1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
     * PhD, 2014 - 2018 (Expected).
     * Advisor: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp)
-2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India
+2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
     * M. Stat., 2009-2011.
-3. [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India
-    * B. Sc. with Honours in Statistics.
+3. [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India.
+    * B. Sc. with Honours in Statistics, 2006-2009. 
 
 ## Publications 
 ### Peer-reviewed publications 
