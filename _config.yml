@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# needed for CI builds:
+exclude: [vendor]
+
+# Site settings
+title: Wasiur R. KhudaBukhsh
+description: PhD student at Bioinspired Communication Systems, Technische Universität Darmstadt, Germany.
+email: wasiur.khudabukhsh@bcs.tu-darmstadt.de
+url: "https://wasiur.github.io/" # the base hostname & protocol for your site
