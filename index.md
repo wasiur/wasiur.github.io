@@ -1,3 +1,5 @@
+![Alt](/image/KhudaBukhsh_Wasiur.JPG)
+
 ## Welcome to my homepage!
 
 I am a PhD student at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Germany. My PhD advisor is [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp). I am broadly interested in applications of probability theory and statistics in problems arising from computer science, statistical physics, epidemiology, biology, and engineering disciplines. 
