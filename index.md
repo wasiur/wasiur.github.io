@@ -8,10 +8,16 @@ My full name is Wasiur Rahman Khuda Bukhsh. I am currently a PhD student at [Tec
 
 I am broadly interested in applications of probability theory and statistics in problems arising from computer science, statistical physics, epidemiology, biology, and engineering disciplines. 
 
+## Contact
+[Bioinspired Communication Systems](http://www.bcs.tu-darmstadt.de/biocomm/welcome/index.en.jsp)    
+[Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)     
+Rundeturmstraße 12    
+64283 Darmstadt, Germany    
+Email: wasiur.khudabukhsh at bcs.tu-darmstadt.de
+
 ## External links
-1. [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en)
-2. [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh)
-3. [ORCID](https://orcid.org/0000-0003-1803-0470)
+| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) |
+
 
 ## Education
 1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
