@@ -4,7 +4,9 @@
 
 ## Welcome to my homepage!
 
-I am a PhD student at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Germany. My PhD advisor is [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp). I am broadly interested in applications of probability theory and statistics in problems arising from computer science, statistical physics, epidemiology, biology, and engineering disciplines. 
+My full name is Wasiur Rahman Khuda Bukhsh. I am currently a PhD student at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Germany. My PhD advisor is [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp).
+
+I am broadly interested in applications of probability theory and statistics in problems arising from computer science, statistical physics, epidemiology, biology, and engineering disciplines. 
 
 ## External links
 1. [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en)
