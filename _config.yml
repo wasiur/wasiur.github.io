@@ -2,3 +2,12 @@ theme: jekyll-theme-cayman
 
 title: [Wasiur R. KhudaBukhsh]
 description: [ ]
+
+
+# needed for CI builds:
+exclude: [vendor]
+
+# Site settings
+title: Wasiur R. KhudaBukhsh
+email: wasiur.khudabukhsh@bcs.tu-darmstadt.de
+url: "https://wasiur.github.io/" # the base hostname & protocol for your site
