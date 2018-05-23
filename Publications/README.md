@@ -1,9 +1,14 @@
 ## Publications
+
+Please send me an email if you do not have access to any of the papers. 
+
 ### Peer-reviewed publications
 1. **Wasiur R. KhudaBukhsh**, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies. _IEEE International Conference on Computer Communications (INFOCOM)_, 2018.
+[**Best-in-Session Presentation Award**]
 2. **Wasiur R. KhudaBukhsh**, Amr Rizk, Alexander Frömmgen, and Heinz Koeppl. Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds and Applications. _IEEE International Conference on Computer Communications (INFOCOM)_, 2017. Available at: [http://ieeexplore.ieee.org/document/8057013/](http://ieeexplore.ieee.org/document/8057013/).
 3. Adrian Šošić, **Wasiur R. KhudaBukhsh**, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. _AAMAS Workshop on Transfer in Reinforcement Learning_, 2017. Available at: [http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf](http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf).
-4. Adrian Šošić, **Wasiur R. KhudaBukhsh**, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. _International Conference on Autonomous Agents & Multiagent Systems (AAMAS)_, 2017. Available at: [https://dl.acm.org/citation.cfm?id=3091320](https://dl.acm.org/citation.cfm?id=3091320).
+4. Adrian Šošić, **Wasiur R. KhudaBukhsh**, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. _International Conference on Autonomous Agents & Multiagent Systems (AAMAS)_, 2017. Available at: [https://dl.acm.org/citation.cfm?id=3091320](https://dl.acm.org/citation.cfm?id=3091320). 
+[**Best paper award finalist**]
 5. **Wasiur R. KhudaBukhsh**, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. _IFIP Networking Conference (IFIP Networking)_, 2016. Available at: [http://ieeexplore.ieee.org/document/7497234/](http://ieeexplore.ieee.org/document/7497234/).
 6. Mahdi Mousavi, Hussein Al Shatri, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. _IEEE 86th Vehicular Technology Conference (VTC)_, 2017.
 
