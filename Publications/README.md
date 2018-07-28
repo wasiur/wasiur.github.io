@@ -21,3 +21,6 @@ Please send me an email if you do not have access to any of the papers.
 3. Hye-Won Kang, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Grzegorz Rempała. Quasi- steady-state approximations derived from a stochastic enzyme kinetics. arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). (Under revision.)
 4. **Wasiur R. KhudaBukhsh**, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. SchedMix: Heterogeneous strategy assignment in swarming-based live streaming. (Under revision.)
 5. **Wasiur R. KhudaBukhsh**, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910)
+
+### Theses and technical notes
+1. **Wasiur R. KhudaBukhsh**. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)
