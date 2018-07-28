@@ -21,8 +21,9 @@ Email: wasiur.khudabukhsh at bcs.tu-darmstadt.de
 
 ## Education
 1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
-    * PhD., 2014 - 2018 (Expected).
+    * PhD., 2014 - 2018.
     * Advisor: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp)
+    * Thesis available [here](http://tuprints.ulb.tu-darmstadt.de/7588/).
 2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
     * M. Stat., 2009-2011.
 3. [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India.
