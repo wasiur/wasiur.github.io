@@ -24,3 +24,5 @@ Please send me an email if you do not have access to any of the papers.
 
 ### Theses and technical notes
 1. **Wasiur R. KhudaBukhsh**. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)
+2. **Wasiur R. KhudaBukhsh**, Mark Sinzger, and Heinz Koeppl. Bounds on the spectral radius of real-valued non-negative Kernels on
+ measurable spaces. Technical note. arXiv preprint: [https://arxiv.org/abs/1808.00258](https://arxiv.org/abs/1808.00258)
