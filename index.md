@@ -1,12 +1,21 @@
-![Alt][1]
+<h2>Welcome to my homepage!</h2>
+<div class="row">
+  <div class="col-md-6">
+      <img align="left" src="/image/KhudaBukhsh_Wasiur.JPG" alt="My only professional picture" width="400"/>
+    <p float="right">My full name is Wasiur Rahman Khuda Bukhsh. I obtained my PhD from <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</a> in Germany. My PhD advisor was <a href="http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp">Prof. Heinz Koeppl</a>. I did my Masters in Statistics (M.Stat.) from <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata, India</a>. 
+       
+<a href="http://www.bcs.tu-darmstadt.de/biocomm/people_1/phdstudents/wasiur_rahman_khuda_bukhsh/wasiur_khuda_bukhsh.en.jsp">Here</a> is my university homepage. 
+    </p>
+  </div>
+</div>
+
 
 [1]: /image/KhudaBukhsh_Wasiur.JPG
 
-## Welcome to my homepage!
 
-My full name is Wasiur Rahman Khuda Bukhsh. I am currently a PhD student at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Germany. My PhD advisor is [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp). [Here](http://www.bcs.tu-darmstadt.de/biocomm/people_1/phdstudents/wasiur_rahman_khuda_bukhsh/wasiur_khuda_bukhsh.en.jsp) is my university homepage. 
+I am broadly interested in applications of probability theory and statistics to problems arising from epidemiology, biology, statistical physics, computer science, and engineering disciplines. 
 
-I am broadly interested in applications of probability theory and statistics in problems arising from computer science, statistical physics, epidemiology, biology, and engineering disciplines. 
+
 
 ## Contact
 [Bioinspired Communication Systems](http://www.bcs.tu-darmstadt.de/biocomm/welcome/index.en.jsp)    
