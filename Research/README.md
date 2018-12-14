@@ -1,6 +1,9 @@
 ## Research Interests
 Stochastic processes on random graphs, stochastic processes limits, queueing theory, large deviations, approximations of Markov Processes, machine learning, stochastic epidemiology, stochastic modelling and simulation of chemical reaction networks.
 
+## Publications 
+List of publications available [here](https://wasiur.github.io/Publications/).
+
 ## Talks
 ### Invited talks
 2. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018.
