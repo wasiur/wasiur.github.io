@@ -19,9 +19,9 @@ Please send me an email if you do not have access to any of the papers.
 
 
 ### Preprints
-3. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328).
+3. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
 2. Hye-Won Kang, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Grzegorz Rempała. Quasi- steady-state approximations derived from a stochastic enzyme kinetics. arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). (Under revision.)
-1. **Wasiur R. KhudaBukhsh**, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910)
+1. **Wasiur R. KhudaBukhsh**, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910) (Under revision.)
 
 ### Theses and technical notes
 2. **Wasiur R. KhudaBukhsh**. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)
