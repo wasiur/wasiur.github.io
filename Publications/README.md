@@ -6,6 +6,7 @@
 Please send me an email if you do not have access to any of the papers. 
 
 ### Peer-reviewed publications
+9. Hye-Won Kang, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Grzegorz Rempała. Quasi- steady-state approximations derived from a stochastic enzyme kinetics. _Bulletin of Mathematical Biology_, 2019. arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). [Accepted for publication]
 8. **Wasiur R. KhudaBukhsh**, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. _ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, 2018. [Accepted for publication]
 7. **Wasiur R. KhudaBukhsh**, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. SchedMix: Heterogeneous strategy assignment in swarming-based live streaming. _Open Transactions on Communication Systems (OTCS)_, 2018. [Accepted for publication]
 6. **Wasiur R. KhudaBukhsh**, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies. _IEEE International Conference on Computer Communications (INFOCOM)_, 2018.
@@ -19,8 +20,7 @@ Please send me an email if you do not have access to any of the papers.
 
 
 ### Preprints
-3. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
-2. Hye-Won Kang, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Grzegorz Rempała. Quasi- steady-state approximations derived from a stochastic enzyme kinetics. arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). (Under revision.)
+2. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
 1. **Wasiur R. KhudaBukhsh**, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910) (Under revision.)
 
 ### Theses and technical notes
