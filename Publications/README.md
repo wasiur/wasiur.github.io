@@ -20,7 +20,7 @@ Please send me an email if you do not have access to any of the papers.
 
 
 ### Preprints
-3. **Wasiur R. KhudaBukhsh**, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival Dynamical Systems for the Population-level Analysis of Epidemics. arXiv preprint: [http://arxiv.org/abs/1901.00405]
+3. **Wasiur R. KhudaBukhsh**, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival Dynamical Systems for the Population-level Analysis of Epidemics. arXiv preprint: [http://arxiv.org/abs/1901.00405](http://arxiv.org/abs/1901.00405)
 2. **Wasiur R. KhudaBukhsh**, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
 1. **Wasiur R. KhudaBukhsh**, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910) (Under revision.)
 
