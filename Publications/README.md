@@ -6,6 +6,7 @@
 Please send me an email if you do not have access to any of the papers. 
 
 ### Peer-reviewed publications
+10. Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, **Wasiur R. KhudaBukhsh**, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz. Transitions: A protocol-independent view of the future internet. _Proceedings of the IEEE_, 2019. [Accepted for publication]
 9. Hye-Won Kang, **Wasiur R. KhudaBukhsh**, Heinz Koeppl, and Grzegorz Rempała. Quasi- steady-state approximations derived from a stochastic enzyme kinetics. _Bulletin of Mathematical Biology_, 2019. arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). [Accepted for publication]
 8. **Wasiur R. KhudaBukhsh**, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. _ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, 2018. [Accepted for publication]
 7. **Wasiur R. KhudaBukhsh**, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. SchedMix: Heterogeneous strategy assignment in swarming-based live streaming. _Open Transactions on Communication Systems (OTCS)_, 2018. [Accepted for publication]
