@@ -1,10 +1,12 @@
 ## News
-1. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
+1. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
+2. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
 ## Professional Service
 ### Referee
 1. Journal of Mathematical Biology
-2. IEEE Transactions on Automatic Control 
+2. PLOS ONE
+3. IEEE Transactions on Automatic Control 
 
 
 ## On the Internet
