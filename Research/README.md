@@ -22,4 +22,4 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Algorithms and Models for Single Cell Genomics, NSF-Simons Center for Multiscale Cell Fate Research at University of California Irvine, June, 2019 
 
 ## Workshop/conference orgnization
-1. Contributed Session of 4 speakers at Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
+1. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
