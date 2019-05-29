@@ -6,8 +6,9 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Talks/presentations
 ### Invited 
-4. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019 (upcoming)
-3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019
+5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019 (upcoming)
+4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 (upcoming) 
+3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
 2. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
