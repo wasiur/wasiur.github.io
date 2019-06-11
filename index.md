@@ -4,7 +4,7 @@
       <img align="left" src="/image/KhudaBukhsh_Wasiur.JPG" alt="My only professional picture" width="400" hspace="20"/>
     <p float="right">My full name is Wasiur Rahman Khuda Bukhsh. I am a Postdoctoral Fellow at the <a href="https://mbi.osu.edu">Mathematical Biosciences Institute</a> at the <a href="https://www.osu.edu">Ohio State University</a>. 
     </p>
-    <p float="right">I obtained my PhD from <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</a> in Germany. My PhD advisor was <a href="http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp">Prof. Heinz Koeppl</a>. I did my Masters in Statistics (M.Stat.) from <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata, India</a>. 
+    <p float="right">I obtained my PhD (officially, Dr. rer. nat. or Doctor of natural sciences) from the Department of Electrical Engineering and Information Technology of <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</a> in Germany. My PhD advisor was <a href="http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp">Prof. Heinz Koeppl</a>. I did my Masters in Statistics (M.Stat.) from <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata, India</a>. 
     </p>
   </div>
 </div>
