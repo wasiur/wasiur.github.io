@@ -4,7 +4,7 @@ Stochastic processes on random graphs, stochastic processes limits, queueing the
 ## Publications 
 List of publications available [here](https://wasiur.github.io/Publications/).
 
-## Talks/presentations
+## Research Talks/presentations
 ### Invited 
 5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019 (upcoming)
 4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 (upcoming) 
@@ -25,5 +25,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 2. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019
 1. Algorithms and Models for Single Cell Genomics, NSF-Simons Center for Multiscale Cell Fate Research at University of California Irvine, June, 2019 
 
+
 ## Workshop/conference orgnization
 1. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
+2. Session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
