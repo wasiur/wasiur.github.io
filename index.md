@@ -33,6 +33,7 @@ Email: khudabukhsh.2 at osu.edu
     * PhD. (Dr. rer. nat.), 2014 - 2018.
     * Department of Electrical Engineering and Information Technology 
     * Advisor: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp)
+    * PhD committee: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp), [Prof. Ralf Steinmetz](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/people/staff/ralf-steinmetz/), [Prof. Frank Aurzada](https://www2.mathematik.tu-darmstadt.de/~aurzada/), [Prof. Abdelhak M. Zoubir](https://www.spg.tu-darmstadt.de/spg/staff_1/currentstaffmembers/zoubir.en.jsp), [Prof. Florian Steinke](http://www.floriansteinke.net/), [Prof. Rolf Jakoby](https://www.etit.tu-darmstadt.de/fachbereich/professoren/aktuelle_professorinnen_und_professoren/index~1_6738.en.jsp) (chairman) 
     * Thesis available [here](http://tuprints.ulb.tu-darmstadt.de/7588/).
 2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
     * M. Stat., 2009-2011.
