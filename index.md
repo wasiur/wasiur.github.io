@@ -30,7 +30,8 @@ Email: khudabukhsh.2 at osu.edu
 
 ## Education
 1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
-    * PhD., 2014 - 2018.
+    * PhD. (Dr. rer. nat.), 2014 - 2018.
+    * Department of Electrical Engineering and Information Technology 
     * Advisor: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp)
     * Thesis available [here](http://tuprints.ulb.tu-darmstadt.de/7588/).
 2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
