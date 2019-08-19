@@ -3,7 +3,7 @@
 
 ## Instructor
 1. STAT 4201 Introduction to Mathematical Statistics 1, [The Ohio State University](https://cph.osu.edu/biostatistics) 
-  * Autumn semester 2019
+   * Autumn semester 2019
 2. PUBHBIO 7193 Individual Studies in Biostatistics, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 
    * Summer semester 2019. 
 
