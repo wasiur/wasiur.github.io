@@ -1,6 +1,10 @@
+(To students at the Ohio State) Please follow your respective departmental course catalogue or the Carmen course website for more details. Syllabus, tentative schedule, announcements are regularly posted on the Carmen course website. If you have questions or if you need more information about a course, please send me an email with the name of the course in the subject line. 
+
 
 ## Instructor
-1. Biostatistics reading course, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 
+1. STAT 4201 Introduction to Mathematical Statistics 1, [The Ohio State University](https://cph.osu.edu/biostatistics) 
+  * Autumn semester 2019
+2. PUBHBIO 7193 Individual Studies in Biostatistics, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 
    * Summer semester 2019. 
 
 
