@@ -1,4 +1,4 @@
-(To students at the Ohio State) Please follow your respective departmental course catalogue or the Carmen course website for more details. Syllabus, tentative schedule, announcements are regularly posted on the Carmen course website. If you have questions or if you need more information about a course, please send me an email with the name of the course in the subject line. 
+(To students at Ohio State) Please follow your respective departmental course catalogue or the Carmen course website for more details. Syllabus, tentative schedule, announcements are regularly posted on the Carmen course website. If you have questions or if you need more information about a course, please send me an email with the name of the course in the subject line. 
 
 
 ## Instructor
