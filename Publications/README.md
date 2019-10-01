@@ -6,7 +6,9 @@
 Please send me an email if you do not have access to any of the papers. 
 
 ### Peer-reviewed publications
-11. _Wasiur R. KhudaBukhsh_, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. **Journal of Applied Probability**, September 2019. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910) [In press]
+13. Boseung Choi, Sydney Busch, Dieudonné Kazadi, Benoit Ilunga, Emile Okitolonda, Yi Dai, Robert Lumpkin, Omar Saucedo, _Wasiur R. KhudaBukhsh_, Joseph Tien, Marcel Yotebieng, Eben Kenah, Grzegorz A. Rempała. Modeling Outbreak Data: Analysis of a 2012 Ebola Virus Disease Epidemic in DRC. **BIOMATH**, 2019. (Accepted for publication) 
+12. _Wasiur R. KhudaBukhsh_, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival Dynamical Systems for the Population-level Analysis of Epidemics. **Interface Focus**, 2019. arXiv preprint: [http://arxiv.org/abs/1901.00405](http://arxiv.org/abs/1901.00405). (Accepted for publication.)
+11. _Wasiur R. KhudaBukhsh_, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. **Journal of Applied Probability**, September 2019. arXiv preprint: [http://arxiv.org/abs/1804.00910](http://arxiv.org/abs/1804.00910). [Published version](https://www.cambridge.org/core/journals/journal-of-applied-probability/article/approximate-lumpability-for-markovian-agentbased-models-using-local-symmetries/A4B603163980ECC39DAC52A2477D6412/share/2659997b475846967fe7a6536eaa9107676e1c3f)
 10. _Wasiur R. KhudaBukhsh_, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. **ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)**, 2018. [Published version](https://dl.acm.org/citation.cfm?id=3300142)
 9. Hye-Won Kang\*, _Wasiur R. KhudaBukhsh_\*, Heinz Koeppl, and Grzegorz Rempała. Quasi-Steady-State Approximations Derived from the Stochastic Model of Enzyme Kinetics. **Bulletin of Mathematical Biology**, 2019. (* joint first authors.) arXiv preprint: [https://arxiv.org/abs/1711.02791](https://arxiv.org/abs/1711.02791). [Published version](http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8S1vl37BknvB5d7EcOcm0ts-3D_udonmGlUWp3eQk6tIDTz2XK4Gf91dVKTWYA6ly5sYPZHk2-2BMGHZmIKbN0sjctZE-2Bfkced0CjkflVFIPys8cmv0PhEVWo1n6HVlvYjD0fFmudByT9ZxYv41V4bv1G3HzhLq3cQw1CXesYRBUgIBeST9tB5cnIWWtPqWp9i-2FPyKYs3mlrNKx-2F5O13oHiElXkwjtXldVER4aNoyaDprnDOX1x9fGwIdmMuJGsIia1VqfDCVpuomo0Ty3tXC4oHKUJLlMAWYLFbvJ8QXM7cwO-2FcJx6tYPnTFqvNw89WEknhVSps-3D)
 8. Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, _Wasiur R. KhudaBukhsh_, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz. Transitions: A protocol-independent view of the future internet. **Proceedings of the IEEE**, 2019. [Publisher version](https://ieeexplore.ieee.org/document/8651367)
@@ -22,7 +24,6 @@ Please send me an email if you do not have access to any of the papers.
 
 
 ### Preprints
-2. _Wasiur R. KhudaBukhsh_, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival Dynamical Systems for the Population-level Analysis of Epidemics. arXiv preprint: [http://arxiv.org/abs/1901.00405](http://arxiv.org/abs/1901.00405). (Submitted.)
 1. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
 
 
