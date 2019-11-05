@@ -13,10 +13,11 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
+8. MBI Seminar, The Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
 7. JSM 2019, Denver Colorado, USA, 2019 (upcoming) 
 6. Stochastic Processes and their Applications, USA, July 2019 (upcoming)
 5. BioMath 2019, Bedlevo, Poland, 2019 (upcoming)
-4. MBI Seminar, The Ohio State University, Columbus, OH, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+4. MBI Seminar, The Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 3. IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018
 2. IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017
 1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
