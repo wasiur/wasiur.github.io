@@ -7,6 +7,7 @@
 1. Journal of Mathematical Biology
 2. PLOS ONE
 3. IEEE Transactions on Automatic Control 
+4. IEEE Transactions on Networking
 
 
 ## On the Internet
