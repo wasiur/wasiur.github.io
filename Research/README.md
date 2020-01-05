@@ -6,8 +6,9 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited 
-5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019 (upcoming)
-4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 (upcoming) 
+6. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020 (upcoming)
+5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
+4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
 3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
 2. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
@@ -15,22 +16,23 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 ### Contributed 
 10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
 9. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
-8. MBI Seminar, The Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+8. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
 7. JSM 2019, Denver Colorado, USA, 2019 (upcoming) 
 6. Stochastic Processes and their Applications, USA, July 2019 (upcoming)
 5. BioMath 2019, Bedlevo, Poland, 2019 (upcoming)
-4. MBI Seminar, The Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+4. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 3. IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018
 2. IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017
 1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
 
 ### Poster 
+4. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 (upcoming)
 3. Infectious Disease Institute (IDI) Annual Meeting, Columbus, Ohio, USA, September 2019
 2. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019
 1. Algorithms and Models for Single Cell Genomics, NSF-Simons Center for Multiscale Cell Fate Research at University of California Irvine, June, 2019 
 
 
 ## Workshop/conference orgnization
-1. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, May 4-8, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
+3. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, May 4-8, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
 2. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
-3. Invited session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
+1. Invited session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
