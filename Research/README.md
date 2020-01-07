@@ -17,17 +17,18 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
 9. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
 8. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
-7. JSM 2019, Denver Colorado, USA, 2019 (upcoming) 
-6. Stochastic Processes and their Applications, USA, July 2019 (upcoming)
-5. BioMath 2019, Bedlevo, Poland, 2019 (upcoming)
+7. Joint Statistical Meeting (JSM) 2019, Denver Colorado, USA, 2019
+6. Stochastic Processes and their Applications, USA, July 2019
+5. BioMath 2019, Bedlevo, Poland, 2019
 4. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 3. IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018
 2. IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017
 1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
 
 ### Poster 
-4. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 (upcoming)
-3. Infectious Disease Institute (IDI) Annual Meeting, Columbus, Ohio, USA, September 2019
+5. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 (upcoming)
+4. Infectious Disease Institute (IDI) Annual Meeting, Columbus, Ohio, USA, September 2019
+3. Joint Statistical Meeting (JSM) 2019, Denver, Colorado, USA, 2019 
 2. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019
 1. Algorithms and Models for Single Cell Genomics, NSF-Simons Center for Multiscale Cell Fate Research at University of California Irvine, June, 2019 
 
