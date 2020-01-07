@@ -6,7 +6,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited 
-6. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020 (upcoming)
+6. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
 5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
 4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
 3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
@@ -14,6 +14,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
+11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020
 10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
 9. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
 8. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
@@ -26,7 +27,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
 
 ### Poster 
-5. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 (upcoming)
+5. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 
 4. Infectious Disease Institute (IDI) Annual Meeting, Columbus, Ohio, USA, September 2019
 3. Joint Statistical Meeting (JSM) 2019, Denver, Colorado, USA, 2019 
 2. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019
