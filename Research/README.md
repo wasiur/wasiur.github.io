@@ -6,7 +6,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited 
-6. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
+7. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
+6. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
 5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
 4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
 3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
