@@ -1,0 +1,733 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+%%%%%%%%%% Colours
+%\usepackage{xcolor}
+%\usepackage{xkeyval}
+%\input{tudcolours.def}
+
+
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{black}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+
+\usepackage{etaremune}
+
+
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+%\usepackage[scale=0.82]{geometry}
+\usepackage[scale=0.76]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+%\name{Wasiur}{KhudaBukhsh}
+\name{Wasiur Rahman}{Khuda Bukhsh}
+%\title{Resumé title}                               % optional, remove / comment the line if not wanted
+
+%\address{1534 Neil Avenue, Columbus Ohio 43201, USA}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+%\address{1735 Neil Avenue\\Columbus,}{Ohio 43210}{USA}
+
+\address{Mathematical Biosciences Institute\\The Ohio State University\\Jennings Hall 3rd Floor\\1735 Neil Avenue\\ Columbus, }{OH 43201, USA}
+%\phone[mobile]{+49~176~477~066~73}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+\phone[fixed]{+1-614-688-3443}
+%\phone[fax]{+49 ~6151 ~16~57~241}
+\email{khudabukhsh.2@osu.edu}
+%\email{wasiur.rahman.kb@gmail.com}                            % optional, remove / comment the line if not wanted
+\homepage{https://wasiur.github.io/}                        % optional, remove / comment the line if not wanted
+%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+%\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
+%\social[github]{wasiur}                              % optional, remove / comment the line if not wanted
+%\extrainfo{https://wasiur.github.io/}                 % optional, remove / comment the line if not wanted
+%\social[Google Scholar]{W}
+\extrainfo{\href{https://orcid.org/0000-0003-1803-0470}{orcid.org/0000-0003-1803-0470}  }
+
+%\photo[96pt][0.50pt]{KhudaBukhsh.JPG}       
+
+%\photo[104pt][0.60pt]{KhudaBukhsh.JPG}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+%\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Peer-reviewed Publications}
+
+% generic system names
+\newcommand{\sys}[1]{\textsc{#1}}
+
+% bibliography with mutiple entries
+% \usepackage{multibib}
+% \newcites{published,misc}{{Peer-reviewed Publications},{Soon-to-be Published}}
+
+\usepackage{natbib}
+\usepackage[defaultbib]{bibtopic}
+\usepackage{graphicx}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+%\section*{\textbf{Wasiur R. KhudaBukhsh}}
+
+%\makeatletter
+%\long\def\thebibliography#1{%
+%\section*{\refname}%
+%\@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}
+%	%	\settowidth{\dimen0}{\@biblabel{#1}}%
+%	%	\setlength{\dimen2}{\dimen0}%
+%	%	\addtolength{\dimen2}{\labelsep}
+%	%	\sloppy
+%	%	\clubpenalty 4000
+%	%	\@clubpenalty
+%	%	\clubpenalty
+%	%	\widowpenalty 4000
+%	%	\sfcode `\.\@m
+%	\renewcommand{\labelenumi}{\@biblabel{\theenumi}} % labels like [3], [2], [1]
+%	\begin{etaremune}[labelwidth=\dimen0,leftmargin=\dimen2]\@openbib@code
+%	}
+%	\def\endthebibliography{\end{etaremune}}
+%\def\@bibitem#1{%
+%	\item \if@filesw\immediate\write\@auxout{\string\bibcite{#1}{\the\value{enumi}}}\fi\ignorespaces
+%}
+%\makeatother
+
+
+% \section{Personal Information}
+% \cvitem{Date of birth}{15th June, 1988}
+% \cvitem{Nationality}{Indian}
+
+%\section{Personal Information}
+%\cvitem{Date of birth}{15 June, 1988}
+%\cvitem{Place of birth}{Beldanga, West Bengal, India}
+%\cvitem{Marital status}{Single}
+
+\section{Research Interests}
+Applied probability theory, asymptotic statistics, mathematical biology, data science.
+
+%
+%\section{Online Profiles}
+%\cvlistdoubleitem{\href{https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en&oi=ao}{Google Scholar link}}{\href{https://orcid.org/0000-0003-1803-0470}{ORCID orcid.org/0000-0003-1803-0470}   }
+
+%
+%\section{Research Interests}
+%\cvitem{}{Stochastic processes on random graphs, stochastic processes limits, queueing theory, large deviations, machine learning, stochastic epidemiology, stochastic modelling and simulation of chemical reaction networks.}
+
+%\section{Current Profile}
+%\cvitem{}{Research Assistant at
+%	\href{http://www.bcs.tu-darmstadt.de/biocomm/welcome/index.en.jsp}{Bioinspired Communication Systems},
+%	\href{http://www.etit.tu-darmstadt.de/fachbereich/index.de.jsp}{Department of Electrical Engineering and Information Technology}, 	\href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany since
+%	January, 2014. }
+%%Advisor: \href{http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp}{Heinz Koeppl}\\
+
+
+\section{Education}
+%\cventry{2014 -- 2018}{Ph.D., summa cum laude (with distinction)}{Department of Electrical Engineering and Information Technology, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}}{Germany}{}{Thesis: {Model reductions for queueing and agent-based systems with applications in communication networks}\\Committee: \href{http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp}{\textbf{Heinz Koeppl}} (advisor), Ralf Steinmetz, Frank Aurzada, Abdelhak M. Zoubir, Florian Steinke, Rolf Jakoby (chairman)%\newline{}
+%}  % arguments 3 to 6 can be left empty
+
+
+\cventry{2014 -- 2018}{Ph.D. (Dr. rer. nat.), summa cum laude (with distinction)}{Department of Electrical Engineering and Information Technology, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}}{Germany}{}{Thesis: {Model reductions for queueing and agent-based systems with applications in communication networks}\\ Advisor: \href{http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp}{\textbf{Heinz Koeppl}}%\newline{}
+}  % arguments 3 to 6 can be left empty
+
+\cventry{2009 -- 2011}{\href{http://www.isical.ac.in/~deanweb/brochure/mstat2010.pdf}{Master of Statistics (M.Stat.)% with specialisation in Biostatistics \& Data Analysis
+}}{\href{http://www.isical.ac.in/}{Indian Statistical Institute}}{Kolkata, India}{}{}
+
+%\cventry{2009--2011}{\href{http://www.isical.ac.in/~deanweb/brochure/mstat2010.pdf}{Master of Statistics (M.Stat.)% with specialisation in Biostatistics \& Data Analysis
+%}}{\href{http://www.isical.ac.in/}{Indian Statistical Institute}}{Kolkata, India}{}{Master thesis: {A Discussion on Simultaneous
+%		Segmentation and Inhomogeneity
+%		Correction of Magnetic Resonance (MR) Images by  Expectation Maximisation (EM)
+%		Algorithm}\\ Advisor:  \href{http://www.isical.ac.in/~pmaji/}{Dr. Pradipta Maji}\newline{}
+%	}
+%	
+	
+\cventry{2006 -- 2009}{{Bachelor of Science (B.Sc.) with Honours in Statistics}}{\href{http://www.caluniv.ac.in/}{University of Calcutta}}{Kolkata, India}{}{}
+%\cventry{2009--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}
+
+%\section{Professional Certification}
+%\cventry{2012}{Part-I of \href{http://www.garp.org/frm/frm-program.aspx}{Financial Risk Manager} (FRM)}{\href{http://www.garp.org/}{Global Association of Risk Professionals} }{}{}{(Part-II, to appear)}
+
+
+
+
+\section{Professional Experience}
+%\subsection{Academia}
+\cventry{Jan 2020 -- }{President's Postdoctoral Scholar}{\href{https://mbi.osu.edu/}{Mathematical Biosciences Institute}, \href{https://www.osu.edu/}{The Ohio State University}}{Columbus, Ohio, USA}{}{}
+
+\cventry{Oct 2018 -- Dec 2019}{Postdoctoral Researcher}{\href{https://mbi.osu.edu/}{Mathematical Biosciences Institute}, \href{https://www.osu.edu/}{The Ohio State University}}{Columbus, Ohio, USA}{}{}
+
+\cventry{Jan 2014 -- Sep 2018}{Research Associate}{\href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}}{Darmstadt, Germany}{}{ \href{http://www.etit.tu-darmstadt.de/fachbereich/index.de.jsp}{Department  of Electrical Engineering and Information Technology} %General description no longer than 1--2 lines.
+%	\newline{}%
+	%Detailed achievements:%
+	%\begin{itemize}%
+	%\item Achievement 1;
+	%\item Achievement 2, with sub-achievements:
+	%  \begin{itemize}%
+	%  \item Sub-achievement (a);
+	%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+	%    \begin{itemize}
+	%    \item Sub-sub-achievement i;
+	%    \item Sub-sub-achievement ii;
+	%    \item Sub-sub-achievement iii;
+	%    \end{itemize}
+	%  \item Sub-achievement (c);
+	%  \end{itemize}
+	%\item Achievement 3.
+	%\end{itemize}
+}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+%\subsection{Industry}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+\cventry{Jun 2011 -- Dec 2013}{Manager}{\href{http://www.icicibank.com/}{ICICI Bank}}{Mumbai, India}{}{Advanced Analytics, Business Intelligence Unit	(BIU)\newline{}
+	%General description no longer than 1--2 lines.
+	%	\newline{}%
+	%	Major projects:%Detailed achievements:%
+	%	\begin{itemize}%
+	%		\item Credit Risk:
+	%		\begin{itemize}%
+	%			\item Risk parameter calibration : PD, LGD, EAD;
+	%			\item Estimation of PD in low default portfolio;
+	%			\item Mobility metrics for rating migrations.;
+	%		\end{itemize}
+	%		\item Market Risk:
+	%		\begin{itemize}
+	%			\item Valuation of fixed income instruments;
+	%			\item Counterparty credit risk estimation;
+	%		\end{itemize}
+	%		\item Operational Risk:
+	%		\begin{itemize}
+	%			\item Estimation of Value at Risk (OpVaR) by Advanced Measurement Approach (AMA);
+	%		\end{itemize}
+	%		\item Structured Finance:
+	%		\begin{itemize}
+	%			\item Valuation of sell-down pools;
+	%		\end{itemize}
+	%		\item General Insurance:
+	%		\begin{itemize}
+	%			\item Pricing of weather insurance products;
+	%		\end{itemize}
+	%	\end{itemize}
+}
+
+
+%\cventry{2010}{Research Internship}{Central Statistical Office, Government of India}{New Delhi, India}{}{\href{http://mospi.nic.in/Mospi_New/site/home.aspx}{Ministry of Statistics and Programme Implementation}%\newline
+%%	Government of India \newline
+%	%	Contribution: \begin{itemize}
+%	%		\item \emph{``A study of divergences among NSSO estimates
+%	%			and Economic Census data on Employment''} under the guidance of Mr. Sunil Jain, DDG, CSO (ESD), \href{http://mospi.nic.in/Mospi_New/site/home.aspx}{Ministry Of Statistics and Programme Implementation}
+%	%	\end{itemize}
+%}
+
+%\cventry{2014--to date}{Research Assistant}{	\href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}}{Darmstadt}{}{General description no longer than 1--2 lines.\newline{}%
+%	Detailed achievements:%
+%	\begin{itemize}%
+%		\item Achievement 1;
+%		\item Achievement 2, with sub-achievements:
+%		\begin{itemize}%
+%			\item Sub-achievement (a);
+%			\item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+%			\begin{itemize}
+%				\item Sub-sub-achievement i;
+%				\item Sub-sub-achievement ii;
+%				\item Sub-sub-achievement iii;
+%			\end{itemize}
+%			\item Sub-achievement (c);
+%		\end{itemize}
+%		\item Achievement 3.
+%	\end{itemize}}
+%
+
+
+
+
+
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+%\section{Research Papers}
+\nocite{*}
+%\bibliographystyle{habbrvyr}
+\bibliographystyle{unsrt}
+% \bibliographystyle{plain}
+% \bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+\section{Publications}
+%Summary: 7 journal papers. 8 peer-reviewed conference proceedings. 2 submitted journal papers. 2 theses/technical notes.
+\subsection{\textbf{Peer-reviewed journal publications}}
+%\subsection{Peer-reviewed publications}
+
+\begin{btSect}{publications}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Peer-reviewed conference proceedings}}
+\begin{btSect}[unsrt]{proceedings}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+
+\subsection{\textbf{Preprints/Submitted}}
+\begin{btSect}[unsrt]{SubmittedPapers}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Manuscripts in progress}}
+\begin{btSect}[unsrt]{under_prep}
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Thesis and technical notes}}
+\begin{btSect}[unsrt]{other_publications}
+	% \btPrintNotCited
+	\btPrintAll
+\end{btSect}
+
+
+%\subsection{Under preparation}
+%\begin{btSect}[plain]{UnderPreparation}
+%% \btPrintNotCited
+%\btPrintAll
+%\end{btSect}
+
+
+
+
+% @techreport{techreport2015,
+% 	title = {{A Comprehensive Analysis of Swarming-based Live Streaming to Leverage Client Heterogeneity}},
+% 	author = {{Wasiur R. KhudaBukhsh, Julius R\"{u}ckert,  Julian Wulfheide,  David Hausheer and Heinz Koeppl}},
+% 	year = {{2015}},
+% 	institution = {{Technische Universit\"{a}t  Darmstadt, Germany}},
+% 	url={{http://www.bcs.tu-darmstadt.de/media/bcs/Technical_Report_WKB_1.pdf}}
+% }
+%
+%
+% @mastersthesis{master_thesis_wasiur,
+% 	author    = {{Wasiur R. KhudaBukhsh}},
+% 	title     = {{A Discussion on Simultaneous	Segmentation and Inhomogeneity	Correction of MR Images by EM	Algorithm}},
+% 	school    = {{Indian Statistical Institute, Calcutta}},
+%   year      = {{2011}}
+% }
+%
+
+
+%@misc{MultiColl2018,
+%	title={Strategies for multi-agent collaborative uploading},
+%	year={Under preparation},
+%	note={with Mahdi Mousavi, Sounak Kar, Bastian Alt, Amr Rizk, Anja Klein, and Heinz Koeppl}
+%}
+%
+%
+%@misc{DynMultihop2018,
+%	title={A decision framework for dynamic multi-hop wireless networks},
+%	year={Under preparation},
+%	note={with Mahdi Mousavi, Sounak Kar, Bastian Alt, Amr Rizk, Anja Klein, and Heinz Koeppl}
+%}
+
+
+
+
+% @misc{MarginalizedProcess,
+% title={Asymptotics for marginalized process dynamics with applications to chemical reaction networks},
+% year={Under preparation},
+% }
+%
+%
+%
+% @misc{LDPQueueLength2018,
+% title={Large deviations for the total queue length in a network of queues in tandem under changing environments},
+% year={Under preparation}
+% }
+%
+%
+% @misc{InfiniteServerQueues2018,
+% title={Asymptotics for  infinite-server queues with batch-arrival of multi-class customers},
+% year={Under preparation}
+% }
+
+
+% \renewcommand{\refname}{Soon-to-be-published}
+% \nocite{*}
+% \bibliography{SubmittedPapers,UnderPreparation}
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+% \section{Master Thesis}
+% \cvitem{Title}{\emph{A Discussion on Simultaneous
+% 		Segmentation and Inhomogeneity
+% 		Correction of MR Images by EM
+% 		Algorithm}}
+% \cvitem{Supervisor}{\href{http://www.isical.ac.in/~pmaji/}{\textbf{Dr. Pradipta Maji}}}
+% %\cvitem{description}{Short thesis abstract}
+%
+%
+
+
+
+\section{Awards and Funding}
+\subsection{Awards}
+\begin{enumerate}
+\item{2019 President’s Postdoctoral Scholars Program (PPSP) of the Ohio State University}
+\item{Best-in-Session Presentation Award at the IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018.}
+\end{enumerate}
+
+
+\subsection{Funding}
+\begin{enumerate}
+\item{The  German Academic Exchange Service (DAAD) travel grant (Kongressreise) to participate in the Annual Meeting of the SMB in Sydney, Australia ($\sim 2000$ EUR)}
+\end{enumerate}
+
+
+
+%
+% \section{Awards And Fellowships}
+% \subsection{Academic Awards}
+% %\cvlistitem{\href{http://www.isical.ac.in/}{Indian Statistical Institute} student fellowship (2009-2011)}
+% \cvlistitem{\href{http://www.rkmcnarendrapur.org/}{R.K.M. Residential College} student
+% 	fellowship (2004-2006, 2006-2009)}
+% \cvlistitem{All India Rank 14 in Joint Admission Test for M.Sc. (JAM) for Indian Institute of Technology (IIT), 2009 }
+% %\cvlistitem{\href{http://www.rkmcnarendrapur.org/}{R.K.M. Residential College} student
+% %	fellowship (2004-2006)}
+% \subsection{Professional Awards}
+% \cvlistitem{Awarded for ``Outstanding Contribution to Operational Risk and Market Risk'',  %by
+% %	\href{http://www.icicibank.com/aboutus/board-of-directors-chanda-kochhar.html}{Chanda Kochar},
+% %	MD \& CEO ,
+% \href{http://www.icicibank.com/}{ICICI Bank}, 2013}
+% \cvlistitem{Among top three nationwide projects in %\href{http://www.csi-india.org/web/guest/csi-awards}{CSI Awards}, 2013
+% %	under the category Application of
+% %	Business Intelligence in Banking,  conducted by
+% 	\href{http://www.csi-india.org/}{Computer Society Of India} Awards, 2013 }
+% \cvlistitem{Best Business Intelligence Project
+% 	of the Year, % by
+% %	\href{http://www.icicibank.com/aboutus/board-of-directors-chanda-kochhar.html}{Chanda Kochar},
+% %	MD \& CEO ,
+% \href{http://www.icicibank.com/}{ICICI Bank}, 2012}
+% \cvlistitem{Best Business Intelligence Project
+% 	of the Year in the category Innovation, % by
+% %	\href{http://www.icicibank.com/aboutus/board-of-directors-chanda-kochhar.html}{Chanda Kochar},
+% %	MD \& CEO ,
+% \href{http://www.icicibank.com/}{ICICI Bank}, 2012}
+% %\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+% %
+
+
+
+
+\section{Presentations}
+Summary: 7 invited and 11 contributed/seminar talks. 5 poster presentations.
+\subsection{Invited talks}
+\begin{enumerate}
+\item {Biostatistics Seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020}
+\item {Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks, CIRM, Marseille, France, February 21, 2020}
+\item {Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019}
+\item {Mini-symposium speaker at the International Conference on Mathematical Methods and Models in Biosciences (BioMath), June 2019, Poland}
+\item {BIRS-CMO workshop on ``Scaling Limits of Dynamical Processes on Random Graphs'', May 2019, Oaxaca, Mexico}
+\item {Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018}
+\item {Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University (May, 2017), Host : \href{http://web.ics.purdue.edu/~vaneet/}{Vaneet Aggarwal} }
+\end{enumerate}
+
+
+
+%\section{Invited Talk}
+\subsection{Contributed talks}
+\begin{enumerate}
+\item {Mathematical Biosciences Institute (MBI) Seminar, Columbus, Ohio, USA, March 31, 2020 \emph{(Postponed)}
+\item {International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 28, 2019}
+\item {Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019}
+\item {Mathematical Biosciences Institute (MBI) Seminar, Columbus, Ohio, USA, October, 2019}
+\item{Joint Statistical Meetings (JSM) - American Statistical Association, Colorado, USA, 2019} 
+\item{Stochastic Processes and their Applications, Bernoulli Society, Northwestern University, July 2019, USA}
+\item{International Conference on Mathematical Methods and Models in Biosciences (BioMath), June 2019, Poland}
+\item{Mathematical Biosciences Institute (MBI) Seminar, Columbus, Ohio, USA, 2019}
+\item{IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018}
+\item{IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017}
+\item{IFIP Networking Conference  and Workshops, Vienna, Austria, 2016}
+\end{enumerate}
+
+%\cvlistitem{Stochastic Processes and their Applications, Bernoulli Society, Northwestern University, July 2019, USA}
+%\cvlistitem{International Conference on Mathematical Methods and Models in Biosciences (BioMath) June 2019, Poland}
+%\cvlistitem{2019 Joint Statistical Meetings (JSM) - American Statistical Association, Colorado, USA} 
+%\cvlistitem{Mathematical Biosciences Institute (MBI) Seminar, Columbus, Ohio, USA, 2019}
+%\cvlistitem{IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018}
+%\cvlistitem{IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017}
+%\cvlistitem{IFIP Networking Conference  and Workshops, Vienna, Austria, 2016}
+
+
+%\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+
+\subsection{Poster presentations}
+\begin{enumerate}
+	\item {Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020}
+\item{Annual Meeting of the Infectious Disease Institute, The Ohio State University, September 2019, Columbus, OH, USA}
+\item{Joint Statistical Meetings (JSM) - American Statistical Association, Colorado, USA, 2019} 
+\item {CMCF Algorithms and Methods for Single Cell Genomics, University of California, Irvine, June 2019, USA}
+\item {BIRS-CMO workshop on ``Scaling Limits of Dynamical Processes on Random Graphs'', May 2019, Oaxaca, Mexico}
+\end{enumerate}
+
+\section{Teaching Experience}
+\begin{enumerate}
+\item STAT 4201: Introduction to Mathematical Statistics\\Department of Statistics, The Ohio State University, USA\\Role: Instructor\\Terms: Fall semester 2019 ($>120$ students)
+\item PUBHBIO7193: Individual studies in Biostatistics (Advanced stochastic epidemiology)\\Division of Biostatistics, The Ohio State University, USA\\Role: Instructor (jointly with Eben Kenah)\\Terms: Summer semester 2019
+\item Computational Methods for Systems and Synthetic Biology (CMSSB) \\Department of Electrical Engineering and Information Technology, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany\\Role: Teaching Assistant\\Terms: Summer semester 2016, Summer semester 2017
+\end{enumerate}
+
+%\cvlistitem{STAT 4201: Introduction to Mathematical Statistics\\Department of Statistics, The Ohio State University, USA\\Role: Instructor\\Terms: Fall semester 2019}
+%\cvlistitem{Advanced stochastic epidemiology (reading course)\\Division of Biostatistics, The Ohio State University, USA\\Role: Instructor (jointly with Eben Kenah)\\Terms: Summer semester 2019}
+%\cvlistitem{Computational Methods for Systems and Synthetic Biology (CMSSB) \\ \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany\\Role: Teaching Assistant\\Terms: Summer semester 2016, Summer semester 2017}
+
+
+% \cvlistitem{Computation Methods for Systems and Synthetic Biology (CMSSB), Summer semester 2017, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%
+
+
+
+\section{Student Supervision and Mentoring}
+Summary: (Co-) Supervised a total of 12 undergrad (B.Sc.)  and 6 M.Sc. students.%\\
+%\subsection{B.Sc. Students}
+%\begin{enumerate}
+%\item Yi Dai, 2019, Summer project (jointly with Prof. Greg Rempala and Prof. Eben Kenah), The Ohio State University, USA 
+%\item Jordan Kirsch, 2019, Summer project (jointly with Prof. Greg Rempala and Prof. Eben Kenah), The Ohio State University, USA
+%\item Vikash Vikash, 2016, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany%\\(Currently at Princeton University, NJ, USA)
+%\item Simon Schwanz, 2016, Proseminar, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+%\item Simon Schwanz, 2017, Project seminar (jointly with Christian Koch), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+%\item Siddhaarth Sarkar, 2018, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+%\end{enumerate}
+%
+%\cvlistitem{Vikash Vikash, 2016, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany%\\(Currently at Princeton University, NJ, USA)
+%}
+%\cvlistitem{Simon Schwanz, 2016, Proseminar, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany }
+%\cvlistitem{Simon Schwanz, 2017, Project seminar (jointly with Christian Koch), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%\cvlistitem{Siddhaarth Sarkar, 2018, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany%\\(Currently at Princeton University, NJ, USA)
+%}
+%M.Sc. students:
+\subsection{M.Sc. Students}
+\begin{enumerate}
+\item Robert Lumpkin, 2019, Master degree project (jointly with Prof. Greg Rempala), Department of Mathematics, The Ohio State University, USA (\emph{resulted in the publication \cite{biomath2019}})
+\item Arnab Auddy, 2017, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany (\emph{resulted in the publication \cite{KhudaBukhsh2018Lumpability}})
+\item Markus Schanz, 2017, Master thesis (jointly with Christian Koch), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+\item Hameer Abbasi, 2017, Master thesis (jointly with Bastian Alt), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+\item Ranjani Krishnan, 2018, Master thesis (jointly with Denny Stohr), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany
+\item Sayantan Kumar, 2018, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany (\emph{manuscript to be submitted for publication})
+\end{enumerate}
+
+%\cvlistitem{Arnab Auddy, 2017, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany }
+%\cvlistitem{Markus Schanz, 2017, Master thesis (jointly with Christian Koch), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%\cvlistitem{Hameer Abbasi, 2017, Master thesis (jointly with Bastian Alt), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%\cvlistitem{Ranjani Krishnan, 2018, Master thesis (jointly with Denny Stohr), \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%\cvlistitem{Sayantan Kumar, 2018, Summer internship, \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany}
+%
+
+
+
+
+\section{Outreach and Service}
+\subsection{Organizing conferences}
+\begin{enumerate}
+	\item {Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, January 5-8, 2021 (pending acceptance. Jointly with Gursharn Kaur)}
+	\item {Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, May 4-8, 2020 (jointly with Veronica Ciaconel) \emph{Postponed} }
+\item {Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with Hye-Won Kang)}
+\item {Session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with Arindam Fadikar)
+}
+\end{enumerate}
+
+
+\subsection{Tutorials}
+\begin{enumerate}
+\item {"How to write scientific papers" for MBI REU students, 2019}
+\item {"Introduction to epidemic modelling" for SAMMS REU students, 2019}
+\end{enumerate}
+
+\subsection{Mentoring REUs}
+\begin{enumerate}
+\item{MBI REUs, Summer 2019}
+\item{Ohio 5 SURE students at the College of Public Health, OSU, 2019}
+\end{enumerate}
+
+
+\subsection{Reviewer}
+\begin{enumerate}
+\item {\href{http://msc2015.ieeecss.org/}{IEEE Multi-Conference on Systems and Control}, Sydney, Australia, 2015}
+\item {Journal of Mathematical Biology}
+\item {IEEE Transactions on Automatic Control}
+\item {IEEE Transactions on Networking}
+  \item {IEEE Transactions on Control of Network Systems}
+\item {PLOS One}
+\item American Control Conference (ACC)
+\end{enumerate}
+
+
+\subsection{Other Services}
+\begin{enumerate}
+\item{Judge for the OSU Mathematical Contest for Modeling, 2018, 2019}
+\item {Judge for OPA travel awards, the Ohio State University, 2019}
+\end{enumerate}
+
+\subsection{Professional Memberships}
+\begin{enumerate}
+\item {Society for Industrial and Applied Mathematics (SIAM)}
+\item {Bernoulli Society for Mathematical Statistics and Probability}
+\item{The Society for Mathematical Biology (SMB)}
+\item{American Statistical Association (ASA)}
+\item {American Association for the Advancement of Science (AAAS)}
+\end{enumerate}
+
+
+
+%\section{Research Visits}
+%\begin{enumerate}
+%\item The Mathematical Biosciences Institute, The Ohio State University \\ Host : \href{https://neyman.mbi.ohio-state.edu/}{Grzegorz~A.~Rempa{\l}a}\\ Visit periods: June, 2016; February-March, 2017; May, 2017
+%\end{enumerate}
+
+
+%\cvlistitem{The Mathematical Biosciences Institute, The Ohio State University \\ Host : \href{https://neyman.mbi.ohio-state.edu/}{Grzegorz~A.~Rempa{\l}a}\\ Visit periods: June, 2016; February-March, 2017; May, 2017}
+% \cvlistitem{The Mathematical Biosciences Institute, The Ohio State University (February-March, 2017)\\ Host : \href{https://neyman.mbi.ohio-state.edu/}{Grzegorz~A.~Rempa{\l}a} }
+% \cvlistitem{The Mathematical Biosciences Institute, The Ohio State University (May, 2017)\\ Host : \href{https://neyman.mbi.ohio-state.edu/}{Grzegorz~A.~Rempa{\l}a} }
+
+
+
+%\section{Research}
+%\cvlistitem{Item 1}
+%\cvlistitem{Item 2}
+%\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+
+%
+% \section{Invited Talk}
+% \cvlistitem{Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University (May, 2017)\\ Host : \href{http://web.ics.purdue.edu/~vaneet/}{Vaneet Aggarwal} }
+%
+% \section{Conferences}
+% \cvlistitem{International Conference on Autonomous Agents \& Multiagent Systems (AAMAS), Paris, France, 2014}
+% \cvlistitem{European Agent Systems Summer School (EASSS), Chania, Greece, 2014}
+% \cvlistitem{Foundations and Advances in Stochastic Filtering (FASF), Barcelona, Spain, 2015}
+% \cvlistitem{US - Canadian Institutes Epidemiology Summer School, Columbus, OH, USA, 2016}
+% \cvlistitem{IFIP Networking Conference  and Workshops, Vienna, Austria, 2016}
+% \cvlistitem{IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017}
+% %\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+%
+
+%\section{Extra 2}
+%\cvlistdoubleitem{Item 1}{Item 4}
+%\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
+%\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+
+%
+%\section{Professional Memberships}
+%\cvlistitem{Society for Industrial and Applied Mathematics (SIAM)}
+%\cvlistitem{The Society for Mathematical Biology (SMB)}
+%\cvlistitem{American Statistical Association (ASA)}
+%\cvlistitem{The Institute of Electrical and Electronics Engineers (IEEE)}
+%\cvlistitem{Verband der Elektrotechnik, Elektronik und Informationstechnik (VDE)}
+%
+%
+%\section{Professional Services}
+%\subsection{Reviewer}
+%\cvlistitem{\href{http://msc2015.ieeecss.org/}{IEEE Multi-Conference on Systems and Control}, Sydney, Australia, 2015}
+%\cvlistitem{Journal of Mathematical Biology}
+%\cvlistitem{IEEE Transactions on Automatic Control}
+%\cvlistitem{PLOS One}
+%
+%\subsection{Other Services}
+%\cvlistitem{Judge for the OSU Mathematical Contest for Modeling}
+
+\section{Computer Skills}
+\cvitem{Programming Languages}{C, R, Python, SQL, Julia }
+\cvitem{Software}{Matlab, SAS, Microsoft Office, \LaTeX}
+
+\section{Languages}
+\cvitemwithcomment{English}{Professional Proficiency}{}
+\cvitemwithcomment{Bengali}{Mother Tongue}{}
+\cvitemwithcomment{Hindi }{Working Knowledge}{}
+\cvitemwithcomment{German}{Intermediate (B1 level)}{}
+
+\section{References}
+Available upon request. 
+
+%\section{Conferences}
+%\cvlistitem{Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018}
+%\cvlistitem{IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018}
+%\cvlistitem{Spring school  on ``Spin Systems: Discrete and Continuous '', \href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt}, Germany, 2018}
+%\cvlistitem{IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017}
+%\cvlistitem{The Mathematical Biosciences Institute Emphasis Workshop on ``Modelling of Tissue Growth and Form'', Columbus, OH, USA, 2017}
+%\cvlistitem{IFIP Networking Conference  and Workshops, Vienna, Austria, 2016}
+%\cvlistitem{US - Canadian Institutes Epidemiology Summer School, Columbus, OH, USA, 2016}
+%\cvlistitem{Foundations and Advances in Stochastic Filtering (FASF), Barcelona, Spain, 2015}
+%\cvlistitem{European Agent Systems Summer School (EASSS), Chania, Greece, 2014}
+%\cvlistitem{International Conference on Autonomous Agents \& Multiagent Systems (AAMAS), Paris, France, 2014}
+
+
+
+
+
+
+%\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
+%\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+%
+%\section{Interests}
+%\cvitem{hobby 1}{Description}
+%\cvitem{hobby 2}{Description}
+% \cvitem{hobby 3}{Description}
+
+%\section{References}
+%\cvlistitem{\href{http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp}{\textbf{Dr.~Heinz Koeppl}} \newline{}
+%	Professor,
+%	\href{http://www.bcs.tu-darmstadt.de/biocomm/welcome/index.en.jsp}{Bioinspired Communication Systems}, \newline{}
+%	\href{http://www.etit.tu-darmstadt.de/fachbereich/index.de.jsp}{Department of Electrical Engineering and Information Technology}, \newline{}	\href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt} \newline{}
+%	Email:\href{mailto:heinz.koeppl@bcs.tu-darmstadt.de}{heinz.koeppl@bcs.tu-darmstadt.de} }
+%
+%	\cvlistitem{ \href{https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/people/staff/ralf-steinmetz/?no_cache=1}{\textbf{Dr.~Ralf~Steinmetz}} \newline{}
+%	Professor,
+%	\href{https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/}{Multimedia Communications Lab},\newline{}
+%	\href{http://www.etit.tu-darmstadt.de/fachbereich/index.de.jsp}{Department of Electrical Engineering and Information Technology}, \newline{}	\href{http://www.tu-darmstadt.de/index.en.jsp}{Technische Universit\"{a}t Darmstadt} \newline{}
+%	Email:\href{mailto:ralf.steinmetz@kom.tu-darmstadt.de}{ralf.steinmetz@kom.tu-darmstadt.de} }
+%
+%\cvlistitem{ \href{https://neyman.mbi.ohio-state.edu/}{\textbf{Dr.~Grzegorz~A.~Rempa{\l}a}} \newline{}
+%	Director,
+%	{Mathematical Biosciences Institute},
+%	 \newline{}
+%	 Professor,
+%	 Department of Mathematics, \newline{}
+%	 {The Ohio State University} \newline{}
+%	Email:\href{mailto:rempala.3@osu.edu}{rempala.3@osu.edu}   }
+%
+%
+%\cvlistitem{ {\textbf{Dr.~Hye-Won~Kang}} \newline{}
+%	Assistant Professor,
+%	{Department of Mathematics and Statistics}, \newline{}
+%	{University of Maryland, Baltimore County} \newline{}
+%	Email:\href{mailto:hwkang@umbc.edu}{hwkang@umbc.edu} }
+%
+
+\date{}
+\clearpage
+
+
+\end{document}
+
+
+%% end of file `template.tex'.
