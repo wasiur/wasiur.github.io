@@ -1,5 +1,5 @@
 ## News
-1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. Details on session 1 [here](https://wasiur.github.io/Miscellanea/MDS2020MS10.md) and session 2 [here](https://wasiur.github.io/Miscellanea/MDS2020MS10.md).
+1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. Details on session 1 [here](https://wasiur.github.io/MDS2020MS10/README.md) and session 2 [here](https://wasiur.github.io/MDS2020MS10/READMDE.md).
 1. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
 2. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
