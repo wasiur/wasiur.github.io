@@ -15,7 +15,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
-11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020
+12. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](Mathematical and Computational Methods in Biology))
+11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020 (postponed)
 10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
 9. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
 8. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
