@@ -117,3 +117,14 @@
 	padding-left: 10%;
 	padding-right: 10%;
 }
+
+
+.crop {
+ height: 200px;
+ width: 150px;
+ overflow: hidden;
+}
+.crop img {
+ height: 200px;
+ width: auto;
+}
