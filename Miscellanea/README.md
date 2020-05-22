@@ -1,7 +1,5 @@
 ## News
-1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). 
-
-It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
+1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
 
 2. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
 3. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
