@@ -37,6 +37,6 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 
 ## Workshop/conference orgnization
-3. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, May 4-8, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
+3. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, June 11, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
 2. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
 1. Invited session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
