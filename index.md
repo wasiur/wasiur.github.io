@@ -25,7 +25,7 @@ Columbus, Ohio 43210, USA
 Email: khudabukhsh.2 at osu.edu
 
 ## External links
-| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [Twitter](https://twitter.com/wasiur_rahman) | [GitHub](https://github.com/wasiur) |
+| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [Twitter](https://twitter.com/wasiur_rahman) | [GitHub](https://github.com/wasiur) | [publons](https://publons.com/researcher/3228507/wasiur-r-khudabukhsh) |
 
 
 ## Education
