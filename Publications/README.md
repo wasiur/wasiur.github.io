@@ -26,6 +26,7 @@ Please send me an email if you do not have access to any of the papers.
 
 ### Preprints
 1. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
+2. _Wasiur R. KhudaBukhsh_, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. arXiv preprint: [https://arxiv.org/abs/2007.00577](https://arxiv.org/abs/2007.00577) (Under review.)
 
 
 ### Theses and technical notes
