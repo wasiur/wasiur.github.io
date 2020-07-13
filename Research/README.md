@@ -7,15 +7,15 @@ I am an applied mathematician interested in problems arising from biology, physi
 
 A lot of what I work on has to do with large random graphs (networks). A convenient choice of a random graph is the configuration model, which allows prescribed degrees (the number of connections). You just pair the edges uniformly at random to generate the graph! I like to consider processes that run _on_ the graph (e.g., spread of disease/virus, information) and ponder what would happen when the graph grows bigger and bigger. If I can figure out the limit, I like to use it to do statistical inference. Turns out _Dynamic Survival Analysis (DSA)_ is a cool way to do that! Cool because it allows you to extract probability distributions out of dynamical systems and do parameter inference based on a random sample of observations! 
 
-<p align="center"><img src="cm_construction.gif" width=50% align="center"></p>
+<p align="center"><img src="https://github.com/wasiur/wasiur/blob/master/cm_construction.gif" width=50% align="center"></p>
 
 <p align="center">Conctruction of a configuration model random graph.</p>
 
-<p align="center"><img src="cm_graphs.gif" width=50% align="center"></p>
+<p align="center"><img src="https://github.com/wasiur/wasiur/blob/master/cm_graphs.gif" width=50% align="center"></p>
 
 <p align="center">Sequence of growing configuration model random graphs with a Poisson degree distribution.</p>
 
-<p align="center"><img src="sentinel.gif" width=50% align="center"></p>
+<p align="center"><img src="https://github.com/wasiur/wasiur/blob/master/sentinel.gif" width=50% align="center"></p>
 
 <p align="center">Dynamic Survival Analysis allows parameter inference based on a random sample of observations! Check out a Python implementation <a href="https://github.com/wasiur/dynamic_survival_analysis">here</a>.</p>
 
