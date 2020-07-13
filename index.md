@@ -1,7 +1,7 @@
 <h2>Welcome to my homepage!</h2>
 <div class="row">
   <div class="col">
-      <img align="left" src="/image/KhudaBukhsh_Wasiur.JPG" alt="My only professional picture" width="400" hspace="20"/>
+      <img align="left" src="/image/KhudaBukhsh_Wasiur.JPG" alt="My only professional picture" width="325" hspace="20"/>
     <p float="right">My full name is Wasiur Rahman Khuda Bukhsh. I am a President's Postdoctoral Scholar at the <a href="https://mbi.osu.edu">Mathematical Biosciences Institute</a> at the <a href="https://www.osu.edu">Ohio State University</a>. 
     </p>
     <p float="right">I obtained my PhD (officially, Dr. rer. nat. or Doctor of natural sciences) from the Department of Electrical Engineering and Information Technology of <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</a> in Germany. My PhD advisor was <a href="http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp">Prof. Heinz Koeppl</a>. I did my Masters in Statistics (M.Stat.) from <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata, India</a>. 
@@ -11,9 +11,29 @@
 
 
 [1]: /image/KhudaBukhsh_Wasiur.JPG
+<br>
+
+<h2>What do I work on?</h2>
+<div class="row">
+  I am an applied mathematician interested in problems arising from biology, physics, computer science and engineering disciplines. To be more specific, I am interesed in limit theorems in probability theory and statistical inference with applications in chemical reaction networks, infectious disease epidemiology, communication networks. 
 
 
-I am broadly interested in applications of probability theory and statistics to problems arising from epidemiology, biology, statistical physics, computer science, and engineering disciplines. 
+A lot of what I work on has to do with large random graphs (networks). A convenient choice of a random graph is the configuration model, which allows prescribed degrees (the number of connections). You just pair the edges uniformly at random to generate the graph! I like to consider processes that run _on_ the graph (e.g., spread of disease/virus, information) and ponder what would happen when the graph grows bigger and bigger. If I can figure out the limit, I like to use it to do statistical inference. Turns out _Dynamic Survival Analysis (DSA)_ is a cool way to do that! Cool because it allows you to extract probability distributions out of dynamical systems and do parameter inference based on a random sample of observations! 
+
+<p align="center"><img src="Research/cm_construction.gif" width=50% align="center"></p>
+
+<p align="center">Conctruction of a configuration model random graph.</p>
+
+<p align="center"><img src="Research/cm_graphs.gif" width=50% align="center"></p>
+
+<p align="center">Sequence of growing configuration model random graphs with a Poisson degree distribution.</p>
+
+<p align="center"><img src="Research/sentinel.gif" width=50% align="center"></p>
+
+<p align="center">Dynamic Survival Analysis allows parameter inference based on a random sample of observations! Check out a Python implementation <a href="https://github.com/wasiur/dynamic_survival_analysis">here</a>.</p>
+
+  </div>
+
 
 
 
