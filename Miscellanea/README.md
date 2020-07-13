@@ -1,15 +1,20 @@
 ## News
-1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
+1. The [Infectitious Diseases Institute](https://idi.osu.edu/) did a nice story a while ago. Read it [here](https://idi.osu.edu/news-articles/far-from-trivial).
+2. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
 
-2. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
-3. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
+3. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
+4. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
 ## Professional Service
 ### Referee
 1. Journal of Mathematical Biology
 2. PLOS ONE
-3. IEEE Transactions on Automatic Control 
-4. IEEE Transactions on Networking
+3. Journal of Chemical Physics
+4. Journal of Mathematics in Industry 
+5. IEEE Transactions on Automatic Control 
+6. IEEE Transactions on Networking
+7. IEEE Transactions on Control of Network Systems 
+8. Journal of Scientific Research
 
 
 ## On the Internet
