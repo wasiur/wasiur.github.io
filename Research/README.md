@@ -6,11 +6,11 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-12. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020
-11. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020
-10. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
-9. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
-8. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020
+12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020
+11. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+10. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
+9. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
 8. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
 7. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
 6. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
