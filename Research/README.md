@@ -11,6 +11,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 10. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
 9. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
 8. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+8. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
 7. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
 6. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
 5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
@@ -20,7 +21,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
-14. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020
+14. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
 13. Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
 12. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
 11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020 (postponed)
