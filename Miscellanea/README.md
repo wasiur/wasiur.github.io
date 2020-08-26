@@ -11,6 +11,18 @@ Other news
 2. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
 3. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
+
+## Videos of my talks
+Links to some of my talks:
+1. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
+2. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+3. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+4. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
+5. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+6. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
+7. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+
+
 ## Professional Service
 ### Referee
 1. Journal of Mathematical Biology
@@ -23,7 +35,7 @@ Other news
 8. Journal of Scientific Research
 
 
-## On the Internet
+## Good things on the Internet
 1. [Gateway to the beautiful world of Rabindranath Tagore](http://www.tagoreweb.in)
 2. [Terry Tao's blog](https://terrytao.wordpress.com)
 3. [Manjunath Krishnapur's suggested list of books every probability graduate student should read](http://math.iisc.ernet.in/~manju/suggestedreading.html)
