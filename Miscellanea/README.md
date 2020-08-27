@@ -2,7 +2,7 @@
 The OSU/IDI COVID-19 response modeling team received much appreciation. I am fortunate to have contributed to this effort. Here are some highlights: 
 1. OSC news: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans)
 2. HPC Wire: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.hpcwire.com/off-the-wire/pandemic-modeling-covid-19-projection-models-equip-ohioans/)
-3. The [Infectious Diseases Institute](https://idi.osu.edu/) did a nice story a while ago. Read it [here](https://idi.osu.edu/news-articles/far-from-trivial).
+3. The [Infectious Diseases Institute](https://idi.osu.edu/) did a nice story a while ago: [FAR FROM TRIVIAL: A POSTDOCTORAL RESEARCHER’S PATH TO A KEY POSITION ON THE OSU/IDI COVID-19 MODELING RESPONSE TEAM](https://idi.osu.edu/news-articles/far-from-trivial).
 4. Many thanks to the STEAM Factiory for the spotlight: [STEAM Member Spotlight - Dr. Wasiur Rahman KhudaBukhsh](https://www.youtube.com/watch?v=j_DEgauzw7w)
 
 Other news
