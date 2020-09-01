@@ -6,7 +6,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020
+14. Special session at the Joint Mathematics Meetings(JMM), virtual, January 6-9, 2021 (upcoming)
+13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 (upcoming)
 12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020
 11. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
 10. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
@@ -21,8 +22,9 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
-14. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
-13. Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
+15. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
+14. Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
+13. Joint Statistical Meetings 2020, virtual, August 2-6, 2020
 12. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
 11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020 (postponed)
 10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
