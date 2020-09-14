@@ -8,7 +8,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 ### Invited
 14. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 (upcoming)
 13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 (upcoming)
-12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020
+13. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 (upcoming)
+12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 (upcoming)
 11. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
 10. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
 9. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
