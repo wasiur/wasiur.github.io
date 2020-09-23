@@ -25,14 +25,18 @@ Links to some of my talks:
 
 ## Professional Service
 ### Referee
-1. Journal of Mathematical Biology
-2. PLOS ONE
-3. Journal of Chemical Physics
-4. Journal of Mathematics in Industry 
-5. IEEE Transactions on Automatic Control 
-6. IEEE Transactions on Networking
-7. IEEE Transactions on Control of Network Systems 
-8. Journal of Scientific Research
+1. Bulletin of Mathematical Biology 
+2. Stochastic Processes and their Applications
+3. Journal of Mathematical Biology
+4. PLOS ONE
+5. Journal of Chemical Physics
+6. Journal of Mathematics in Industry 
+7. Journal of Mathematical Analysis and Applications
+8. IEEE Transactions on Automatic Control 
+9. IEEE Transactions on Networking
+10. IEEE Transactions on Control of Network Systems 
+11. Journal of Scientific Research
+12. IEEE Control Systems Letters
 
 
 ## Good things on the Internet
