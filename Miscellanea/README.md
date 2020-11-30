@@ -35,10 +35,11 @@ Links to some of my talks:
 7. Journal of Mathematics in Industry 
 8. Journal of Mathematical Analysis and Applications
 9. IEEE Transactions on Automatic Control 
-10. IEEE Transactions on Networking
-11. IEEE Transactions on Control of Network Systems 
-12. Journal of Scientific Research
-13. IEEE Control Systems Letters
+10. IEEE Control System Letters
+11. IEEE Transactions on Networking
+12. IEEE Transactions on Control of Network Systems 
+13. Journal of Scientific Research
+
 
 
 ## Good things on the Internet
