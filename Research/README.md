@@ -6,7 +6,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-16. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 (upcoming)
+17. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 (upcoming)
+16. IDI Virtual COVID-19 Symposium, December 3, 2020 
 15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
 14. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
 13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
