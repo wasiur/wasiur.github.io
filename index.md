@@ -10,7 +10,7 @@
 </div>
 
 
-[1]: /image/KhudaBukhsh_Wasiur.JPG
+[1]: /image/KhudaBukhsh_OSU_2.JPG
 <br>
 
 
