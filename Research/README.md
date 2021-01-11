@@ -6,7 +6,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-17. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 (upcoming)
+17. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
 16. IDI Virtual COVID-19 Symposium, December 3, 2020 
 15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
 14. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
@@ -26,7 +26,8 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
-16. Applied Math seminar, The Ohio State University, November 19, 2020 (upcoming)
+17. MBI Seminar, The Ohio State University, March 4, 2021
+16. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/lxW9R2SdV52LP-9aTimzNINB4BDoVW4wjVIgAgNe6TENW_Y-iVbUm7_b5zsHpVGu-1aS2mtCbVNRe59F.x-Qo0ghxSn8zDgkk?continueMode=true))
 15. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
 14. Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
 13. Joint Statistical Meetings 2020, virtual, August 2-6, 2020
