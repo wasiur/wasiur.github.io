@@ -27,7 +27,7 @@ Please send me an email if you do not have access to any of the papers.
 
 ### Preprints
 1. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
-2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. (Submitted)
+2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
 
 
 ### Theses and technical notes
