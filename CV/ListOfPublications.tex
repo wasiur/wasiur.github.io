@@ -1,0 +1,49 @@
+\documentclass[11pt]{scrartcl}
+% character encoding
+\usepackage[utf8]{inputenc}  
+\usepackage{natbib}
+\usepackage[defaultbib]{bibtopic}
+
+\title{List of Publications}
+
+\begin{document}
+\maketitle
+\nocite{*}
+\bibliographystyle{unsrt}
+
+\section{Publications}
+%Summary: 7 journal papers. 8 peer-reviewed conference proceedings. 2 submitted journal papers. 2 theses/technical notes.
+\subsection{\textbf{Peer-reviewed journal publications}}
+%\subsection{Peer-reviewed publications}
+
+\begin{btSect}{publications}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Peer-reviewed conference proceedings}}
+\begin{btSect}[unsrt]{proceedings}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+
+\subsection{\textbf{Preprints/Submitted}}
+\begin{btSect}[unsrt]{SubmittedPapers}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Manuscripts in progress}}
+\begin{btSect}[unsrt]{under_prep}
+\btPrintAll
+\end{btSect}
+
+\subsection{\textbf{Thesis and technical notes}}
+\begin{btSect}[unsrt]{other_publications}
+	% \btPrintNotCited
+	\btPrintAll
+\end{btSect}
+
+
+\end{document}
