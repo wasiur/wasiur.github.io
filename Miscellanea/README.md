@@ -6,10 +6,11 @@ The OSU/IDI COVID-19 response modeling team received much appreciation. I am for
 4. Many thanks to the STEAM Factiory for the spotlight: [STEAM Member Spotlight - Dr. Wasiur Rahman KhudaBukhsh](https://www.youtube.com/watch?v=j_DEgauzw7w)
 
 Other news
-1. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
+1. The Dynamical Systems Web: Student Feature of the January 2021 issue of the journal [here](https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh)
+2. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
 
-2. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
-3. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
+3. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
+4. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
 
 ## Videos of my talks
