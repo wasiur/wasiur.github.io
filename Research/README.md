@@ -6,6 +6,7 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 ## Research Talks/presentations
 ### Invited
+18. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
 17. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
 16. IDI Virtual COVID-19 Symposium, December 3, 2020 
 15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
@@ -26,6 +27,9 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
+20. Annual Meeting of the Society for Mathematical Biology, June 13-17, 2021
+19. The SIAM Conference on Applications of Dynamical Systems (DS21), May 23-27, 2021
+18. ENAR Spring Meeting, March 14-17, 2021 
 17. MBI Seminar, The Ohio State University, March 4, 2021
 16. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/lxW9R2SdV52LP-9aTimzNINB4BDoVW4wjVIgAgNe6TENW_Y-iVbUm7_b5zsHpVGu-1aS2mtCbVNRe59F.x-Qo0ghxSn8zDgkk?continueMode=true))
 15. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
@@ -53,6 +57,14 @@ List of publications available [here](https://wasiur.github.io/Publications/).
 
 
 ## Workshop/conference orgnization
+9. Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, 2022 (pending
+acceptance. Jointly with Gursharn Kaur)
+8. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del
+Valle, Joel C. Miller and Rick Durrett)
+7. Mini-symposium at the SIAM Conference on Applications of Dynamical Systems, 2021
+6. Mini-symposium at the Annual Meeting of the Society for Mathematical Biology, 2021 (Jointly
+with Hye-Won Kang)
+5. Invited session at the Annual Meeting of the ENAR, 2021 (jointly with Marissa Renardy)
 4. Mini-symposium at the Annual Meeting of the SMB, virtual, August 19, 2020 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
 3. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, June 11, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
 2. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
