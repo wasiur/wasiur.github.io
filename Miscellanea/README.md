@@ -34,13 +34,14 @@ Links to some of my talks:
 4. Journal of Mathematical Biology
 5. PLOS ONE
 6. Journal of Chemical Physics
-7. Journal of Mathematics in Industry 
-8. Journal of Mathematical Analysis and Applications
-9. IEEE Transactions on Automatic Control 
-10. IEEE Control System Letters
-11. IEEE Transactions on Networking
-12. IEEE Transactions on Control of Network Systems 
-13. Journal of Scientific Research
+7. Journal of Mathematical Physics
+8. Journal of Mathematics in Industry 
+9. Journal of Mathematical Analysis and Applications
+10. IEEE Transactions on Automatic Control 
+11. IEEE Control System Letters
+12. IEEE Transactions on Networking
+13. IEEE Transactions on Control of Network Systems 
+14. Journal of Scientific Research
 
 
 
