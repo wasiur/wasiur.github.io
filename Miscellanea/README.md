@@ -21,9 +21,9 @@ Links to some of my talks:
 4. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
 5. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
 6. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
-7. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+7. MBI Seminar, the Ohio State University, Columbus, OH, October 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
 8. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-9. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+9. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 
 
 ## Professional Service
@@ -34,14 +34,15 @@ Links to some of my talks:
 4. Journal of Mathematical Biology
 5. PLOS ONE
 6. Journal of Chemical Physics
-7. Journal of Mathematical Physics
-8. Journal of Mathematics in Industry 
-9. Journal of Mathematical Analysis and Applications
-10. IEEE Transactions on Automatic Control 
-11. IEEE Control System Letters
-12. IEEE Transactions on Networking
-13. IEEE Transactions on Control of Network Systems 
-14. Journal of Scientific Research
+7. Mathematical Biosciences and Engineering
+8. Journal of Mathematical Physics
+9. Journal of Mathematics in Industry 
+10. Journal of Mathematical Analysis and Applications
+11. IEEE Transactions on Automatic Control 
+12. IEEE Control System Letters
+13. IEEE Transactions on Networking
+14. IEEE Transactions on Control of Network Systems 
+15. Journal of Scientific Research
 
 
 

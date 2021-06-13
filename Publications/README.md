@@ -3,7 +3,7 @@
 
 ## Publications
 
-Please send me an email if you do not have access to any of the papers. 
+Please email me if you do not have access to any of the papers. 
 
 ### Peer-reviewed publications
 15. _Wasiur R. KhudaBukhsh_\*, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. **Physical Biology**. arXiv preprint: [https://arxiv.org/abs/2007.00577](https://arxiv.org/abs/2007.00577). [Published version](https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta) (Accepted. \*Invited paper)
@@ -28,7 +28,8 @@ Please send me an email if you do not have access to any of the papers.
 ### Preprints
 1. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
 2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
-3. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Submitted)
+3. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Minor revision requested)
+4. Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. 2021.
 
 
 ### Theses and technical notes
