@@ -15,14 +15,15 @@ Other news
 
 ## Videos of my talks
 Links to some of my talks:
-1. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/2iPfFM3_IaHFqR60fEvU7ayKlBHGqB3sHlFR-Jg3d-dDGe5YvzJU6M-Qg68rgOEifB4UCqsqMexgipsI.6B9cnyJ3tF68FDBe?continueMode=true&_x_zm_rtaid=IB51NW9ZSQKVgUeNERKl_A.1605919160335.1d94c515f74c3752d2f87313c78b8d52&_x_zm_rhtaid=863))
-2. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
-3. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
-4. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
-5. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
-6. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
-7. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-8. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+1. MBI Seminar, The Ohio State University, March 4, 2021 (video available [here](https://osu.app.box.com/s/jme1t6duhshft6hpqg2q1v14b0rv2js7))
+2. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/2iPfFM3_IaHFqR60fEvU7ayKlBHGqB3sHlFR-Jg3d-dDGe5YvzJU6M-Qg68rgOEifB4UCqsqMexgipsI.6B9cnyJ3tF68FDBe?continueMode=true&_x_zm_rtaid=IB51NW9ZSQKVgUeNERKl_A.1605919160335.1d94c515f74c3752d2f87313c78b8d52&_x_zm_rhtaid=863))
+3. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
+4. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+5. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+6. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
+7. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+8. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
+9. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 
 
 ## Professional Service
@@ -33,13 +34,14 @@ Links to some of my talks:
 4. Journal of Mathematical Biology
 5. PLOS ONE
 6. Journal of Chemical Physics
-7. Journal of Mathematics in Industry 
-8. Journal of Mathematical Analysis and Applications
-9. IEEE Transactions on Automatic Control 
-10. IEEE Control System Letters
-11. IEEE Transactions on Networking
-12. IEEE Transactions on Control of Network Systems 
-13. Journal of Scientific Research
+7. Journal of Mathematical Physics
+8. Journal of Mathematics in Industry 
+9. Journal of Mathematical Analysis and Applications
+10. IEEE Transactions on Automatic Control 
+11. IEEE Control System Letters
+12. IEEE Transactions on Networking
+13. IEEE Transactions on Control of Network Systems 
+14. Journal of Scientific Research
 
 
 
