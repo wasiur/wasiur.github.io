@@ -31,18 +31,20 @@ Links to some of my talks:
 1. Journal of Applied Probability/Advances in Applied Probability (Applied Probability Trust)
 2. Bulletin of Mathematical Biology 
 3. Stochastic Processes and their Applications
-4. Journal of Mathematical Biology
-5. PLOS ONE
-6. Journal of Chemical Physics
-7. Mathematical Biosciences and Engineering
-8. Journal of Mathematical Physics
-9. Journal of Mathematics in Industry 
-10. Journal of Mathematical Analysis and Applications
-11. IEEE Transactions on Automatic Control 
-12. IEEE Control System Letters
-13. IEEE Transactions on Networking
-14. IEEE Transactions on Control of Network Systems 
-15. Journal of Scientific Research
+4. Stochastics (Taylor & Francis)
+5. Journal of Mathematical Biology
+6. PLOS ONE
+7. Journal of Chemical Physics
+8. Mathematical Biosciences and Engineering
+9. European Journal of Control
+10. Journal of Mathematical Physics
+11. Journal of Mathematics in Industry 
+12. Journal of Mathematical Analysis and Applications
+13. IEEE Transactions on Automatic Control 
+14. IEEE Control System Letters
+15. IEEE Transactions on Networking
+16. IEEE Transactions on Control of Network Systems 
+17. Journal of Scientific Research
 
 
 
