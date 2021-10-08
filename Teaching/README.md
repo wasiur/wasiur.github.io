@@ -1,5 +1,3 @@
-(To students at Ohio State) Please follow your respective departmental course catalogue or the Carmen course website for more details. Syllabus, tentative schedule, announcements are regularly posted on the Carmen course website. If you have questions about a course, please send me an email with the name of the course in the subject line. 
-
 
 ## Instructor
 1. MATH 2010 Probability Models and Methods, [The University of Nottingham](https://www.nottingham.ac.uk/)
