@@ -6,7 +6,8 @@
 Please email me if you do not have access to any of the papers. 
 
 ### Peer-reviewed publications
-15. _Wasiur R. KhudaBukhsh_\*, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. **Physical Biology**. arXiv preprint: [https://arxiv.org/abs/2007.00577](https://arxiv.org/abs/2007.00577). [Published version](https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta) (Accepted. \*Invited paper)
+16. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. **Advances in Applied Probability**, 2022. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (To appear in September 2022 issue)
+15. _Wasiur R. KhudaBukhsh_\*, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. **Physical Biology**. arXiv preprint: [https://arxiv.org/abs/2007.00577](https://arxiv.org/abs/2007.00577). [Published version](https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta) (\*Invited paper)
 14. _Wasiur R. KhudaBukhsh_, Sounak Kar, Bastian Alt, Amr Rizk, Heinz Koeppl. Generalized Cost-Based Job Scheduling in Very Large Heterogeneous Cluster Systems. **IEEE Transactions on Parallel and Distributed Systems**, 2020. [Published version](https://ieeexplore.ieee.org/abstract/document/9099971)
 13. Boseung Choi, Sydney Busch, Dieudonné Kazadi, Benoit Ilunga, Emile Okitolonda, Yi Dai, Robert Lumpkin, Omar Saucedo, _Wasiur R. KhudaBukhsh_, Joseph Tien, Marcel Yotebieng, Eben Kenah, Grzegorz A. Rempała. Modeling Outbreak Data: Analysis of a 2012 Ebola Virus Disease Epidemic in DRC. **BIOMATH**, 2019. [Published version](http://dx.doi.org/10.11145/j.biomath.2019.10.037) 
 12. _Wasiur R. KhudaBukhsh_, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival dynamical systems: individual-level survival analysis from population-level epidemic models. **Interface Focus**, 2019. arXiv preprint: [http://arxiv.org/abs/1901.00405](http://arxiv.org/abs/1901.00405). [Published version](https://doi.org/10.1098/rsfs.2019.0048)
@@ -26,11 +27,10 @@ Please email me if you do not have access to any of the papers.
 
 
 ### Preprints
-1. _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (Under revision.)
-2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
-3. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Minor revision requested)
-4. Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. 2021. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875446)
-5. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
+1. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
+2. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Minor revision requested)
+3. Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. 2021. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875446)
+4. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
 
 
 ### Theses and technical notes

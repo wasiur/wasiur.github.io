@@ -2,9 +2,11 @@
 
 
 ## Instructor
-1. STAT 4201 Introduction to Mathematical Statistics 1, [The Ohio State University](https://cph.osu.edu/biostatistics) 
+1. MATH 2010 Probability Models and Methods, [The University of Nottingham](https://www.nottingham.ac.uk/)
+   * Spring 2022
+2. STAT 4201 Introduction to Mathematical Statistics 1, [The Ohio State University](https://cph.osu.edu/biostatistics) 
    * Autumn semester 2019
-2. PUBHBIO 7193 Individual Studies in Biostatistics, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 
+3. PUBHBIO 7193 Individual Studies in Biostatistics, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 
    * Summer semester 2019. 
 
 
