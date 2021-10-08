@@ -15,11 +15,10 @@
 
 
 ## Contact
-Office: C45b
-[School of Mathematical Sciences](https://www.nottingham.ac.uk/mathematics/)
-[University of Nottingham](https://www.nottingham.ac.uk/)
-University Park
-Nottingham, NG7 2RD
+Office: C45b  
+[School of Mathematical Sciences](https://www.nottingham.ac.uk/mathematics/)  
+University Park  
+Nottingham, NG7 2RD  
 United Kingdom
 
 Email: wasiur.khudabukhsh@nottingham.ac.uk
