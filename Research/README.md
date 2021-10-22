@@ -6,12 +6,17 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-18. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
-17. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
-16. IDI Virtual COVID-19 Symposium, December 3, 2020 
-15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
-14. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
-13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
+    
+23. Math Bio seminar, The Ohio State University, virtual, November 4, 2021
+22. Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
+21. American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
+20. Guest lecture on infectious disease epidemiology, The Ohio State University, virtual, September 16, 2021
+19. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
+18. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
+17. IDI Virtual COVID-19 Symposium, December 3, 2020 
+16. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
+15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
+14. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
 13. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 
 12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 
 11. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
