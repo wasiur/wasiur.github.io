@@ -27,10 +27,11 @@ Please email me if you do not have access to any of the papers.
 
 
 ### Preprints
-1. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
-2. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Minor revision requested)
-3. Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. 2021. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875446)
-4. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
+1. Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data:  Study of   2018-2020 Ebola Outbreak  in  Democratic Republic of the Congo. (Submitted)
+2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
+3. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. Preprint available [here](https://arxiv.org/abs/2104.02174) (Minor revision requested)
+4. Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. 2021. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875446)
+5. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
 
 
 ### Theses and technical notes

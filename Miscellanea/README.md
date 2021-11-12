@@ -36,17 +36,18 @@ Links to some of my talks:
 4. Stochastics (Taylor & Francis)
 5. Journal of Mathematical Biology
 6. PLOS ONE
-7. Journal of Chemical Physics
-8. Mathematical Biosciences and Engineering
-9. European Journal of Control
-10. Journal of Mathematical Physics
-11. Journal of Mathematics in Industry 
-12. Journal of Mathematical Analysis and Applications
-13. IEEE Transactions on Automatic Control 
-14. IEEE Control System Letters
-15. IEEE Transactions on Networking
-16. IEEE Transactions on Control of Network Systems 
-17. Journal of Scientific Research
+7. Mathematical Biosciences
+8. Journal of Chemical Physics
+9. Mathematical Biosciences and Engineering
+10. European Journal of Control
+11. Journal of Mathematical Physics
+12. Journal of Mathematics in Industry 
+13. Journal of Mathematical Analysis and Applications
+14. IEEE Transactions on Automatic Control 
+15. IEEE Control System Letters
+16. IEEE Transactions on Networking
+17. IEEE Transactions on Control of Network Systems 
+18. Journal of Scientific Research
 
 
 
