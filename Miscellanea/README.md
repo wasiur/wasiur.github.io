@@ -34,20 +34,21 @@ Links to some of my talks:
 2. Bulletin of Mathematical Biology 
 3. Stochastic Processes and their Applications
 4. Stochastics (Taylor & Francis)
-5. Journal of Mathematical Biology
-6. PLOS ONE
-7. Mathematical Biosciences
-8. Journal of Chemical Physics
-9. Mathematical Biosciences and Engineering
-10. European Journal of Control
-11. Journal of Mathematical Physics
-12. Journal of Mathematics in Industry 
-13. Journal of Mathematical Analysis and Applications
-14. IEEE Transactions on Automatic Control 
-15. IEEE Control System Letters
-16. IEEE Transactions on Networking
-17. IEEE Transactions on Control of Network Systems 
-18. Journal of Scientific Research
+5. SIAM Multiscale Modeling & Simulation
+6. Journal of Mathematical Biology
+7. PLOS ONE
+8. Mathematical Biosciences
+9. Journal of Chemical Physics
+10. Mathematical Biosciences and Engineering
+11. European Journal of Control
+12. Journal of Mathematical Physics
+13. Journal of Mathematics in Industry 
+14. Journal of Mathematical Analysis and Applications
+15. IEEE Transactions on Automatic Control 
+16. IEEE Control System Letters
+17. IEEE Transactions on Networking
+18. IEEE Transactions on Control of Network Systems 
+19. Journal of Scientific Research
 
 
 
