@@ -6,7 +6,9 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-    
+26. Mini-symposium speaker at SIAM Conference on Uncertainty Quantification, April 15, 2022.
+25. Statistics and Probability Seminar, University of Nottingham. February 3, 2022.
+24. Mathematics of Reaction Networks (MoRN) seminar, January 27, 2022.
 23. Math Bio seminar, The Ohio State University, virtual, November 4, 2021
 22. Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
 21. American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
@@ -62,7 +64,8 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 1. Algorithms and Models for Single Cell Genomics, NSF-Simons Center for Multiscale Cell Fate Research at University of California Irvine, June, 2019 
 
 
-## Workshop/conference orgnization
+## Workshop/conference organization
+10. AIM SQuaREs project accepted. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
 9. Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, 2022 (pending
 acceptance. Jointly with Gursharn Kaur)
 8. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del
