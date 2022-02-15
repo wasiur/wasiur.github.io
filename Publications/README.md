@@ -29,12 +29,13 @@ Please email me if you do not have access to any of the papers.
 
 
 ### Preprints
-1. Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of R0. (Revision requested)
-2. Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data:  Study of   2018-2020 Ebola Outbreak  in  Democratic Republic of the Congo. (Revision requested)
-3. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
-4. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
-5. _Wasiur R. KhudaBukhsh_, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Subsequent Hospital Burden in Ohio. (Submitted)
-6. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. Preprint available [here](https://arxiv.org/abs/2201.04999)
+1. Francesco Di Lauro, _Wasiur R. KhudaBukhsh_, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis fornon-Markovian Epidemic Models. (Submitted)
+2. Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of R0. (Revision requested)
+3. Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data:  Study of   2018-2020 Ebola Outbreak  in  Democratic Republic of the Congo. (Revision requested)
+4. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
+5. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
+6. _Wasiur R. KhudaBukhsh_, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Subsequent Hospital Burden in Ohio. (Submitted)
+7. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. Preprint available [here](https://arxiv.org/abs/2201.04999)
 
 
 ### Theses and technical notes
