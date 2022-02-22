@@ -29,7 +29,7 @@ Please email me if you do not have access to any of the papers.
 
 
 ### Preprints
-1. Francesco Di Lauro, _Wasiur R. KhudaBukhsh_, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis fornon-Markovian Epidemic Models. (Submitted)
+1. Francesco Di Lauro, _Wasiur R. KhudaBukhsh_, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis for non-Markovian Epidemic Models. Preprint available [here](https://arxiv.org/abs/2202.09948) (Submitted)
 2. Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of R0. (Revision requested)
 3. Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data:  Study of   2018-2020 Ebola Outbreak  in  Democratic Republic of the Congo. (Revision requested)
 4. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
