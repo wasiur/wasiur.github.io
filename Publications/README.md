@@ -1,5 +1,5 @@
 ## External links
-| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [Twitter](https://twitter.com/wasiur_rahman) | [GitHub](https://github.com/wasiur) |
+| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [Twitter](https://twitter.com/wasiur_rahman) | [GitHub](https://github.com/wasiur) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
 
 ## Publications
 
@@ -30,7 +30,7 @@ Please email me if you do not have access to any of the papers.
 
 
 ### Preprints
-1. Francesco Di Lauro, _Wasiur R. KhudaBukhsh_, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis for non-Markovian Epidemic Models. Preprint available [here](https://arxiv.org/abs/2202.09948) (Submitted)
+1. Francesco Di Lauro, _Wasiur R. KhudaBukhsh_, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis for non-Markovian Epidemic Models. Preprint available [here](https://arxiv.org/abs/2202.09948) (Revision requested)
 2. Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data:  Study of   2018-2020 Ebola Outbreak  in  Democratic Republic of the Congo. (Revision requested)
 3. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
 4. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
