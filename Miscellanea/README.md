@@ -49,6 +49,7 @@ Links to some of my talks:
 17. IEEE Transactions on Networking
 18. IEEE Transactions on Control of Network Systems 
 19. Journal of Scientific Research
+20. Methodology and Computing in Applied Probability
 
 
 
