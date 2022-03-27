@@ -6,6 +6,7 @@
     </p>
     <p float="right">Before joining the Nottingham Maths, I was a President's Postdoctoral Scholar at the <a href="https://mbi.osu.edu">Mathematical Biosciences Institute</a> at the <a href="https://www.osu.edu">Ohio State University</a>. I obtained my PhD (officially, Dr. rer. nat. or Doctor of natural sciences) from the Department of Electrical Engineering and Information Technology of <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</a> in Germany and Masters in Statistics (M.Stat.) from <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata, India</a>. 
     </p>
+    <p></p>
   </div>
 </div>
 
