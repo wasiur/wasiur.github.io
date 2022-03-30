@@ -36,6 +36,7 @@ Please email me if you do not have access to any of the papers.
 3. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
 4. _Wasiur R. KhudaBukhsh_, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Subsequent Hospital Burden in Ohio. (Submitted)
 5. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. Preprint available [here](https://arxiv.org/abs/2201.04999) (Revision requested)
+6. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Hypergraphon Mean Field Games. (Submitted)
 
 
 ### Theses and technical notes
