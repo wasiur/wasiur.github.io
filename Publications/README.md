@@ -8,7 +8,7 @@ Please email me if you do not have access to any of the papers.
 ### Peer-reviewed publications
 1.  _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. **Advances in Applied Probability**, 2022. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (To appear in September 2022 issue)
 2.  Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of reproduction numbers. **The Lancet Infectious Diseases**, 2022. (To appear)
-3.  Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data: Study of 2018-2020 Ebola Outbreak in Democratic Republic of the Congo. **Scientific Reports**, 2022. (To appear)
+3.  Harley Vossler, Pierre Akilimali, Yuhan Pan, _Wasiur R. KhudaBukhsh_, Eben Kenah, Grzegorz A. Rempała. Analysis of  Individual-level Epidemic Data: Study of 2018-2020 Ebola Outbreak in Democratic Republic of the Congo. **Scientific Reports**, 2022. [Published version](https://www.nature.com/articles/s41598-022-09564-4)
 4.  Ido Somekh, _Wasiur R. KhudaBukhsh_,  Elisabeth Dowling Root, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. **Open Forum Infectious Diseases**, 2022. [Published version](https://doi.org/10.1093/ofid/ofac087)
 5. Saumya Y. Sahai, Saket Gurukar, _Wasiur R. KhudaBukhsh_, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. **Mathematical Biosciences**, 2021. [Published version](https://doi.org/10.1016/j.mbs.2021.108677)
 6.  _Wasiur R. KhudaBukhsh_\*, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. **Physical Biology**. arXiv preprint: [https://arxiv.org/abs/2007.00577](https://arxiv.org/abs/2007.00577). [Published version](https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta) (\*Invited paper)
@@ -36,7 +36,7 @@ Please email me if you do not have access to any of the papers.
 3. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
 4. _Wasiur R. KhudaBukhsh_, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Subsequent Hospital Burden in Ohio. (Submitted)
 5. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. Preprint available [here](https://arxiv.org/abs/2201.04999) (Revision requested)
-6. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Hypergraphon Mean Field Games. (Submitted)
+6. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Hypergraphon Mean Field Games. Preprint available [here](https://arxiv.org/abs/2203.16223) (Submitted)
 
 
 ### Theses and technical notes
