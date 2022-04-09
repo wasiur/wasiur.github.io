@@ -3,7 +3,7 @@
 
 ## Publications
 
-Please email me if you do not have access to any of the papers. [Download list of publications as a PDF file](https://www.wasiur.xyz/CV/ListOfPublications.pdf)
+Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf).
 
 ### Peer-reviewed publications
 1.  _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. **Advances in Applied Probability**, 2022. arXiv preprint: [https://arxiv.org/abs/1703.06328](https://arxiv.org/abs/1703.06328). (To appear in September 2022 issue)
