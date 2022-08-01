@@ -22,7 +22,8 @@
 
 
 ### M.Sc. students
-7. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
+8. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
+7. Jianing Ye, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 6. Robert Lumpkin, 2019, Master degree project (jointly with Prof. Greg Rempala), Department of Mathematics, [The Ohio State University](https://www.osu.edu/), USA
 5. Sayantan Kumar, 2018, Summer internship, Technische Universität Darmstadt, Germany
 4. Ranjani Krishnan, 2018, Master thesis (jointly with Denny Stohr), Technische Universität Darmstadt, Germany
