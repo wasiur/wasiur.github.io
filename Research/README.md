@@ -60,6 +60,7 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
 
 ### Poster 
+6. 22nd Meeting of New Researchers in Statistics and Probability, George Mason University, USA, August 4, 2022
 5. Mathematical Models in Evolutionary Biology conference, CIRM, Marseilles, France, February 10-14 2020 
 4. Infectious Disease Institute (IDI) Annual Meeting, Columbus, Ohio, USA, September 2019
 3. Joint Statistical Meeting (JSM) 2019, Denver, Colorado, USA, 2019 
@@ -68,6 +69,7 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 
 ## Workshop/conference organization
+12. Oberwolfach Workshop, Germany, 2024 (pending acceptance. Jointly with Lea Popovic, Daniele Cappelletti, and Carsten Wiuf)
 11. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
 10. AIM SQuaREs project accepted. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
 9. Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, 2022 (pending

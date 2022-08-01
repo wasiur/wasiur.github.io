@@ -15,17 +15,18 @@ Other news
 
 ## Videos of my talks
 Links to some of my talks:
-1. American Institute of Mathematics workshop on "Limits and control of stochastic reaction networks", July 29, 2021 (video available [here](https://vimeo.com/showcase/8692766/video/580982909))
-2. Workshop in Mathematical and Computational Biology, June 11, 2021 (video available [here](https://www.youtube.com/watch?v=uB09RgBjzxc&list=PLEEUrTyXGauuuvNXU9zdgQJF4AMF9MTp5&index=8))
-3. MBI Seminar, The Ohio State University, March 4, 2021 (video available [here](https://osu.app.box.com/s/jme1t6duhshft6hpqg2q1v14b0rv2js7))
-4. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/2iPfFM3_IaHFqR60fEvU7ayKlBHGqB3sHlFR-Jg3d-dDGe5YvzJU6M-Qg68rgOEifB4UCqsqMexgipsI.6B9cnyJ3tF68FDBe?continueMode=true&_x_zm_rtaid=IB51NW9ZSQKVgUeNERKl_A.1605919160335.1d94c515f74c3752d2f87313c78b8d52&_x_zm_rhtaid=863))
-5. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
-6. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
-7. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
-8. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
-9. MBI Seminar, the Ohio State University, Columbus, OH, October 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
-10. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-11. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+1. BIRS Workshop on "Preparing for the next pandemic". June 15, 2022. (video available [here](http://www.birs.ca/events/2022/5-day-workshops/22w5058/videos/watch/202206150945-KhudaBukhsh.html))
+2. American Institute of Mathematics workshop on "Limits and control of stochastic reaction networks", July 29, 2021 (video available [here](https://vimeo.com/showcase/8692766/video/580982909))
+3. Workshop in Mathematical and Computational Biology, June 11, 2021 (video available [here](https://www.youtube.com/watch?v=uB09RgBjzxc&list=PLEEUrTyXGauuuvNXU9zdgQJF4AMF9MTp5&index=8))
+4. MBI Seminar, The Ohio State University, March 4, 2021 (video available [here](https://osu.app.box.com/s/jme1t6duhshft6hpqg2q1v14b0rv2js7))
+5. Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/2iPfFM3_IaHFqR60fEvU7ayKlBHGqB3sHlFR-Jg3d-dDGe5YvzJU6M-Qg68rgOEifB4UCqsqMexgipsI.6B9cnyJ3tF68FDBe?continueMode=true&_x_zm_rtaid=IB51NW9ZSQKVgUeNERKl_A.1605919160335.1d94c515f74c3752d2f87313c78b8d52&_x_zm_rhtaid=863))
+6. Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
+7. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+8. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+9. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
+10. MBI Seminar, the Ohio State University, Columbus, OH, October 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+11. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
+12. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
 
 
 ## Professional Service
