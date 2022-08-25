@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	background-color: #FFFFFF;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+
+.primary_header {
+	width: 100%;
+	background-color: #07423d;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: left;
+	border-bottom: 5px solid #ceeafb;
+	align-content: center;
+}
+.secondary_header {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #087f6d;
+	clear: left;
+	align-content: center;
+}
+.container .secondary_header ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 16%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+
+.new_article {
+	background-color: #FFFFFF;
+	width: 95%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #343434;
+	padding-bottom: 15px;
+}
+
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+
+
+.column_half {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #0C4148;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+
+.crop {
+ height: 200px;
+ width: 150px;
+ overflow: hidden;
+}
+.crop img {
+ height: 200px;
+ width: auto;
+}

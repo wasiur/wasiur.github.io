@@ -1,4 +1,6 @@
 ## News
+1. [Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton), [Yordan Raykov](https://www.yordanraykov.net/), and I are organizing a one-day workshop on "Recent challenges in mathematical epidemiology". More details available [here](https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html)
+
 The OSU/IDI COVID-19 response modeling team received much appreciation. I am fortunate to have contributed to this effort. Here are some highlights: 
 1. OSC news: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans)
 2. HPC Wire: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.hpcwire.com/off-the-wire/pandemic-modeling-covid-19-projection-models-equip-ohioans/)
