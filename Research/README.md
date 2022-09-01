@@ -6,33 +6,32 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ## Research Talks/presentations
 ### Invited
-27. Mini-symposium speaker at International Conference on Applications of Computer Algebra (ACA 22), August 15-19, 2022
-26. Mini-symposium speaker at SIAM Conference on Uncertainty Quantification, April 15, 2022.
-25. Statistics and Probability Seminar, University of Nottingham. February 3, 2022.
-24. Mathematics of Reaction Networks (MoRN) seminar, January 27, 2022.
-23. Math Bio seminar, The Ohio State University, virtual, November 4, 2021
-22. Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
-21. American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
-20. Guest lecture on infectious disease epidemiology, The Ohio State University, virtual, September 16, 2021
-19. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
-18. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
-17. IDI Virtual COVID-19 Symposium, December 3, 2020 
-16. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
-15. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
-14. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
-13. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 
-12. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 
-11. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
-10. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
-9. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
-8. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
-7. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
-6. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
-5. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
-4. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
-3. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-2. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
-1. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
+1.  Mini-symposium speaker at SIAM Conference on Uncertainty Quantification, April 15, 2022.
+2.  Statistics and Probability Seminar, University of Nottingham. February 3, 2022.
+3.  Mathematics of Reaction Networks (MoRN) seminar, January 27, 2022.
+4.  Math Bio seminar, The Ohio State University, virtual, November 4, 2021
+5.  Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
+6.  American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
+7.  Guest lecture on infectious disease epidemiology, The Ohio State University, virtual, September 16, 2021
+8.  Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
+9.  Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
+10. IDI Virtual COVID-19 Symposium, December 3, 2020 
+11. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
+12. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
+13. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
+14. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 
+15. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 
+16. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+17. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
+18. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+19. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
+20. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
+21. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
+22. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
+23. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
+24. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
+25. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
+26. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
 23. BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022 
