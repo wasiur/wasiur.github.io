@@ -68,7 +68,8 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 
 ## Workshop/conference organization
-12. Oberwolfach Workshop, Germany, 2024 (pending acceptance. Jointly with Lea Popovic, Daniele Cappelletti, and Carsten Wiuf)
+13. Oberwolfach Workshop, Germany, 2024 (pending acceptance. Jointly with Lea Popovic, Daniele Cappelletti, and Carsten Wiuf)
+12. Workshop on ["Recent Challenges in Mathematical Epidemiology"](https://www.wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html), September 27, 2022. (jointly with Kirsty Bolton and Yordan Raykov)
 11. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
 10. AIM SQuaREs project accepted. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
 9. Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, 2022 (pending
