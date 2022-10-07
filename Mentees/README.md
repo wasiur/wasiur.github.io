@@ -1,11 +1,9 @@
 
-## Student supervision
-
-### PhD students
+## PhD students
 2. Yajie Guo (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
 1. James Harborne (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
 
-### M.Sc. students
+## M.Sc. students
 8. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 7. Jianing Ye, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 6. Robert Lumpkin, 2019, Master degree project (jointly with Prof. Greg Rempala), Department of Mathematics, [The Ohio State University](https://www.osu.edu/), USA
@@ -16,7 +14,7 @@
 1. Arnab Auddy, 2017, Summer internship, Technische Universität Darmstadt, Germany
 
 
-### B.Sc. students
+## B.Sc. students
 8. Sarina Rivlin-Sanders, 2022, Summer internship, [The University of Nottingham](https://www.nottingham.ac.uk/)
 7. Junzhe Zhu, 2022, Summer internship, [The University of Nottingham](https://www.nottingham.ac.uk/)
 6. Yi Dai, 2019, Summer project (jointly with Prof. Greg Rempala and Prof. Eben Kenah), [The Ohio State University](https://www.osu.edu/), USA
