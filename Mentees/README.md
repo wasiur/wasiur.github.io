@@ -2,8 +2,8 @@
 ## Student supervision
 
 ### PhD students
-2. Yajie Guo (jointly with [https://www.nottingham.ac.uk/mathematics/people/chris.fallaize](Christopher Fallaize))
-1. James Harborne (jointly with [](https://www.nottingham.ac.uk/mathematics/people/john.king))
+2. Yajie Guo (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
+1. James Harborne (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
 
 ### M.Sc. students
 8. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
