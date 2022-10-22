@@ -1,4 +1,4 @@
-I am organising the Statistics and Probability seminars at Nottingham Maths. Below is the list of upcoming talks in the seminar series. 
+I organise the Statistics and Probability seminars at Nottingham Maths. Below is the list of upcoming talks in the seminar series. 
 
 ## Autumn 2022
 <ul>
