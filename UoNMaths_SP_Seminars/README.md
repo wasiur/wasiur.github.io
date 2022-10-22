@@ -33,3 +33,10 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   <ul><li>Title: <em>  TBA</em></li></ul>
   </li>
 </ul> 
+
+## Spring 2023
+<ul>
+<li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
+  <ul><li>Title: <em>  TBA</em></li></ul>
+  </li>
+</ul>

@@ -1,3 +1,6 @@
+## Statistics and Probability seminars
+I organise the Statistics and Probability seminars at Nottingham Maths. List of upcoming talks in the seminar series can be found [here](https://www.wasiur.xyz/UoNMaths_SP_Seminars/).
+
 ## News
 1. [Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton), [Yordan Raykov](https://www.yordanraykov.net/), and I are organizing a one-day workshop on "Recent challenges in mathematical epidemiology". More details available [here](https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html)
 
