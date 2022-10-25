@@ -63,11 +63,13 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   </li>
   <li>10 November 2022, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/aidan.o'keeffe">Aidan O'Keeffe</a>, University of Nottingham.
     <ul>
-      <li><b>Title:</b> <em>  TBA</em></li>
+      <li><b>Title:</b> <em>  Regression discontinuity designs for time-to-event outcomes: An approach using accelerated failure time models</em></li>
       <li>
         <details>
           <summary> <b>Abstract:</b> </summary>
-          <em>  TBA</em>
+          <em> <p> Regression discontinuity designs (RDDs) have been developed for the estimation of treatment effects using observational data, where a treatment is administered using an externally defined decision rule linked to a continuous assignment variable. Typically, RDDs have been applied to situations where the outcome of interest is continuous and non-temporal. Conversely, RDDs for time-to-event outcomes have received less attention, despite such outcomes being common in many applications.</p>
+          <p>We consider RDDs for a time-to-event outcome subject to right censoring. An accelerated failure time approach is used to establish a treatment effect estimate for a fuzzy RDD (where treatment is not always strictly applied according to the decision rule). This estimation approach is robust to different levels of fuzziness and unobserved confounding, assessed using simulation studies, and compares favourably to established structural accelerated failure time models. A brief example is presented in which models are fitted to estimate the effect of metformin on mortality and cardiovascular disease rate using real observational data from UK Primary Care.</p>
+        </em>
         </details>
       </li>
     </ul>
