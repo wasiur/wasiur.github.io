@@ -85,16 +85,6 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
-  <li>24 November 2022, 12pm. <a href="https://www.nottingham.ac.uk/mathematics/people/luis.espath">Luis Espath</a>, University of Nottingham.
-    <ul>
-      <li>
-        <details>
-          <summary><b>Title:</b> <em>  TBA</em> </summary>
-          <b>Abstract:</b> <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
   <li>1 December 2022, 4pm. <a href="https://www.kcl.ac.uk/people/maria-kalli">Maria Kalli</a>, King's College.
     <ul>
       <li><b>Title:</b> <em>  TBA</em></li>
@@ -121,6 +111,16 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
 
 ## Spring 2023
 <ul>
+  <li>2 February 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/luis.espath">Luis Espath</a>, University of Nottingham.
+    <ul>
+      <li>
+        <details>
+          <summary><b>Title:</b> <em>  TBA</em> </summary>
+          <b>Abstract:</b> <em>  TBA</em>
+        </details>
+      </li>
+    </ul>
+  </li>
   <li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
     <ul>
       <li> <b>Title:</b> <em>  TBA</em></li>
