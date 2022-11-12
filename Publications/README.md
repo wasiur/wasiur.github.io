@@ -6,7 +6,8 @@
 Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf).
 
 ### Peer-reviewed publications
-1. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Hypergraphon Mean Field Games. **Chaos**, 2022. [[Preprint]](https://arxiv.org/abs/2203.16223) (Accepted for publication)
+
+1. Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Hypergraphon Mean Field Games. **Chaos**, 2022. [[Published version]](https://doi.org/10.1063/5.0093758) [[Preprint]](https://arxiv.org/abs/2203.16223)
 2.  _Wasiur R. KhudaBukhsh_, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. **Advances in Applied Probability**, 2022. [[Published version]](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/functional-central-limit-theorem-for-si-processes-on-configuration-model-graphs/8ECE68C7706243E769C7B4BF565C8F3E) [[Preprint]](https://arxiv.org/abs/1703.06328).
 3.  Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of reproduction numbers. **The Lancet Infectious Diseases**, 2022. [[Published version]](https://doi.org/10.1016/S1473-3099(22)00155-4)
 4.  Kai Cui, _Wasiur R. KhudaBukhsh_, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. **Physical Review E**, 2022. [[Published version]](https://doi.org/10.1103/PhysRevE.105.L042301) [[Preprint]](https://arxiv.org/abs/2201.04999) 

@@ -76,11 +76,11 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   </li>
   <li>17 November 2022, 2pm. <a href="https://sites.google.com/view/sylvie-meleard/accueil">Sylvie Méléard</a>, Ecole Polytechnique.
     <ul>
-      <li><b>Title:</b> <em>  TBA</em> </li>
+      <li><b>Title:</b> <em>  Multiscale eco-evolutionary models: from individuals to populations</em> </li>
       <li>
         <details>
           <summary> <b>Abstract:</b> </summary>
-         <em>  TBA</em>
+         <em>  Motivated by recent biological experiments, we emphasize the effects of small and random populations on long time population dynamics. We will quantify such effects on macroscopic approximations. The individual behaviors are described by the mean of a stochastic measure-valued process. We study different long time asymptotic behaviors depending on the assumptions on mutation size and frequency and on horizontal transmission rate. In some cases, simulations indicate that these models should exhibit surprising asymptotic behaviors such as cyclic behaviors. We explore these behaviors on a simple model where population and time sizes are on a log-scale. Explicit criteria are given to characterize the possible asymptotic behaviors. The impact of the time and size scales on macroscopic approximations is also investigated, leading to Hamilton-Jacobi equations.</em>
         </details>
       </li>
     </ul>
