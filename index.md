@@ -16,6 +16,18 @@
 
 <br>
 
+I am looking for PhD students. I have several projects in the following broad areas of mathematics:
+
+* Applied Probability
+* Stochastic Processes
+* Epidemic Modelling
+* Mathematical Biology
+* Stochastic Reaction Networks
+
+If you are interested in any of these areas, please get in touch with me!
+
+<br>
+
 ## Contact
 Office: C45b  
 [School of Mathematical Sciences](https://www.nottingham.ac.uk/mathematics/)  
