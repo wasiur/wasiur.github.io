@@ -153,4 +153,15 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
+  <li>27 April 2023, 2pm. <a href="https://mzhilova7.math.gatech.edu/">Mayya Zhilova</a>, Georgia Tech.
+    <ul>
+      <li> <b>Title:</b> <em>  TBA</em></li>
+      <li>
+        <details>
+          <summary> <b>Abstract:</b> </summary>
+           <em>  TBA</em>
+        </details>
+      </li>
+    </ul>
+  </li>
 </ul>
