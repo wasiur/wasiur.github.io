@@ -121,7 +121,28 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
+  <li>23 February 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
+    <ul>
+      <li>
+        <details>
+          <summary><b>Title:</b> <em>  TBA</em> </summary>
+          <b>Abstract:</b> <em>  TBA</em>
+        </details>
+      </li>
+    </ul>
+  </li>
   <li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
+    <ul>
+      <li> <b>Title:</b> <em>  TBA</em></li>
+      <li>
+        <details>
+          <summary> <b>Abstract:</b> </summary>
+           <em>  TBA</em>
+        </details>
+      </li>
+    </ul>
+  </li>
+  <li>20 April 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/federico.girotti">Federico Girotti</a>, University of Nottingham.
     <ul>
       <li> <b>Title:</b> <em>  TBA</em></li>
       <li>
