@@ -131,6 +131,16 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
+  <li>8 March 2023, 2pm. <a href="https://sites.google.com/view/sp-monte-carlo">Sam Power</a>, University of Bristol.
+    <ul>
+      <li>
+        <details>
+          <summary><b>Title:</b> <em>  TBA</em> </summary>
+          <b>Abstract:</b> <em>  TBA</em>
+        </details>
+      </li>
+    </ul>
+  </li>
   <li>23 March 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva">Olga Iziumtseva</a>, University of Nottingham.
     <ul>
       <li>
