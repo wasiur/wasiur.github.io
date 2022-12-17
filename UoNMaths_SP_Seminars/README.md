@@ -1,5 +1,88 @@
 I organise the Statistics and Probability seminars at Nottingham Maths. Below is the list of upcoming talks in the seminar series. 
 
+## Spring 2023
+
+<ul>
+  <li>2 February 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/luis.espath">Luis Espath</a>, University of Nottingham.
+    <ul>
+      <li>
+          <b>Title:</b> <em>  TBA</em> 
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>9 February 2023, 2pm. <a href="https://www.ucl.ac.uk/statistics/people/codina_cotar">Codina Cotar</a>, University College London.
+    <ul>
+      <li>
+          <b>Title:</b> <em>  TBA</em> 
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>23 February 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
+    <ul>
+      <li>
+        <b>Title:</b> <em>  TBA</em> 
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>8 March 2023, 2pm. <a href="https://sites.google.com/view/sp-monte-carlo">Sam Power</a>, University of Bristol.
+    <ul>
+      <li>
+        <b>Title:</b> <em>  TBA</em> 
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>23 March 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva">Olga Iziumtseva</a>, University of Nottingham.
+    <ul>
+      <li>
+         <b>Title:</b> <em>  TBA</em> 
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
+    <ul>
+      <li> <b>Title:</b> <em>  TBA</em></li>
+      <li>
+        <b>Abstract:</b> 
+           <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>20 April 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/federico.girotti">Federico Girotti</a>, University of Nottingham.
+    <ul>
+      <li> <b>Title:</b> <em>  TBA</em></li>
+      <li>
+        <b>Abstract:</b> 
+           <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+  <li>27 April 2023, 2pm. <a href="https://mzhilova7.math.gatech.edu/">Mayya Zhilova</a>, Georgia Tech.
+    <ul>
+      <li> <b>Title:</b> <em>  TBA</em></li>
+      <li>
+        <b>Abstract:</b>
+           <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
 ## Autumn 2022
 <ul>
   <li>06 October 2022, 2pm. <a href="https://sites.harvard.edu/prs499/">Pragya Sur</a>, Harvard University.
@@ -109,79 +192,3 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   </li>
 </ul> 
 
-## Spring 2023
-<ul>
-  <li>2 February 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/luis.espath">Luis Espath</a>, University of Nottingham.
-    <ul>
-      <li>
-        <details>
-          <summary><b>Title:</b> <em>  TBA</em> </summary>
-          <b>Abstract:</b> <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>23 February 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
-    <ul>
-      <li>
-        <details>
-          <summary><b>Title:</b> <em>  TBA</em> </summary>
-          <b>Abstract:</b> <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>8 March 2023, 2pm. <a href="https://sites.google.com/view/sp-monte-carlo">Sam Power</a>, University of Bristol.
-    <ul>
-      <li>
-        <details>
-          <summary><b>Title:</b> <em>  TBA</em> </summary>
-          <b>Abstract:</b> <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>23 March 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva">Olga Iziumtseva</a>, University of Nottingham.
-    <ul>
-      <li>
-        <details>
-          <summary><b>Title:</b> <em>  TBA</em> </summary>
-          <b>Abstract:</b> <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
-    <ul>
-      <li> <b>Title:</b> <em>  TBA</em></li>
-      <li>
-        <details>
-          <summary> <b>Abstract:</b> </summary>
-           <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>20 April 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/federico.girotti">Federico Girotti</a>, University of Nottingham.
-    <ul>
-      <li> <b>Title:</b> <em>  TBA</em></li>
-      <li>
-        <details>
-          <summary> <b>Abstract:</b> </summary>
-           <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-  <li>27 April 2023, 2pm. <a href="https://mzhilova7.math.gatech.edu/">Mayya Zhilova</a>, Georgia Tech.
-    <ul>
-      <li> <b>Title:</b> <em>  TBA</em></li>
-      <li>
-        <details>
-          <summary> <b>Abstract:</b> </summary>
-           <em>  TBA</em>
-        </details>
-      </li>
-    </ul>
-  </li>
-</ul>
