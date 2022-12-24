@@ -23,6 +23,16 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
+  <li>23 February 2023, 2pm. <a href="https://profiles.sussex.ac.uk/p469630-minmin-wang">Minmin Wang</a>, University of Sussex.
+    <ul>
+      <li>
+          <b>Title:</b> <em>  TBA</em>
+      </li>
+      <li>
+          <b>Abstract:</b> <em>  TBA</em>
+      </li>
+    </ul>
+  </li>
   <li>2 March 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
     <ul>
       <li>
