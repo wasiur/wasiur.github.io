@@ -96,4 +96,4 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   </li>
 </ul>
 
-You can find past seminars here: [Autumn 2022](https://www.wasiur.xyz/UoNMaths_SP_Seminars/AU2022.md)
+You can find past seminars here: [Autumn 2022](https://www.wasiur.xyz/UoNMaths_SP_Seminars/AU2022.html)
