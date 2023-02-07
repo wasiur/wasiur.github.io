@@ -83,17 +83,12 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 
 ## Workshop/conference organization
-13. Oberwolfach Workshop, Germany, 2024 (pending acceptance. Jointly with Lea Popovic, Daniele Cappelletti, and Carsten Wiuf)
-12. Workshop on ["Recent Challenges in Mathematical Epidemiology"](https://www.wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html), September 27, 2022. (jointly with Kirsty Bolton and Yordan Raykov)
-11. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
-10. AIM SQuaREs project accepted. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
-9. Invited session at the IMS Asia Pacific Rim Meeting, Melbourne, Australia, 2022 (pending
-acceptance. Jointly with Gursharn Kaur)
-8. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del
-Valle, Joel C. Miller and Rick Durrett)
+11. Workshop on ["Recent Challenges in Mathematical Epidemiology"](https://www.wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html), September 27, 2022. (jointly with Kirsty Bolton and Yordan Raykov)
+10. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
+9. AIM SQuaREs project 2022-2024. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
+8. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del Valle, Joel C. Miller and Rick Durrett)
 7. Mini-symposium at the SIAM Conference on Applications of Dynamical Systems, 2021
-6. Mini-symposium at the Annual Meeting of the Society for Mathematical Biology, 2021 (Jointly
-with Hye-Won Kang)
+6. Mini-symposium at the Annual Meeting of the Society for Mathematical Biology, 2021 (Jointly with Hye-Won Kang)
 5. Invited session at the Annual Meeting of the ENAR, 2021 (jointly with Marissa Renardy)
 4. Mini-symposium at the Annual Meeting of the SMB, virtual, August 19, 2020 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
 3. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, June 11, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))

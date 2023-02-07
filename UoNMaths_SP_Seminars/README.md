@@ -17,7 +17,7 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
-  <li>9 February 2023, 2pm. <a href="https://www.ucl.ac.uk/statistics/people/codina_cotar">Codina Cotar</a>, University College London.
+  <li>9 February 2023, 2pm. <a href="https://www.ucl.ac.uk/statistics/people/codina_cotar">Codina Cotar</a>, University College London. (Cancelled)
     <ul>
       <li>
           <b>Title:</b> <em>  TBA</em> 

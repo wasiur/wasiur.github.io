@@ -39,9 +39,9 @@ Please email me if you do not have access to any of the papers. Download list of
 ### Preprints
 1. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) (Submitted)
 2. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel Quam, Joseph H. Tien, Grzegorz A. Rempała. Monitoring SARS-CoV-2 transmission and prevalence in populations under repreated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
+3. Istvan Z. Kiss, Luc Berthouze, _Wasiur R. KhudaBukhsh_. Towards inferring network properties from epidemic data. [[Preprint]](https://arxiv.org/abs/2302.02470) (Submitted)
 
    
-
 
 ### Theses and technical notes
 2. _Wasiur R. KhudaBukhsh_. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)
