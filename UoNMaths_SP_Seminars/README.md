@@ -27,7 +27,7 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
       </li>
     </ul>
   </li>
-  <li>23 February 2023, 2pm. <a href="https://profiles.sussex.ac.uk/p469630-minmin-wang">Minmin Wang</a>, University of Sussex.
+  <li>23 February 2023, 2pm. <a href="https://profiles.sussex.ac.uk/p469630-minmin-wang">Minmin Wang</a>, University of Sussex. (Cancelled)
     <ul>
       <li>
           <b>Title:</b> <em>  TBA</em>
@@ -40,10 +40,13 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   <li>2 March 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
     <ul>
       <li>
-        <b>Title:</b> <em>  TBA</em> 
+        <b>Title:</b> <em>  Random Measure Priors in Bayesian Frequency Recovery from Sketches</em>
       </li>
       <li>
-          <b>Abstract:</b> <em>  TBA</em>
+          <b>Abstract:</b> <em>  Consider the problem of dealing with a stream of tokens, where each token could be an IP address, a URL, or a language n-gram. Each token takes values in a set whose dimension is too large to store in a computer, and a compression strategy must be devised for inference. The count-min sketch (CMS) is a randomized data structure dealing with situations as before. In a CMS, data is processed by multiple random hash functions that map the tokens’ space into {1, …, J}. Since J is smaller than the total number of possible tokens, applying the hash function leads to a loss in the information stored. Nonetheless, it is possible to estimate the frequency of each token (i.e., how many times it appeared) with high accuracy, at least in probability, even for moderate values of J and hash functions.
+          In the traditional CMS, the stream of tokens is treated as a deterministic sequence, and randomness is introduced by considering i.i.d. random hash functions. Here, we take a statistical point of view and propose to consider a probabilistic model for the data as well, specifically a Bayesian nonparametric species sampling model. We provide an explicit expression for the posterior probability of the frequency of each token for a wide class of priors, namely the Poisson-Kingman class. However, we show that the Dirichlet process is the only prior leading to a tractable expression.  Then, we generalize our approach to more complex data streams, considering, for instance, streams of documents made of several n-grams. 
+          Joint work with Stefano Favaro 
+          </em>
       </li>
     </ul>
   </li>
@@ -95,5 +98,21 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
     </ul>
   </li>
 </ul>
+
+## Autumn 2023
+<ul>
+  <li>19 October 2023, 2pm. <a href="https://www.lshtm.ac.uk/aboutus/people/keogh.ruth">Ruth Keogh</a>, London School of Hygiene and Tropical Medicine.
+    <ul>
+      <li>
+          <b>Title:</b> <em>  TBA</em>
+      </li>
+      <li>
+        <b>Abstract:</b> <em>  TBA
+        </em>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 You can find past seminars here: [Autumn 2022](https://www.wasiur.xyz/UoNMaths_SP_Seminars/AU2022.html)
