@@ -14,7 +14,7 @@
 [1]: /image/BALA_1.jpeg
 <br>
 
-<br>
+## Research Opportunities 
 
 I am looking for PhD students. I have several projects in the following broad areas of mathematics:
 
@@ -25,6 +25,11 @@ I am looking for PhD students. I have several projects in the following broad a
 * Stochastic Reaction Networks
 
 If you are interested in any of these areas, please get in touch with me!
+
+Current open positions: 
+
+1. [here](https://jobs.nottingham.ac.uk/Vacancy.aspx?ref=SCI2159)
+2. [here](https://www.nottingham.ac.uk/computerscience/studywithus/postgraduateresearch/nottinghamdtcinai.aspx)
 
 <br>
 
