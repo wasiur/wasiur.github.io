@@ -1,6 +1,8 @@
 ## Research Interests
 Stochastic processes on random graphs, stochastic processes limits, queueing theory, large deviations, approximations of Markov Processes, machine learning, stochastic epidemiology, stochastic modelling and simulation of chemical reaction networks.
 
+## Research Opportunities
+
 I am looking for PhD students. I have several projects in the following broad areas of mathematics:
 
 * Applied Probability
@@ -10,6 +12,11 @@ I am looking for PhD students. I have several projects in the following broad a
 * Stochastic Reaction Networks
 
 If you are interested in any of these areas, please get in touch with me!
+
+Current open positions:
+
+1. [Stochastic analysis of biological systems](https://jobs.nottingham.ac.uk/Vacancy.aspx?ref=SCI2159)
+2. [Long-term Autonomy and Mobile Inspection with Spot](https://www.nottingham.ac.uk/computerscience/studywithus/postgraduateresearch/nottinghamdtcinai.aspx) ()
 
 
 ## Publications 
