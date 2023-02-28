@@ -53,10 +53,17 @@ I organise the Statistics and Probability seminars at Nottingham Maths. Below is
   <li>8 March 2023, 2pm. <a href="https://sites.google.com/view/sp-monte-carlo">Sam Power</a>, University of Bristol.
     <ul>
       <li>
-        <b>Title:</b> <em>  TBA</em> 
+        <b>Title:</b> <em>  Explicit convergence bounds for Metropolis Markov chains</em>
       </li>
       <li>
-          <b>Abstract:</b> <em>  TBA</em>
+          <b>Abstract:</b> <em>  Markov chain Monte Carlo (MCMC) algorithms are a widely-used tool for approximate simulation from probability measures in structured, high-dimensional spaces, with a variety of applications. A key ingredient of their success is their ability to converge rapidly to equilibrium at a rate which depends acceptably on the ‘difficulty' of the sampling problem at hand, as captured by the dimension of the problem, and the curvature and concentration properties of the target distribution.
+          <br>
+          In this talk, I will present recent work with C. Andrieu, A. Lee and A. Wang on the convergence analysis of Metropolis-type MCMC algorithms on R^d. In particular, we provide a detailed study of the Random Walk Metropolis (RWM) Markov chain with arbitrary proposal variances and in any dimension, obtaining interpretable estimates on their convergence behaviour under suitable assumptions. These estimates have a provably sharp dependence on the dimension of the problem, thus providing theoretical validation for the use of these algorithms in complex settings.
+          <br>
+          Our positive results are quite generally applicable. We also study the preconditioned Crank--Nicolson Markov chain as applied to simulation from Gaussian Process posterior models, obtaining dimension-independent complexity bounds under suitable assumptions.
+          <br>
+          Preprint available at <https://arxiv.org/abs/2211.08959>.
+          </em>
       </li>
     </ul>
   </li>
