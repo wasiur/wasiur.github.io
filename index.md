@@ -1,4 +1,4 @@
-<h2>Welcome to my homepage!</h2>
+
 <div class="row">
   <div class="col">
       <img align="left" src="/image/Wasiur_bike.jpg" alt="My only professional picture" width="275" hspace="20"/>
