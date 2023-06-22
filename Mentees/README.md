@@ -1,9 +1,24 @@
+## Research Opportunities
+
+I have several projects in the following broad areas of mathematics:
+
+* Applied Probability
+* Stochastic Processes
+* Epidemic Modelling
+* Mathematical Biology
+* Stochastic Reaction Networks
+
+If you are interested in any of these areas, please get in touch with me!
+
 
 ## PhD students
+3. Wesam El Buaishi (jointly with [Yordan Raykov](https://www.yordanraykov.net/) and [Katie Severn](https://www.nottingham.ac.uk/mathematics/people/katie.severn))
 2. Yajie Guo (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
 1. James Harborne (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
 
 ## M.Sc. students
+10. Changqing Du, 2023 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
+9. Nazreen Asok, 2023 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 8. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 7. Jianing Ye, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 6. Robert Lumpkin, 2019, Master degree project (jointly with Prof. Greg Rempala), Department of Mathematics, [The Ohio State University](https://www.osu.edu/), USA
@@ -15,6 +30,7 @@
 
 
 ## B.Sc. students
+9. Maoduan Ran, 2023, Summer internship, [The University of Nottingham](https://www.nottingham.ac.uk/)
 8. Sarina Rivlin-Sanders, 2022, Summer internship, [The University of Nottingham](https://www.nottingham.ac.uk/)
 7. Junzhe Zhu, 2022, Summer internship, [The University of Nottingham](https://www.nottingham.ac.uk/)
 6. Yi Dai, 2019, Summer project (jointly with Prof. Greg Rempala and Prof. Eben Kenah), [The Ohio State University](https://www.osu.edu/), USA
