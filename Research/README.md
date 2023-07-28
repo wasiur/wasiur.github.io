@@ -65,29 +65,30 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ### Contributed 
 24. Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Columbus, OH, USA, July 18, 2023
-23. BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022 
-22.  Annual Meeting of the Society for Mathematical Biology, June 13-17, 2021
-21.  Workshop on Mathematical and Computational Biology, June 10-11, 2021
-20.  The SIAM Conference on Applications of Dynamical Systems (DS21), May 23-27, 2021
-19.  ENAR Spring Meeting, March 14-17, 2021 
-18.  MBI Seminar, The Ohio State University, March 4, 2021
-17.  Joint Mathematical Epidemiology and Math Education SMB Subgroup Meeting, Feb 7-8, 2021
-16.  Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/lxW9R2SdV52LP-9aTimzNINB4BDoVW4wjVIgAgNe6TENW_Y-iVbUm7_b5zsHpVGu-1aS2mtCbVNRe59F.x-Qo0ghxSn8zDgkk?continueMode=true))
-15.  Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
-14.  Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
-13.  Joint Statistical Meetings 2020, virtual, August 2-6, 2020
-12. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
-11. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020 (postponed)
-10. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
-9. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
-8. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
-7. Joint Statistical Meeting (JSM) 2019, Denver Colorado, USA, 2019
-6. Stochastic Processes and their Applications, USA, July 2019
-5. BioMath 2019, Bedlevo, Poland, 2019
-4. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
-3. IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018
-2. IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017
-1. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
+23. Dynamical Systems in Life Sciences, The Ohio State University, July 13-15, 2023
+24. BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022 
+25.  Annual Meeting of the Society for Mathematical Biology, June 13-17, 2021
+26.  Workshop on Mathematical and Computational Biology, June 10-11, 2021
+27.  The SIAM Conference on Applications of Dynamical Systems (DS21), May 23-27, 2021
+28.  ENAR Spring Meeting, March 14-17, 2021 
+29.  MBI Seminar, The Ohio State University, March 4, 2021
+30.  Joint Mathematical Epidemiology and Math Education SMB Subgroup Meeting, Feb 7-8, 2021
+31.  Applied Math seminar, The Ohio State University, November 19, 2020 (video available [here](https://osu.zoom.us/rec/play/lxW9R2SdV52LP-9aTimzNINB4BDoVW4wjVIgAgNe6TENW_Y-iVbUm7_b5zsHpVGu-1aS2mtCbVNRe59F.x-Qo0ghxSn8zDgkk?continueMode=true))
+32.  Bernoulli-IMS One World Symposium 2020, virtual, August 25, 2020 (video available [here](https://www.youtube.com/watch?v=UBujKMt4zH4))
+33.  Mini-symposium speaker at the Annual Meeting of the SMB, virtual, August 19, 2020 
+34.  Joint Statistical Meetings 2020, virtual, August 2-6, 2020
+35. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
+36. MBI Seminar, the Ohio State University, Columbus, OH, March 31, 2020 (postponed)
+37. International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 
+38. Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019
+39. MBI Seminar, the Ohio State University, Columbus, OH, October, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
+40. Joint Statistical Meeting (JSM) 2019, Denver Colorado, USA, 2019
+41. Stochastic Processes and their Applications, USA, July 2019
+42. BioMath 2019, Bedlevo, Poland, 2019
+43. MBI Seminar, the Ohio State University, Columbus, OH, February, 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+44. IEEE International Conference on Computer Communications (IEEE INFOCOM), Honolulu, Hawaii, USA, 2018
+45. IEEE International Conference on Computer Communications (IEEE INFOCOM), Atlanta, GA, USA, 2017
+46. IFIP Networking Conference and Workshops, Vienna, Austria, 2016
 
 ### Poster 
 6. 22nd Meeting of New Researchers in Statistics and Probability, George Mason University, USA, August 4, 2022

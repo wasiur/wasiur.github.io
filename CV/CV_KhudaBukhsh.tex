@@ -55,7 +55,7 @@
 %\email{wasiur.rahman.kb@gmail.com}                            % optional, remove / comment the line if not wanted
 \homepage{https://www.wasiur.xyz/}                        % optional, remove / comment the line if not wanted
 %\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
-\social[twitter]{w\_khudabukhsh}                             % optional, remove / comment the line if not wanted
+% \social[twitter]{w\_khudabukhsh}                             % optional, remove / comment the line if not wanted
 %\social[github]{wasiur}                              % optional, remove / comment the line if not wanted
 %\extrainfo{https://wasiur.github.io/}                 % optional, remove / comment the line if not wanted
 %\social[Google Scholar]{W}
@@ -81,6 +81,7 @@
 
 \usepackage{natbib}
 \usepackage[defaultbib]{bibtopic}
+% \usepackage[]{bibtopic}
 \usepackage{graphicx}
 %----------------------------------------------------------------------------------
 %            content
@@ -284,7 +285,7 @@
 \subsection{\textbf{Peer-reviewed journal publications}}
 %\subsection{Peer-reviewed publications}
 
-\begin{btSect}{publications}
+\begin{btSect}[unsrt]{publications}
 % \btPrintNotCited
 \btPrintAll
 \end{btSect}
@@ -302,102 +303,16 @@
 \btPrintAll
 \end{btSect}
 
-\subsection{\textbf{Manuscripts in progress}}
-\begin{btSect}[unsrt]{under_prep}
-\btPrintAll
-\end{btSect}
+% \subsection{\textbf{Manuscripts in progress}}
+% \begin{btSect}[unsrt]{under_prep}
+% \btPrintAll
+% \end{btSect}
 
 \subsection{\textbf{Thesis and technical notes}}
 \begin{btSect}[unsrt]{other_publications}
 	% \btPrintNotCited
 	\btPrintAll
 \end{btSect}
-
-
-%\subsection{Under preparation}
-%\begin{btSect}[plain]{UnderPreparation}
-%% \btPrintNotCited
-%\btPrintAll
-%\end{btSect}
-
-
-
-
-% @techreport{techreport2015,
-% 	title = {{A Comprehensive Analysis of Swarming-based Live Streaming to Leverage Client Heterogeneity}},
-% 	author = {{Wasiur R. KhudaBukhsh, Julius R\"{u}ckert,  Julian Wulfheide,  David Hausheer and Heinz Koeppl}},
-% 	year = {{2015}},
-% 	institution = {{Technische Universit\"{a}t  Darmstadt, Germany}},
-% 	url={{http://www.bcs.tu-darmstadt.de/media/bcs/Technical_Report_WKB_1.pdf}}
-% }
-%
-%
-% @mastersthesis{master_thesis_wasiur,
-% 	author    = {{Wasiur R. KhudaBukhsh}},
-% 	title     = {{A Discussion on Simultaneous	Segmentation and Inhomogeneity	Correction of MR Images by EM	Algorithm}},
-% 	school    = {{Indian Statistical Institute, Calcutta}},
-%   year      = {{2011}}
-% }
-%
-
-
-%@misc{MultiColl2018,
-%	title={Strategies for multi-agent collaborative uploading},
-%	year={Under preparation},
-%	note={with Mahdi Mousavi, Sounak Kar, Bastian Alt, Amr Rizk, Anja Klein, and Heinz Koeppl}
-%}
-%
-%
-%@misc{DynMultihop2018,
-%	title={A decision framework for dynamic multi-hop wireless networks},
-%	year={Under preparation},
-%	note={with Mahdi Mousavi, Sounak Kar, Bastian Alt, Amr Rizk, Anja Klein, and Heinz Koeppl}
-%}
-
-
-
-
-% @misc{MarginalizedProcess,
-% title={Asymptotics for marginalized process dynamics with applications to chemical reaction networks},
-% year={Under preparation},
-% }
-%
-%
-%
-% @misc{LDPQueueLength2018,
-% title={Large deviations for the total queue length in a network of queues in tandem under changing environments},
-% year={Under preparation}
-% }
-%
-%
-% @misc{InfiniteServerQueues2018,
-% title={Asymptotics for  infinite-server queues with batch-arrival of multi-class customers},
-% year={Under preparation}
-% }
-
-
-% \renewcommand{\refname}{Soon-to-be-published}
-% \nocite{*}
-% \bibliography{SubmittedPapers,UnderPreparation}
-
-% Publications from a BibTeX file using the multibib package
-%\section{Publications}
-%\nocitebook{book1,book2}
-%\bibliographystylebook{plain}
-%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
-%\nocitemisc{misc1,misc2,misc3}
-%\bibliographystylemisc{plain}
-%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
-
-% \section{Master Thesis}
-% \cvitem{Title}{\emph{A Discussion on Simultaneous
-% 		Segmentation and Inhomogeneity
-% 		Correction of MR Images by EM
-% 		Algorithm}}
-% \cvitem{Supervisor}{\href{http://www.isical.ac.in/~pmaji/}{\textbf{Dr. Pradipta Maji}}}
-% %\cvitem{description}{Short thesis abstract}
-%
-%
 
 
 
@@ -463,7 +378,7 @@ Unsuccessful:
 
 
 \section{Presentations}
-Summary: 37 invited and 24 contributed/local talks. 7 poster presentations.
+Summary: 37 invited and 25 contributed/local talks. 7 poster presentations.
 \subsection{Invited talks}
 \begin{enumerate}
 	\item Mathematical Life Sciences talk, University of Bonn, Germany, December 1, 2023. 
@@ -512,6 +427,7 @@ Summary: 37 invited and 24 contributed/local talks. 7 poster presentations.
 \subsection{Contributed talks}
 \begin{enumerate}
 	\item Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, July 16-21, 2023. 
+	\item Dynamical Systems in Life Sciences, The Ohio State University, July 13-15, 2023.
 	\item BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022
 	\item Annual Meeting of the Society for Mathematical Biology, June 13-17, 2021
 	\item Workshop on Mathematical and Computational Biology, June 10-11, 2021
@@ -748,7 +664,7 @@ Summary: Supervised/Co-supervised a total of 15 undergrad (B.Sc., not including 
 \subsection{Other Services}
 \begin{enumerate}
 	\item Judge for abstract submissions at the Annual Meeting of the MIDAS Network, 2021
-	\item Judge for poster sessions at the Annual Meeting of the SMB 2021
+	\item Judge for poster sessions at the Annual Meeting of the SMB 2021, 2023. 
 \end{enumerate}
 
 \subsection{Professional Memberships}
