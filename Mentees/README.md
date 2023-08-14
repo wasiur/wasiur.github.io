@@ -10,11 +10,16 @@ I have several projects in the following broad areas of mathematics:
 
 If you are interested in any of these areas, please get in touch with me!
 
+## Postdoctoral Research Fellowships
+
+1. Olga Iziumtseva (09/2023 - 09/2025)
 
 ## PhD students
-3. Wesam El Buaishi (jointly with [Yordan Raykov](https://www.yordanraykov.net/) and [Katie Severn](https://www.nottingham.ac.uk/mathematics/people/katie.severn))
-2. Yajie Guo (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
-1. James Harborne (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
+
+4. Kushankur Dutta 08/2023 - (jointly with [Michael Tretyakov](https://www.maths.nottingham.ac.uk/plp/pmzmt/) and [Karthik Bharath](https://karthikbharath.github.io/))
+3. Wesam El Buaishi 06/2023 - (jointly with [Yordan Raykov](https://www.yordanraykov.net/) and [Katie Severn](https://www.nottingham.ac.uk/mathematics/people/katie.severn))
+2. Yajie Guo 12/2022 - (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
+1. James Harborne, 08/2022 - (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
 
 ## M.Sc. students
 10. Changqing Du, 2023 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)

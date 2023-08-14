@@ -1,5 +1,5 @@
 ## External links
-| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [Twitter](https://twitter.com/w_khudabukhsh) | [GitHub](https://github.com/wasiur) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
+| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [GitHub](https://github.com/wasiur) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
 
 ## Publications
 
