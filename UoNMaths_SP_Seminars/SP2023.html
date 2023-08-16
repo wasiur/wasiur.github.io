@@ -1,0 +1,191 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>UoNMaths Statistics and Probability Seminars Spring 2023</title>
+    </head>
+    <body>
+        <ul>
+            <li>2 February 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/luis.espath">Luis Espath</a>,
+                University of Nottingham.
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> Physics-informed Spectral Learning: Wind Reconstruction</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> We propose a Physics-informed Spectral Learning framework. Within this
+                            physics-informed type of statistical learning approach, we adaptively build a sparse set of Fourier
+                            basis functions with corresponding coefficients by solving a sequence of minimization problems where
+                            the set of basis functions is augmented greedily at each optimization problem. We regularize our
+                            minimization problems with the seminorm of the fractional Sobolev space in a Tikhonov fashion. To
+                            show the capability of this tool, we address two classical physical problems. First, we reconstruct
+                            the velocity field of incompressible flows given a finite set of measurements of an underlying
+                            incompressible flow. This is applied to generate the UK wind map. Second, we perform the
+                            Helmholtz--Hodge decomposition given a finite set of measurements of an underlying flow. This is
+                            used to detect the hurricane eye of the storm of the century 1993. For this spatial approximation,
+                            we developed the Sparse Fourier approximation based on a discrete $L^2$ projection. In the Fourier
+                            setting, the divergence- and curl-free constraints become a finite set of linear algebraic
+                            equations. This work is based on [1,2].
+                            <br>
+                            [1] Luis Espath, Dmitry Kabanov, Jonas Kiessling, and RaúlTempone. Statistical learning for fluid
+                            flows: Sparse Fourier divergence-free approximations. Physics of Fluids, 33(9):097108, 2021.
+                            [2] Dmitry Kabanov, Luis Espath, Jonas Kiessling, and Raúl Tempone. Estimating divergence-free flows
+                            via neural networks. PAMM, 21(1):e202100173, 2021.
+                        </em>
+                    </li>
+                </ul>
+            </li>
+            <li>9 February 2023, 2pm. <a href="https://www.ucl.ac.uk/statistics/people/codina_cotar">Codina Cotar</a>,
+                University College London. (Cancelled)
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> TBA</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> TBA</em>
+                    </li>
+                </ul>
+            </li>
+            <li>23 February 2023, 2pm. <a href="https://profiles.sussex.ac.uk/p469630-minmin-wang">Minmin Wang</a>, University
+                of Sussex. (Cancelled)
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> TBA</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> TBA</em>
+                    </li>
+                </ul>
+            </li>
+            <li>2 March 2023, 2pm. <a href="https://sites.google.com/view/marioberaha">Mario Beraha</a>, Università di Torino.
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> Random Measure Priors in Bayesian Frequency Recovery from Sketches</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> Consider the problem of dealing with a stream of tokens, where each token could be
+                            an IP address, a URL, or a language n-gram. Each token takes values in a set whose dimension is too
+                            large to store in a computer, and a compression strategy must be devised for inference. The
+                            count-min sketch (CMS) is a randomized data structure dealing with situations as before. In a CMS,
+                            data is processed by multiple random hash functions that map the tokens’ space into {1, …, J}. Since
+                            J is smaller than the total number of possible tokens, applying the hash function leads to a loss in
+                            the information stored. Nonetheless, it is possible to estimate the frequency of each token (i.e.,
+                            how many times it appeared) with high accuracy, at least in probability, even for moderate values of
+                            J and hash functions.
+                            In the traditional CMS, the stream of tokens is treated as a deterministic sequence, and randomness
+                            is introduced by considering i.i.d. random hash functions. Here, we take a statistical point of view
+                            and propose to consider a probabilistic model for the data as well, specifically a Bayesian
+                            nonparametric species sampling model. We provide an explicit expression for the posterior
+                            probability of the frequency of each token for a wide class of priors, namely the Poisson-Kingman
+                            class. However, we show that the Dirichlet process is the only prior leading to a tractable
+                            expression. Then, we generalize our approach to more complex data streams, considering, for
+                            instance, streams of documents made of several n-grams.
+                            Joint work with Stefano Favaro
+                        </em>
+                    </li>
+                </ul>
+            </li>
+            <li>8 March 2023, 2pm. <a href="https://sites.google.com/view/sp-monte-carlo">Sam Power</a>, University of Bristol.
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> Explicit convergence bounds for Metropolis Markov chains</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> Markov chain Monte Carlo (MCMC) algorithms are a widely-used tool for approximate
+                            simulation from probability measures in structured, high-dimensional spaces, with a variety of
+                            applications. A key ingredient of their success is their ability to converge rapidly to equilibrium
+                            at a rate which depends acceptably on the ‘difficulty' of the sampling problem at hand, as captured
+                            by the dimension of the problem, and the curvature and concentration properties of the target
+                            distribution.
+                            <br>
+                            In this talk, I will present recent work with C. Andrieu, A. Lee and A. Wang on the convergence
+                            analysis of Metropolis-type MCMC algorithms on R^d. In particular, we provide a detailed study of
+                            the Random Walk Metropolis (RWM) Markov chain with arbitrary proposal variances and in any
+                            dimension, obtaining interpretable estimates on their convergence behaviour under suitable
+                            assumptions. These estimates have a provably sharp dependence on the dimension of the problem, thus
+                            providing theoretical validation for the use of these algorithms in complex settings.
+                            <br>
+                            Our positive results are quite generally applicable. We also study the preconditioned
+                            Crank--Nicolson Markov chain as applied to simulation from Gaussian Process posterior models,
+                            obtaining dimension-independent complexity bounds under suitable assumptions.
+                            <br>
+                            Preprint available at <https: //arxiv.org/abs/2211.08959>.
+                        </em>
+                    </li>
+                </ul>
+            </li>
+            <li>23 March 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva">Olga
+                    Iziumtseva</a>, University of Nottingham.
+                <ul>
+                    <li>
+                        <b>Title:</b> <em> Hilbert-valued self-intersection local times for planar Brownian motion</em>
+                    </li>
+                    <li>
+                        <b>Abstract:</b> <em> Trajectories of planar Brownian motion are very irregular curves. Usual tools of the differential geometry are not
+                        applicable for description of its geometrical shape. One can use Dynkin-renormalized self-intersection local times, for
+                        example, as the geometrical characteristics of planar Brownian motion. In the talk E.B. Dynkin construction for
+                        self-intersection local times of planar Brownian motion is extended on Hilbert-valued weights. In Dynkin construction
+                        the weight is bounded and measurable. Since the weight function can describe the properties of the media in which the
+                        Brownian motion moves, then relatively to the external media properties the weight function can be random and unbounded.
+                        In the talk we discuss a possibility to consider the Hilbert-valued weights. It appears that the existence of
+                        Hilbert-valued Dynkin-renormalized self-intersection local times is equivalent to the embedding of the values of
+                        Hilbert-valued weight into Hilbert- Schmidt brick. Using A.A. Dorogovtsev sufficient condition of the embedding of
+                        compact sets into Hilbert-Schmidt brick in terms of isonormal process we prove the existence of Hilbert-valued
+                        Dynkin-renormalized self-intersection local times.</em>
+                    </li>
+                </ul>
+            </li>
+            <li>6 April 2023, 2pm. <a href="https://fadikar.com/about/">Arindam Fadikar</a>, Argonne National Laboratory.
+                <ul>
+                    <li> <b>Title:</b> <em> Scalable Statistical Inference of Photometric Redshift via Data Subsampling</em></li>
+                    <li>
+                        <b>Abstract:</b>
+                        <em> In this talk, we will discuss a novel data-driven statistical modeling framework that combines the uncertainties from an
+                        ensemble of statistical models learned on smaller subsets of data carefully chosen to account for imbalances in the
+                        input space. We demonstrate this method on a photometric redshift estimation problem in cosmology, which seeks to infer
+                        a distribution of the redshift -- the stretching effect in observing the light of far-away galaxies -- given
+                        multivariate color information observed for an object in the sky. Our proposed method performs balanced partitioning,
+                        graph-based data subsampling across the partitions, and training of an ensemble of Gaussian process models.</em>
+                    </li>
+                </ul>
+            </li>
+            <li>20 April 2023, 2pm. <a href="https://www.nottingham.ac.uk/mathematics/people/federico.girotti">Federico
+                    Girotti</a>, University of Nottingham.
+                <ul>
+                    <li> <b>Title:</b> <em> Concentration Inequalities for Output Statistics of Quantum Markov Processes</em></li>
+                    <li>
+                        <b>Abstract:</b>
+                        <em> Concentration inequalities play a fundamental role in many different fields including, among the others, mathematical
+                        statistics, learning theory, random matrix theory and statistical physics. A rich and well established theory is now
+                        available to bound the fluctuations of well-behaving functions of independent random variables and many tools have been
+                        extended to deal with functions of weakly dependent random variables, first and foremost Markov chains. In our talk we
+                        will present some new concentration bounds for time averages of measurement outcomes in quantum Markov processes, which
+                        is a relevant class of stochastic processes arising from indirect monitoring of quantum systems. The techniques and
+                        ideas draw from those employed for empirical averages of classical Markov chains; however, if specialized to the
+                        classical setting, the bounds provide new concentration inequalities for empirical fluxes of classical Markov chain and
+                        imply inverse thermodynamic uncertainty relations. The talk is based on joint work with G. Bakewell-Smith, M. Guta and
+                        J. P. Garrahan (https://link.springer.com/article/10.1007/s00023-023-01286-1, https://arxiv.org/abs/2210.04983).</em>
+                    </li>
+                </ul>
+            </li>
+            <li>27 April 2023, 2pm. <a href="https://mzhilova7.math.gatech.edu/">Mayya Zhilova</a>, Georgia Tech.
+                <ul>
+                    <li> <b>Title:</b> <em> Accuracy of the bootstrap and the normal approximation in a high-dimensional framework</em></li>
+                    <li>
+                        <b>Abstract:</b>
+                        <em> In this talk we will address the problem of establishing a higher-order accuracy of bootstrapping procedures and
+                        (non-)normal approximation in a multivariate or high-dimensional setting. This topic is important for numerous problems
+                        in statistical inference and applications concerned with confidence estimation and hypothesis testing, and involving a
+                        growing dimension of an unknown parameter or high-dimensional random data. The new results outperform or sharpen
+                        accuracy of the normal approximation in existing Berry–Esseen inequalities under very general conditions. The
+                        established approximation bounds allow to track dependence of error terms on a dimension and a sample size in an
+                        explicit way. We also show optimality of these results in case of symmetrically distributed random summands. The talk
+                        will include an overview of statistical problems where the new results lead to improvements in accuracy of estimation
+                        procedures.</em>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>
