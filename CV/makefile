@@ -3,27 +3,27 @@
 all:		CV_KhudaBukhsh.pdf 
 
 CV_KhudaBukhsh.pdf:	CV_KhudaBukhsh.tex force
-	pdflatex $<
+	lualatex $<
 	bibtex CV_KhudaBukhsh1.aux
 	bibtex CV_KhudaBukhsh2.aux
 	bibtex CV_KhudaBukhsh3.aux
 	bibtex CV_KhudaBukhsh4.aux
 	bibtex CV_KhudaBukhsh5.aux
-	pdflatex $<
-	pdflatex $<
-	pdflatex $<
+	lualatex $<
+	lualatex $<
+	lualatex $<
 	open CV_KhudaBukhsh.pdf
 
 ListOfPublications.pdf:	ListOfPublications.tex force
-	pdflatex $<
+	lualatex $<
 	bibtex ListOfPublications1.aux
 	bibtex ListOfPublications2.aux
 	bibtex ListOfPublications3.aux
 	bibtex ListOfPublications4.aux
 	bibtex ListOfPublications5.aux
-	pdflatex $<
-	pdflatex $<
-	pdflatex $<
+	lualatex $<
+	lualatex $<
+	lualatex $<
 	open ListOfPublications.pdf
 
 force:		;
