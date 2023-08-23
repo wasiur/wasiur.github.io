@@ -44,14 +44,16 @@ Email: wasiur.khudabukhsh@nottingham.ac.uk
 
 
 ## Education
-1. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
+
+1. Associate Fellowship (AFHEA), Advance HE (formerly Higher Education Academy), UK, 2023. 
+2. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
     * PhD. (Dr. rer. nat.), 2014 - 2018.
     * Department of Electrical Engineering and Information Technology 
     * Advisor: [Prof. Heinz Koeppl](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp)
     * Thesis available [here](http://tuprints.ulb.tu-darmstadt.de/7588/).
-2. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
+3. [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata, India.
     * M. Stat., 2009-2011.
-3. [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India.
+4. [University of Calcutta](http://www.caluniv.ac.in/), Kolkata, India.
     * B. Sc. with Honours in Statistics, 2006-2009. 
 
 ## Publications 
