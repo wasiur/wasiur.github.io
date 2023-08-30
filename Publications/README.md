@@ -31,21 +31,21 @@ Please email me if you do not have access to any of the papers. Download list of
 18. Hye-Won Kang\*, _Wasiur R. KhudaBukhsh_\*, Heinz Koeppl, and Grzegorz Rempała. Quasi-Steady-State Approximations Derived from the Stochastic Model of Enzyme Kinetics. **Bulletin of Mathematical Biology**, 2019. (* joint first authors.) [[Published version]](https://doi.org/10.1007/s11538-019-00574-4) [[Preprint]](https://arxiv.org/abs/1711.02791)
 19. Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, _Wasiur R. KhudaBukhsh_, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz. Transitions: A protocol-independent view of the future internet. **Proceedings of the IEEE**, 2019. [[Publisher version]](https://ieeexplore.ieee.org/document/8651367)
 20. _Wasiur R. KhudaBukhsh_, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. SchedMix: Heterogeneous strategy assignment in swarming-based live streaming. **Open Transactions on Communication Systems (OTCS)**, 2018. [Accepted for publication]
-21. _Wasiur R. KhudaBukhsh_, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies. **IEEE International Conference on Computer Communications (INFOCOM)**, 2018.
-[**Best-in-Session Presentation Award**]
-1.    _Wasiur R. KhudaBukhsh_, Amr Rizk, Alexander Frömmgen, and Heinz Koeppl. Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds and Applications. **IEEE International Conference on Computer Communications (INFOCOM)**, 2017. [[Published version]](http://ieeexplore.ieee.org/document/8057013/).
-2.    Adrian Šošić, _Wasiur R. KhudaBukhsh_, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. **AAMAS Workshop on Transfer in Reinforcement Learning**, 2017. [[Published version]](http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf).
-3.    Mahdi Mousavi, Hussein Al Shatri, _Wasiur R. KhudaBukhsh_, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. **IEEE 86th Vehicular Technology Conference (VTC)**, 2017.
-4.    Adrian Šošić, _Wasiur R. KhudaBukhsh_, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. **International Conference on Autonomous Agents & Multiagent Systems (AAMAS)**, 2017. [[Published version]](https://dl.acm.org/citation.cfm?id=3091320). 
+21. _Wasiur R. KhudaBukhsh_, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies. **IEEE International Conference on Computer Communications (INFOCOM)**, 2018.[**Best-in-Session Presentation Award**]
+22.    _Wasiur R. KhudaBukhsh_, Amr Rizk, Alexander Frömmgen, and Heinz Koeppl. Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds and Applications. **IEEE International Conference on Computer Communications (INFOCOM)**, 2017. [[Published version]](http://ieeexplore.ieee.org/document/8057013/).
+23.    Adrian Šošić, _Wasiur R. KhudaBukhsh_, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. **AAMAS Workshop on Transfer in Reinforcement Learning**, 2017. [[Published version]](http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf).
+24.    Mahdi Mousavi, Hussein Al Shatri, _Wasiur R. KhudaBukhsh_, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. **IEEE 86th Vehicular Technology Conference (VTC)**, 2017.
+25.    Adrian Šošić, _Wasiur R. KhudaBukhsh_, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. **International Conference on Autonomous Agents & Multiagent Systems (AAMAS)**, 2017. [[Published version]](https://dl.acm.org/citation.cfm?id=3091320). 
 [**Best paper award finalist**]
-1.    _Wasiur R. KhudaBukhsh_, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. **IFIP Networking Conference (IFIP Networking)**, 2016. [[Published version]](http://ieeexplore.ieee.org/document/7497234/).
+26.    _Wasiur R. KhudaBukhsh_, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. **IFIP Networking Conference (IFIP Networking)**, 2016. [[Published version]](http://ieeexplore.ieee.org/document/7497234/).
 
 
-### Preprints
+### Preprints/Submitted
 
 1. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed
 population under repeated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
 2. Istvan Z. Kiss, Luc Berthouze, _Wasiur R. KhudaBukhsh_. Towards inferring network properties from epidemic data. [[Preprint]](https://arxiv.org/abs/2302.02470) (Revision requested)
+3. Yushuf Sharker, Zaynab Diallo, _Wasiur R. KhudaBukhsh_, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. 
 
    
 
