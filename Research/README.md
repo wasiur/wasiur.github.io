@@ -13,11 +13,6 @@ I am looking for PhD students. I have several projects in the following broad a
 
 If you are interested in any of these areas, please get in touch with me!
 
-Current open positions:
-
-1. [Stochastic analysis of biological systems](https://jobs.nottingham.ac.uk/Vacancy.aspx?ref=SCI2159)
-2. [Long-term Autonomy and Mobile Inspection with Spot](https://www.nottingham.ac.uk/computerscience/studywithus/postgraduateresearch/nottinghamdtcinai.aspx) ()
-
 
 ## Publications 
 List of publications available [here](https://www.wasiur.xyz/Publications/).
@@ -25,43 +20,45 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 ## Research Talks/presentations
 ### Invited
 
-1. Mathematical Life Sciences talk, University of Bonn, Germany, December 1, 2023.
-2. Mini-symposium speaker, ICIAM, Tokyo, Japan, August 20-25, 2023.
-3. SMB Diversity in Math Bio seminar series, July 25, 2023. 
-4. Dynamical Systems in the Life Sciences, Columbus, OH, USA, July 13-15, 2023
-5. Mini-symposium speaker, SIAM Conference on Optimization 2023, Seattle, Washington, USA, June 2, 2023.
-6. Probability Seminar, Louisiana State University, USA, April 3, 2023.
-7. Stochastics Seminar, Georgia Tech, USA, March 2, 2023. (online)
-8. NANT Lecture, Networking in Applied Network Theory, Bedlewo, Poland, February 23, 2023. (online)
-9.  Theoretical Statistics and Mathematics Seminar, Indian Statistical Institute, New Delhi, December 14, 2022.
-10. Invited speaker, Workshop on Non-equilibrium Phenomena in Physics and Biology, Asia Pacific Center for Theoretical Physics, South Korea, December 5-8, 2022.
-11. Invited speaker, Self-Organizing Systems Workshop, Technische Universit\"at Darmstadt, Germany,  December 2, 2022.
-12. Mini-symposium speaker at SIAM Conference on Uncertainty Quantification, April 15, 2022.
-13. Statistics and Probability Seminar, University of Nottingham. February 3, 2022.
-14. Mathematics of Reaction Networks (MoRN) seminar, January 27, 2022.
-15. Math Bio seminar, The Ohio State University, virtual, November 4, 2021
-16. Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
-17. American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
-18. Guest lecture on infectious disease epidemiology, The Ohio State University, virtual, September 16, 2021
-19. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
-20. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
-21. IDI Virtual COVID-19 Symposium, December 3, 2020 
-22. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
-23. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
-24. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
-25. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 
-26. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 
-27. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
-28. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
-29. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
-30. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
-31. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
-32. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
-33. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
-34. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
-35. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-36. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
-37. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
+1. Mathematical Biology Seminar, University of Leeds, UK, December 7, 2023. 
+2. Mathematical Life Sciences talk, University of Bonn, Germany, December 1, 2023.
+3. Probability Seminar, Louisiana State University, USA, November 7, 2023.
+4. Mini-symposium speaker, ICIAM, Tokyo, Japan, August 20-25, 2023.
+5. SMB Diversity in Math Bio seminar series, July 25, 2023. 
+6. Dynamical Systems in the Life Sciences, Columbus, OH, USA, July 13-15, 2023
+7. Mini-symposium speaker, SIAM Conference on Optimization 2023, Seattle, Washington, USA, June 2, 2023.
+8. Probability Seminar, Louisiana State University, USA, April 3, 2023.
+9. Stochastics Seminar, Georgia Tech, USA, March 2, 2023. (online)
+10. NANT Lecture, Networking in Applied Network Theory, Bedlewo, Poland, February 23, 2023. (online)
+11. Theoretical Statistics and Mathematics Seminar, Indian Statistical Institute, New Delhi, December 14, 2022.
+12. Invited speaker, Workshop on Non-equilibrium Phenomena in Physics and Biology, Asia Pacific Center for Theoretical Physics, South Korea, December 5-8, 2022.
+13. Invited speaker, Self-Organizing Systems Workshop, Technische Universit\"at Darmstadt, Germany,  December 2, 2022.
+14. Mini-symposium speaker at SIAM Conference on Uncertainty Quantification, April 15, 2022.
+15. Statistics and Probability Seminar, University of Nottingham. February 3, 2022.
+16. Mathematics of Reaction Networks (MoRN) seminar, January 27, 2022.
+17. Math Bio seminar, The Ohio State University, virtual, November 4, 2021
+18. Stochastic Systems seminar talk, Department of Mathematics, University of California San Diego, virtual, October 21, 2021
+19. American Institute of Mathematics (AIM) Workshop on "Limits and control of stochastic reaction networks", July 28, 2021
+20. Guest lecture on infectious disease epidemiology, The Ohio State University, virtual, September 16, 2021
+21. Colloquium talk, Department of Mathematics, Simon Fraser University, virtual, April 23, 2021
+22. Special session at the Joint Mathematics Meetings (JMM), virtual, January 6-9, 2021 
+23. IDI Virtual COVID-19 Symposium, December 3, 2020 
+24. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 30, 2020
+25. Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, November 19, 2020
+26. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, October 30, 2020 
+27. Math-Bio Seminar, Virginia Tech, virtual, September 23, 2020 
+28. International Webinar Series on Artificial Intelligence and Machine Learning, virtual, September 18, 2020 
+29. Workshop on "Life on Planet Earth: Above and Below", MBI, OSU, August 11, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4954&title=Incorporating+age+and+delay+into+models+for+biophysical+systems))
+30. Special session of Data Science, Business Intelligence Unit, ICICI Bank, Mumbai, India, July 24, 2020
+31. International Webinar, Departments of Mathematics and Physics, Bidhan Chandra College, virtual, July 18, 2020 (video available [here](https://www.youtube.com/watch?v=rR3MpyqkJoA))
+32. Special session on Epidemic modeling. The Erdös Institute Python Bootcamp, virtual, May 28, 2020
+33. Biostatistics seminar, the Ohio State University, Columbus, OH, USA, February 28, 2020
+34. Mathematical Modeling and Statistical Analysis of Infectious Disease Outbreaks conference, Center International de Rencontres Mathématiques (CIRM), Marseille, France, February 21, 2020
+35. Mini-symposium speaker at the Annual Meeting of the SMB, Montreal, Canada, 2019
+36. Mini-symposium speaker at the BioMath 2019 conference, Bedlewo, Poland, June 2019 
+37. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
+38. Mini-symposium speaker at the Annual Meeting of the SMB and the JSMB, Sydney, Australia, 2018
+39. Cloud Computing, Machine Learning And Networking Research (CLAN) Lab, Purdue University, Host : Vaneet Aggarwal (May, 2017)
 
 ### Contributed 
 24. Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Columbus, OH, USA, July 18, 2023

@@ -43,9 +43,10 @@ Please email me if you do not have access to any of the papers. Download list of
 ### Preprints/Submitted
 
 1. Matthew Wascher, Patrick Schnell, _Wasiur R. KhudaBukhsh_, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed
-population under repeated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1)
+population under repeated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1) (Revision requested)
 2. Istvan Z. Kiss, Luc Berthouze, _Wasiur R. KhudaBukhsh_. Towards inferring network properties from epidemic data. [[Preprint]](https://arxiv.org/abs/2302.02470) (Revision requested)
-3. Yushuf Sharker, Zaynab Diallo, _Wasiur R. KhudaBukhsh_, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. 
+3. Yushuf Sharker, Zaynab Diallo, _Wasiur R. KhudaBukhsh_, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)
+4. Karim Elsayed, _Wasiur R. KhudaBukhsh_, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. [[Preprint]](https://arxiv.org/abs/2310.18198) (Submitted)
 
    
 
