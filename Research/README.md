@@ -97,16 +97,17 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 
 ## Workshop/conference organization
-1. Mini-symposium at the SIAM Optimization 2023. (jointly with Yordan Raykov)
-2. Mini-sympoisum at the Annual Meeting of the SMB, Columbus, Ohio, July 2023. (Jointly with Hye-Won Kang.)
-3. Workshop on ["Recent Challenges in Mathematical Epidemiology"](https://www.wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html), September 27, 2022. (jointly with Kirsty Bolton and Yordan Raykov)
-4. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
-5. AIM SQuaREs project 2022-2024. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
-6. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del Valle, Joel C. Miller and Rick Durrett)
-7. Mini-symposium at the SIAM Conference on Applications of Dynamical Systems, 2021
-8. Mini-symposium at the Annual Meeting of the Society for Mathematical Biology, 2021 (Jointly with Hye-Won Kang)
-9. Invited session at the Annual Meeting of the ENAR, 2021 (jointly with Marissa Renardy)
-10. Mini-symposium at the Annual Meeting of the SMB, virtual, August 19, 2020 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
-11. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, June 11, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
-12. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
-13. Invited session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
+1. RSS Workshop on Epidemic Modelling, University of Nottingham, October 11, 2023. (jointly with Alex Cox, Fraser Daly, and Lucy Teece) 
+2. Mini-symposium at the SIAM Optimization 2023. (jointly with Yordan Raykov)
+3. Mini-sympoisum at the Annual Meeting of the SMB, Columbus, Ohio, July 2023. (Jointly with Hye-Won Kang.)
+4. Workshop on ["Recent Challenges in Mathematical Epidemiology"](https://www.wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html), September 27, 2022. (jointly with Kirsty Bolton and Yordan Raykov)
+5. Mini-symposium at the ECMTB 2022. (jointly with Hye-Won Kang)
+6. AIM SQuaREs project 2022-2024. (jointly with Hye-Won Kang, Lea Popovic, Greg Rempala, Ruth Williams and Felipe Campos)
+7. BIRS Workshop on “Preparing for the next pandemic”, June 12-17, 2022 (jointly with Sara Del Valle, Joel C. Miller and Rick Durrett)
+8. Mini-symposium at the SIAM Conference on Applications of Dynamical Systems, 2021
+9. Mini-symposium at the Annual Meeting of the Society for Mathematical Biology, 2021 (Jointly with Hye-Won Kang)
+10. Invited session at the Annual Meeting of the ENAR, 2021 (jointly with Marissa Renardy)
+11. Mini-symposium at the Annual Meeting of the SMB, virtual, August 19, 2020 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
+12. Mini-symposium at the SIAM Conference on Mathematics of Data Science (MDS20), Cincinnati, OH, USA, June 11, 2020 (jointly with [Veronica Ciaconel](https://www.asc.ohio-state.edu/ciocanel.1/index.html))
+13. Contributed Session at the Latin American Congress of Probability and Mathematical Statistics (CLAPEM) XV, Merida-Yucatán, México, December, 2019 (jointly with [Hye-Won Kang](https://userpages.umbc.edu/~hwkang/)) 
+14. Invited session at the 2019 International Indian Statistical Association Conference (IISA 2019), Mumbai, India, December 2019 (jointly with [Arindam Fadikar](https://www.anl.gov/profile/arindam-fadikar))
