@@ -45,7 +45,7 @@ Email: wasiur.khudabukhsh@nottingham.ac.uk
 
 ## Education
 
-1. Associate Fellowship (AFHEA), Advance HE (formerly Higher Education Academy), UK, 2023. 
+1.  Fellowship (FHEA), Advance HE (formerly Higher Education Academy), UK, 2023. 
 2. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
     * PhD. (Dr. rer. nat.), 2014 - 2018.
     * Department of Electrical Engineering and Information Technology 
