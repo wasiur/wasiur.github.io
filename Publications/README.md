@@ -47,9 +47,9 @@ Please email me if you do not have access to any of the papers. Download list of
 population under repeated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1) (Revision requested)
 2. Yushuf Sharker, Zaynab Diallo, _Wasiur R. KhudaBukhsh_, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)
 3. Karim Elsayed, _Wasiur R. KhudaBukhsh_, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. [[Preprint]](https://arxiv.org/abs/2310.18198) (Submitted)
+4. Mark Sinzger-D'Angelo, Heinz Koeppl, and _Wasiur R. KhudaBukhsh_. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. Technical note. arXiv preprint: [https://arxiv.org/abs/1808.00258](https://arxiv.org/abs/1808.00258) (Submitted)
 
    
 
 ### Theses and technical notes
-2. _Wasiur R. KhudaBukhsh_. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)
-1. _Wasiur R. KhudaBukhsh_, Mark Sinzger, and Heinz Koeppl. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. Technical note. arXiv preprint: [https://arxiv.org/abs/1808.00258](https://arxiv.org/abs/1808.00258)
+1. _Wasiur R. KhudaBukhsh_. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: [http://tuprints.ulb.tu-darmstadt.de/7588/](http://tuprints.ulb.tu-darmstadt.de/7588/)

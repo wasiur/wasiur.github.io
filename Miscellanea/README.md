@@ -1,8 +1,9 @@
-## Statistics and Probability seminars
-I organise the Statistics and Probability seminars at Nottingham Maths. List of upcoming talks in the seminar series can be found [here](https://www.wasiur.xyz/UoNMaths_SP_Seminars/).
+<!-- ## Statistics and Probability seminars
+I organise the Statistics and Probability seminars at Nottingham Maths. List of upcoming talks in the seminar series can be found [here](https://www.wasiur.xyz/UoNMaths_SP_Seminars/). -->
 
 ## News
-1. [Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton), [Yordan Raykov](https://www.yordanraykov.net/), and I are organizing a one-day workshop on "Recent challenges in mathematical epidemiology". More details available [here](https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html)
+1. Alex Cox, Fraser Daly, Lucy Teece, and I organized a workshop on "Mathematical Epidemiology" on behalf of the Applied Probability Section and the East Midlands Local Group of the Royal Statistical Society (RSS) on October 11, 2023. 
+2. [Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton), [Yordan Raykov](https://www.yordanraykov.net/), and I organized a one-day workshop on "Recent challenges in mathematical epidemiology". More details available [here](https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html)
 
 The OSU/IDI COVID-19 response modeling team received much appreciation. I am fortunate to have contributed to this effort. Here are some highlights: 
 1. OSC news: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans)
@@ -17,7 +18,7 @@ Other news
 3. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
 4. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
 
-
+<!-- 
 ## Videos of my talks
 Links to some of my talks:
 1. BIRS Workshop on "Preparing for the next pandemic". June 15, 2022. (video available [here](http://www.birs.ca/events/2022/5-day-workshops/22w5058/videos/watch/202206150945-KhudaBukhsh.html))
@@ -31,7 +32,7 @@ Links to some of my talks:
 9. Mathematical and Computational Methods in Biology, MBI, OSU, Columbus, OH, May 6, 2020 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4922&title=Survival+Dynamical+Systems%3A+individual-level+survival+analysis+from+population-level+epidemic+models))
 10. MBI Seminar, the Ohio State University, Columbus, OH, October 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4781&title=Seminar%253A+Wasiur+KhudaBukhsh+-+Multi-Scale+Dynamics+of+Stochastic+Biological+Systems+Through+the+Lens+of+Survival+Dynamical+Systems+%2528SDS%2529))
 11. Workshop on "Scaling Limits of Dynamical Processes on Random Graphs" at BIRS-CMO, Oaxaca, Mexico, May 2019 (video available [here](http://www.birs.ca/events/2019/5-day-workshops/19w5071/videos/watch/201905201502-KhudaBukhsh.html))
-12. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries))
+12. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries)) -->
 
 
 ## Professional Service
