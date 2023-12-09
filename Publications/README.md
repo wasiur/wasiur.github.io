@@ -11,7 +11,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 ### Peer-reviewed publications
 
-1. Istvan Z. Kiss, Luc Berthouze, _Wasiur R. KhudaBukhsh_. Towards inferring network properties from epidemic data. **Bulletin of Mathematical Biology**, 2024. [[Preprint]](https://arxiv.org/abs/2302.02470) (Accepted for publication)
+1. Istvan Z. Kiss, Luc Berthouze, _Wasiur R. KhudaBukhsh_. Towards inferring network properties from epidemic data. **Bulletin of Mathematical Biology**, 2024. [[Published version]](https://link.springer.com/article/10.1007/s11538-023-01235-3) [[Preprint]](https://arxiv.org/abs/2302.02470) 
 2. _Wasiur R. KhudaBukhsh_, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. **Frontiers in Public Health**, 2023. [[Published version]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1087698/full) [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1) 
 3. _Wasiur R. KhudaBukhsh_, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Saumya Yashmohini Sahai, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Hospital Burden in Ohio. **Journal of Theoretical Biology**, 2023. [[Published version]](https://doi.org/10.1016/j.jtbi.2022.111404) [[Preprint]](https://www.medrxiv.org/content/10.1101/2022.07.27.22278117v1)
 4. Colin Klaus, Matthew Wascher, _Wasiur R. KhudaBukhsh_, Grzegorz Rempała. Likelihood-Free Dynamical Survival Analysis Applied to the COVID-19 Epidemic in Ohio. **Mathematical Biosciences and Engineering**, 2022. [[Published version]](https://www.aimspress.com/article/doi/10.3934/mbe.2023192) [[Preprint]](https://arxiv.org/abs/2208.00417) 
@@ -38,7 +38,7 @@ Please email me if you do not have access to any of the papers. Download list of
 25.    Mahdi Mousavi, Hussein Al Shatri, _Wasiur R. KhudaBukhsh_, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. **IEEE 86th Vehicular Technology Conference (VTC)**, 2017.
 26.    Adrian Šošić, _Wasiur R. KhudaBukhsh_, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. **International Conference on Autonomous Agents & Multiagent Systems (AAMAS)**, 2017. [[Published version]](https://dl.acm.org/citation.cfm?id=3091320). 
 [**Best paper award finalist**]
-27.     _Wasiur R. KhudaBukhsh_, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. **IFIP Networking Conference (IFIP Networking)**, 2016. [[Published version]](http://ieeexplore.ieee.org/document/7497234/).
+1.      _Wasiur R. KhudaBukhsh_, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. **IFIP Networking Conference (IFIP Networking)**, 2016. [[Published version]](http://ieeexplore.ieee.org/document/7497234/).
 
 
 ### Preprints/Submitted

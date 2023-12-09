@@ -16,7 +16,7 @@
 
 ## Research Opportunities 
 
-I am looking for PhD students. I have several projects in the following broad areas of mathematics:
+I work in the following broad areas of mathematics:
 
 * Applied Probability
 * Stochastic Processes
@@ -24,7 +24,7 @@ I am looking for PhD students. I have several projects in the following broad a
 * Mathematical Biology
 * Stochastic Reaction Networks
 
-If you are interested in any of these areas, please get in touch with me! 
+If you are interested in working with me in any of these areas, please get in touch with me! 
 
 <br>
 
@@ -45,7 +45,7 @@ Email: wasiur.khudabukhsh@nottingham.ac.uk
 
 ## Education
 
-1.  Fellowship (FHEA), Advance HE (formerly Higher Education Academy), UK, 2023. 
+1.  Fellow (FHEA), Advance HE (formerly Higher Education Academy), UK, 2023. 
 2. [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Darmstadt, Germany.
     * PhD. (Dr. rer. nat.), 2014 - 2018.
     * Department of Electrical Engineering and Information Technology 

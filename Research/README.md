@@ -3,7 +3,7 @@ Stochastic processes on random graphs, stochastic processes limits, queueing the
 
 ## Research Opportunities
 
-I am looking for PhD students. I have several projects in the following broad areas of mathematics:
+I work in the following broad areas of mathematics:
 
 * Applied Probability
 * Stochastic Processes
@@ -11,7 +11,7 @@ I am looking for PhD students. I have several projects in the following broad a
 * Mathematical Biology
 * Stochastic Reaction Networks
 
-If you are interested in any of these areas, please get in touch with me!
+If you are interested in working with me in any of these areas, please get in touch with me!
 
 
 ## Publications 
