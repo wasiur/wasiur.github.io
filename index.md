@@ -14,6 +14,10 @@
 [1]: /image/BALA_1.jpeg
 <br>
 
+## Funding 
+
+1. Engineering and Physical Sciences Research Council (EPSRC): EP/Y027795/1 (01/03/2024 - 28/02/2025)
+
 ## Research Opportunities 
 
 I work in the following broad areas of mathematics:

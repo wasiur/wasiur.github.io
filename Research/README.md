@@ -1,6 +1,11 @@
 ## Research Interests
 Stochastic processes on random graphs, stochastic processes limits, queueing theory, large deviations, approximations of Markov Processes, machine learning, stochastic epidemiology, stochastic modelling and simulation of chemical reaction networks.
 
+## Funding
+
+1. Engineering and Physical Sciences Research Council (EPSRC): EP/Y027795/1 (01/03/2024 - 28/02/2025)
+
+
 ## Research Opportunities
 
 I work in the following broad areas of mathematics:
