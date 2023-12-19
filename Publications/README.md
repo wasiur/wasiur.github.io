@@ -47,7 +47,8 @@ Please email me if you do not have access to any of the papers. Download list of
 population under repeated testing. [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1) (Revision requested)
 2. Yushuf Sharker, Zaynab Diallo, _Wasiur R. KhudaBukhsh_, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)
 3. Karim Elsayed, _Wasiur R. KhudaBukhsh_, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. [[Preprint]](https://arxiv.org/abs/2310.18198) (Submitted)
-4. Mark Sinzger-D'Angelo, Heinz Koeppl, and _Wasiur R. KhudaBukhsh_. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. Technical note. arXiv preprint: [https://arxiv.org/abs/1808.00258](https://arxiv.org/abs/1808.00258) (Submitted)
+4. Mark Sinzger-D'Angelo, Heinz Koeppl, and _Wasiur R. KhudaBukhsh_. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: [https://arxiv.org/abs/1808.00258](https://arxiv.org/abs/1808.00258) (Submitted)
+5. _Wasiur R. KhudaBukhsh_, Grzegorz A. Rempała. How to _correctly_ fit an SIR model to data from an SEIR model? (Submitted)
 
    
 
