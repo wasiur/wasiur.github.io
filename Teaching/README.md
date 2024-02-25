@@ -1,9 +1,9 @@
 
 ## Instructor
 1. MATH 4045 Mathematical Finance stream, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/) (jointly with Prof. Fabrizio Leisen)
-   * Autumn 2022, Spring 2023
+   * Autumn 2022, Spring 2023, Spring 2024
 2. MATH 2010 Probability Models and Methods, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
-   * Spring 2022, Spring 2023
+   * Academic year 2022-23, Academic year 2023-24
 3. STAT 4201 Introduction to Mathematical Statistics 1, Department of Statistics, [The Ohio State University](https://cph.osu.edu/biostatistics) 
    * Autumn semester 2019
 4. PUBHBIO 7193 Individual Studies in Biostatistics, Division of Biostatistics, [The Ohio State University](https://cph.osu.edu/biostatistics) (jointly with Prof. Eben Kenah) 

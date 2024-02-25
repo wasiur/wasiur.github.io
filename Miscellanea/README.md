@@ -2,22 +2,27 @@
 I organise the Statistics and Probability seminars at Nottingham Maths. List of upcoming talks in the seminar series can be found [here](https://www.wasiur.xyz/UoNMaths_SP_Seminars/). -->
 
 ## News
-1. Alex Cox, Fraser Daly, Lucy Teece, and I organized a workshop on "Mathematical Epidemiology" on behalf of the Applied Probability Section and the East Midlands Local Group of the Royal Statistical Society (RSS) on October 11, 2023. 
-2. [Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton), [Yordan Raykov](https://www.yordanraykov.net/), and I organized a one-day workshop on "Recent challenges in mathematical epidemiology". More details available [here](https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html)
+<ol reversed>
+  <li><a href="https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html">Kirsty Bolton</a>, <a href="https://www.yordanraykov.net/">Yordan Raykov</a>, and I organized a one-day workshop on "Recent challenges in mathematical epidemiology". More details available <a href="https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html">here</a></li>
+  <li>Alex Cox, Fraser Daly, Lucy Teece, and I organized a workshop on "Mathematical Epidemiology" on behalf of the Applied Probability Section and the East Midlands Local Group of the Royal Statistical Society (RSS) on October 11, 2023.</li>
+</ol>
+
 
 The OSU/IDI COVID-19 response modeling team received much appreciation. I am fortunate to have contributed to this effort. Here are some highlights: 
-1. OSC news: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans)
-2. HPC Wire: [Pandemic Modeling: COVID-19 Projection Models Equip Ohioans](https://www.hpcwire.com/off-the-wire/pandemic-modeling-covid-19-projection-models-equip-ohioans/)
-3. The [Infectious Diseases Institute](https://idi.osu.edu/) did a nice story a while ago: [FAR FROM TRIVIAL: A POSTDOCTORAL RESEARCHER’S PATH TO A KEY POSITION ON THE OSU/IDI COVID-19 MODELING RESPONSE TEAM](https://idi.osu.edu/news-articles/far-from-trivial).
-4. Many thanks to the STEAM Factiory for the spotlight: [STEAM Member Spotlight - Dr. Wasiur Rahman KhudaBukhsh](https://www.youtube.com/watch?v=j_DEgauzw7w)
+<ol reversed>
+  <li>Many thanks to the STEAM Factiory for the spotlight: <a href="https://www.youtube.com/watch?v=j_DEgauzw7w">STEAM Member Spotlight - Dr. Wasiur Rahman KhudaBukhsh</a></li>
+  <li>The <a href="https://idi.osu.edu/">Infectious Diseases Institute</a> did a nice story a while ago: <a href="https://idi.osu.edu/news-articles/far-from-trivial">FAR FROM TRIVIAL: A POSTDOCTORAL RESEARCHER’S PATH TO A KEY POSITION ON THE OSU/IDI COVID-19 MODELING RESPONSE TEAM</a></li>
+  <li>HPC Wire: <a href="https://www.hpcwire.com/off-the-wire/pandemic-modeling-covid-19-projection-models-equip-ohioans/">Pandemic Modeling: COVID-19 Projection Models Equip Ohioans</a></li>
+  <li>OSC news: <a href="https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans">Pandemic Modeling: COVID-19 Projection Models Equip Ohioans</a></li>
+</ol>
 
 Other news
-1. The Dynamical Systems Web: Student Feature of the January 2021 issue of the journal [here](https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh)
-2. SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details [here](https://wasiur.github.io/MDS2020/mds2020.html). It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available [here](https://wasiur.github.io/MDS2020/MS25.html), and the probability session, [here](https://wasiur.github.io/MDS2020/MS10.html).
-
-3. Named as a President's Postdoctoral Scholar (2019 cohort). Read [here](https://research.osu.edu/ppsp/ppsp-participants/).
-4. Best-in-Session Presentation Award, IEEE INFOCOM, 2018. 
-
+<ol reversed>
+  <li>The Dynamical Systems Web: Student Feature of the January 2021 issue of the journal <a href="https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh">here</a></li>
+  <li>SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details <a href="https://wasiur.github.io/MDS2020/mds2020.html">here</a>. It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available <a href="https://wasiur.github.io/MDS2020/MS25.html">here</a>, and the probability session, <a href="https://wasiur.github.io/MDS2020/MS10.html">here</a>.</li>
+    <li>Named as a President's Postdoctoral Scholar (2019 cohort). Read <a href="https://research.osu.edu/ppsp/ppsp-participants/">here</a>.</li>
+  <li>Best-in-Session Presentation Award, IEEE INFOCOM, 2018.</li>
+</ol>
 <!-- 
 ## Videos of my talks
 Links to some of my talks:
@@ -37,27 +42,28 @@ Links to some of my talks:
 
 ## Professional Service
 ### Referee
-1. Journal of Applied Probability/Advances in Applied Probability (Applied Probability Trust)
-2. Bulletin of Mathematical Biology 
-3. Stochastic Processes and their Applications
-4. Stochastics (Taylor & Francis)
-5. SIAM Multiscale Modeling & Simulation
-6. Journal of Mathematical Biology
-7. PLOS ONE
-8. Mathematical Biosciences
-9. Journal of Chemical Physics
-10. Mathematical Biosciences and Engineering
-11. European Journal of Control
-12. Journal of Mathematical Physics
-13. Journal of Mathematics in Industry 
-14. Journal of Mathematical Analysis and Applications
-15. IEEE Transactions on Automatic Control 
-16. IEEE Control System Letters
-17. IEEE Transactions on Networking
-18. IEEE Transactions on Control of Network Systems 
-19. Journal of Scientific Research
-20. Methodology and Computing in Applied Probability
-
+<ol reversed>
+  <li>Stochastic Processes and their Applications</li>
+  <li>Bulletin of Mathematical Biology</li>
+  <li>Journal of Applied Probability/Advances in Applied Probability (Applied Probability Trust)</li> 
+  <li>Journal of Chemical Physics</li>
+  <li>Mathematical Biosciences</li>
+  <li>PLOS ONE</li>
+  <li>Journal of Mathematical Biology</li>
+  <li>SIAM Multiscale Modeling & Simulation</li>
+  <li>Stochastics (Taylor & Francis)</li>
+  <li>Methodology and Computing in Applied Probability</li>
+  <li>Journal of Scientific Research</li>
+  <li>IEEE Transactions on Control of Network Systems</li>
+  <li>IEEE Transactions on Networking</li>
+  <li>IEEE Control System Letters</li>
+  <li>IEEE Transactions on Automatic Control</li>
+  <li>Journal of Mathematical Analysis and Applications</li>
+  <li>Journal of Mathematics in Industry</li>
+  <li>Journal of Mathematical Physics</li>
+  <li>European Journal of Control</li>
+  <li>Mathematical Biosciences and Engineering</li>
+</ol>
 
 
 ## Good things on the Internet
