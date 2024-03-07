@@ -113,7 +113,9 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ## Workshop/conference organization
 <ol reversed>
-    <li>Mini-sympoisum at the Annual Meeting of the SMB, Seoul, South Korea, July 2024. (Jointly with Hye-Won Kang and Jinsu Kim.)</li>
+  <li>BIRS Workshop on "Mathematical and statistical challenges in post-pandemic epidemiology and public health", June 15-20, 2025 (jointly with Jessica Stockdale, Sara Del Valle, Joel C. Miller and Grzegorz Rempala)</li>
+	<li>Satellite Workshop on Chemical Reaction Networks, Gyeong Ju, South Korea, July 6-9, 2024 (jointly with Hye-Won Kang, and Jinsu Kim)</li>
+  <li>Mini-sympoisum at the Annual Meeting of the SMB, Seoul, South Korea, July 2024. (Jointly with Hye-Won Kang and Jinsu Kim.)</li>
    <li>RSS Workshop on Epidemic Modelling, University of Nottingham, October 11, 2023. (jointly with Alex Cox, Fraser Daly, and Lucy Teece) </li>
    <li>Mini-symposium at the SIAM Optimization 2023. (jointly with Yordan Raykov)</li>
    <li>Mini-sympoisum at the Annual Meeting of the SMB, Columbus, Ohio, July 2023. (Jointly with Hye-Won Kang.)</li>
