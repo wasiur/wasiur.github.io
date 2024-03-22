@@ -30,6 +30,8 @@ I work in the following broad areas of mathematics:
 
 If you are interested in working with me in any of these areas, please get in touch with me! 
 
+Current openings: [Postdoc position](https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI053124) 
+
 <br>
 
 ## Contact
