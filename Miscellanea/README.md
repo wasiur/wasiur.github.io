@@ -53,6 +53,7 @@ Links to some of my talks:
   <li>SIAM Multiscale Modeling & Simulation</li>
   <li>Stochastics (Taylor & Francis)</li>
   <li>Methodology and Computing in Applied Probability</li>
+  <li>Theoretical Population Biology</li>
   <li>Journal of Scientific Research</li>
   <li>IEEE Transactions on Control of Network Systems</li>
   <li>IEEE Transactions on Networking</li>

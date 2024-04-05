@@ -18,6 +18,8 @@ I work in the following broad areas of mathematics:
 
 If you are interested in working with me in any of these areas, please get in touch with me!
 
+Current openings: [Postdoc position](https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI053124) 
+
 
 ## Publications 
 List of publications available [here](https://www.wasiur.xyz/Publications/).
@@ -26,7 +28,7 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 ### Invited
 
 <ol reversed>
-    <li>Computer Algebra Applications in Life Sciences, 2024, Durham University, UK, 22-25 July 2024.</li>
+    <!-- <li>Computer Algebra Applications in Life Sciences, 2024, Durham University, UK, 22-25 July 2024.</li> -->
     <li>Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Seoul, South Korea, June 30- July 5, 2024</li>
     <li>Epidemiology workshop, Konkuck University, Seoul, South Korea, June 29, 2024.</li>
     <li>Mathematical Biology Seminar, University of Leeds, UK, December 7, 2023. </li>
@@ -72,6 +74,7 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 ### Contributed 
 <ol reversed>
+  <li>Melbourne Mathematical Biology Seminar, University of Melbourne, Melbourne, Australia, June 20, 2024. </li>
     <li>Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Columbus, OH, USA, July 18, 2023</li>
    <li>Dynamical Systems in Life Sciences, The Ohio State University, July 13-15, 2023</li>
    <li>BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022 </li>
