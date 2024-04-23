@@ -20,13 +20,14 @@
 
 ## Research Opportunities 
 
-I work in the following broad areas of mathematics:
+I am interested in the following broad areas of mathematics:
 
-* Applied Probability
+* Theoretical and Applied Probability
 * Stochastic Processes
 * Epidemic Modelling
 * Mathematical Biology
 * Stochastic Reaction Networks
+* Mathematics of Artificial Intelligence (AI) and Data Science
 
 If you are interested in working with me in any of these areas, please get in touch with me! 
 

@@ -1,6 +1,3 @@
-## Research Interests
-Stochastic processes on random graphs, stochastic processes limits, queueing theory, large deviations, approximations of Markov Processes, machine learning, stochastic epidemiology, stochastic modelling and simulation of chemical reaction networks.
-
 ## Funding
 
 1. Engineering and Physical Sciences Research Council (EPSRC): EP/Y027795/1 (01/03/2024 - 28/02/2025)
@@ -8,15 +5,16 @@ Stochastic processes on random graphs, stochastic processes limits, queueing the
 
 ## Research Opportunities
 
-I work in the following broad areas of mathematics:
+I am interested in the following broad areas of mathematics:
 
-* Applied Probability
+* Theoretical and Applied Probability
 * Stochastic Processes
 * Epidemic Modelling
 * Mathematical Biology
 * Stochastic Reaction Networks
+* Mathematics of Artificial Intelligence (AI) and Data Science
 
-If you are interested in working with me in any of these areas, please get in touch with me!
+If you are interested in working with me in any of these areas, please get in touch with me! 
 
 Current openings: [Postdoc position](https://jobs.nottingham.ac.uk/vacancy.aspx?ref=SCI053124) 
 
