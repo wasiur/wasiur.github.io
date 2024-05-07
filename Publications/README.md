@@ -40,18 +40,15 @@ Please email me if you do not have access to any of the papers. Download list of
 <li>Adrian Šošić, <em>Wasiur R. KhudaBukhsh</em>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <strong>AAMAS Workshop on Transfer in Reinforcement Learning</strong>, 2017. <a href="http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf">[Published version]</a></li>
 <li>Mahdi Mousavi, Hussein Al Shatri, <em>Wasiur R. KhudaBukhsh</em>, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. <strong>IEEE 86th Vehicular Technology Conference (VTC)</strong>, 2017.</li>
 <li>Adrian Šošić, <em>Wasiur R. KhudaBukhsh</em>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <strong>International Conference on Autonomous Agents & Multiagent Systems (AAMAS)</strong>, 2017. <a href="https://dl.acm.org/citation.cfm?id=3091320">[Published version]</a> [<strong>Best paper award finalist</strong>]</li>
-<li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">[Published version]</a></li>
-</ol>
+<li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">[Published version]</a></li></ol>
 
 
 ### Preprints/Submitted
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? (Submitted)</li>
-
   <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification. (Submitted)</li>
-  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li>
-</ol>
+  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li></ol>
 
 
    
