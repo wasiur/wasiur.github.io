@@ -48,7 +48,8 @@ Please email me if you do not have access to any of the papers. Download list of
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? (Submitted)</li>
   <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification. (Submitted)</li>
-  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li></ol>
+  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li>
+</ol>
 
 
    
