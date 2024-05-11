@@ -1,18 +1,18 @@
-## External links
+### External links
 | [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [GitHub](https://github.com/wasiur) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
 
-## Publications
+<h3>Publications</h3>
 
 Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf).
 
-### Book chapters
+<h3>Book chapters</h3>
 <ol reversed>
   <li>Grzegorz A. Rempała, <em>Wasiur R. KhudaBukhsh</em>. Dynamical Survival Analysis for Epidemic Modeling. In: Sriraman, B. (eds) <strong>Handbook of Visual, Experimental and Computational Mathematics</strong>, 2023. <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-030-93954-0_31-1">[Published version]</a></li>
 </ol>
 
-### Peer-reviewed publications
+<h3>Peer-reviewed publications</h3>
 <ol reversed>
-<li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification. <strong>Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong> (Accepted)</li>
+<li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong>(Accepted)</li>
 <li>Matthew Wascher, Patrick Schnell, <em>Wasiur R. KhudaBukhsh</em>, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed population under repeated testing. <strong>Journal of the Royal Statistical Society: Series C (JRSSC)</strong> <a href="https://doi.org/10.1093/jrsssc/qlae021">[Published version]  <a href="https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1">[Preprint]</a></li>
 <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. <strong>Proceedings of the IEEE International Conference on Communications</strong>, 2024. <a href="https://arxiv.org/abs/2310.18198">[Preprint]</a></li>
 <li>Istvan Z. Kiss, Luc Berthouze, <em>Wasiur R. KhudaBukhsh</em>. Towards inferring network properties from epidemic data. <strong>Bulletin of Mathematical Biology</strong>, 2024. <a href="https://link.springer.com/article/10.1007/s11538-023-01235-3">[Published version]</a> <a href="https://arxiv.org/abs/2302.02470">[Preprint]</a></li>
@@ -44,7 +44,7 @@ Please email me if you do not have access to any of the papers. Download list of
 <li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">[Published version]</a></li></ol>
 
 
-### Preprints/Submitted
+<h3>Preprints/Submitted</h3>
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? (Submitted)</li>
@@ -54,7 +54,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
    
 
-### Theses and technical notes
+<h3>Theses and technical notes</h3>
 <ol reversed>
     <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <em>Wasiur R. KhudaBukhsh</em>. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: <a href="https://arxiv.org/abs/1808.00258">https://arxiv.org/abs/1808.00258</a> (Submitted)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: <a href="http://tuprints.ulb.tu-darmstadt.de/7588/">http://tuprints.ulb.tu-darmstadt.de/7588/</a></li>
