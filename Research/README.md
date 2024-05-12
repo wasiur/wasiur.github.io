@@ -74,7 +74,8 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 ### Contributed 
 <ol reversed>
   <li>Melbourne Mathematical Biology Seminar, University of Melbourne, Melbourne, Australia, June 20, 2024. </li>
-    <li>Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Columbus, OH, USA, July 18, 2023</li>
+   <li>IEEE International Conference on Communications (IEEE ICC), Denver, Colorado, USA, June 9 - June 14, 2024</li>
+   <li>Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Columbus, OH, USA, July 18, 2023</li>
    <li>Dynamical Systems in Life Sciences, The Ohio State University, July 13-15, 2023</li>
    <li>BIRS Workshop on ``Preparing for the next pandemic'', June 12-17, 2022 </li>
    <li>Annual Meeting of the Society for Mathematical Biology, June 13-17, 2021</li>

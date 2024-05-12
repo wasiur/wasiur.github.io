@@ -46,6 +46,7 @@ Links to some of my talks:
   <li>Stochastic Processes and their Applications</li>
   <li>Bulletin of Mathematical Biology</li>
   <li>Journal of Applied Probability/Advances in Applied Probability (Applied Probability Trust)</li> 
+  <li>Biometrika</li>
   <li>Journal of Chemical Physics</li>
   <li>Mathematical Biosciences</li>
   <li>PLOS ONE</li>
