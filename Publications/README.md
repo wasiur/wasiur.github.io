@@ -12,7 +12,8 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Peer-reviewed publications</h3>
 <ol reversed>
-<li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong>(Accepted)</li>
+<li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? <strong>Mathematical Biosciences</strong>, 2024. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4690900">[Preprint]</a> (Accepted for publication)</li>
+<li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong>(Best Paper Award)</li>
 <li>Matthew Wascher, Patrick Schnell, <em>Wasiur R. KhudaBukhsh</em>, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed population under repeated testing. <strong>Journal of the Royal Statistical Society: Series C (JRSSC)</strong> <a href="https://doi.org/10.1093/jrsssc/qlae021">[Published version] <a href="https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1">[Preprint]</a></li>
 <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. <strong>Proceedings of the IEEE International Conference on Communications</strong>, 2024. <a href="https://arxiv.org/abs/2310.18198">[Preprint]</a></li>
 <li>Istvan Z. Kiss, Luc Berthouze, <em>Wasiur R. KhudaBukhsh</em>. Towards inferring network properties from epidemic data. <strong>Bulletin of Mathematical Biology</strong>, 2024. <a href="https://link.springer.com/article/10.1007/s11538-023-01235-3">[Published version]</a> <a href="https://arxiv.org/abs/2302.02470">[Preprint]</a></li>
@@ -48,7 +49,6 @@ Please email me if you do not have access to any of the papers. Download list of
 <h3>Preprints/Submitted</h3>
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? (Submitted)</li>
   <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li>
 </ol>
 
@@ -57,6 +57,6 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Theses and technical notes</h3>
 <ol reversed>
-    <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <em>Wasiur R. KhudaBukhsh</em>. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: <a href="https://arxiv.org/abs/1808.00258">https://arxiv.org/abs/1808.00258</a> (Submitted)</li>
+    <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <em>Wasiur R. KhudaBukhsh</em>. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: <a href="https://arxiv.org/abs/1808.00258">https://arxiv.org/abs/1808.00258</a></li>
   <li><em>Wasiur R. KhudaBukhsh</em>. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: <a href="http://tuprints.ulb.tu-darmstadt.de/7588/">http://tuprints.ulb.tu-darmstadt.de/7588/</a></li>
 </ol>
