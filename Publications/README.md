@@ -12,6 +12,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Peer-reviewed publications</h3>
 <ol reversed>
+  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. <strong>Statistics in Medicine</strong>, 2024. (Provisionally accepted)</li>
 <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? <strong>Mathematical Biosciences</strong>, 2024. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4690900">[Preprint]</a> (Accepted for publication)</li>
 <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong>(Best Paper Award)</li>
 <li>Matthew Wascher, Patrick Schnell, <em>Wasiur R. KhudaBukhsh</em>, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed population under repeated testing. <strong>Journal of the Royal Statistical Society: Series C (JRSSC)</strong> <a href="https://doi.org/10.1093/jrsssc/qlae021">[Published version] <a href="https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1">[Preprint]</a></li>
@@ -49,7 +50,6 @@ Please email me if you do not have access to any of the papers. Download list of
 <h3>Preprints/Submitted</h3>
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
-  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. (Revision requested)</li>
 </ol>
 
 
