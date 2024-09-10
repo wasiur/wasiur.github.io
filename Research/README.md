@@ -27,6 +27,7 @@ List of publications available [here](https://www.wasiur.xyz/Publications/).
 
 <ol reversed>
     <!-- <li>Computer Algebra Applications in Life Sciences, 2024, Durham University, UK, 22-25 July 2024.</li> -->
+    <li>CMMB Seminar, University of Nottingham, October 22, 2021</li>
     <li>International Conference on Non-linear Analysis and Scientific Computing (ICNASC'24), India, September, 2024</li>
     <li>Mini-symposium talk at the Annual Meeting of the Society for Mathematical Biology, Seoul, South Korea, June 30- July 5, 2024</li>
     <li>Epidemiology workshop, Konkuck University, Seoul, South Korea, June 29, 2024.</li>

@@ -8,7 +8,8 @@ Please email me if you do not have access to any of the papers. Download list of
 <h3>Preprints/Submitted</h3>
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
-  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. (Submitted)</li>
+  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">[Preprint]</a>(Submitted)</li>
+  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. (Submitted) </li>
 </ol>
 
 
