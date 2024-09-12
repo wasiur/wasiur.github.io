@@ -7,7 +7,6 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints/Submitted</h3>
 <ol reversed>
-  <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. (Submitted)</li>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">[Preprint] </a>(Submitted)</li>
   <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. <a href="https://arxiv.org/abs/2409.06565">[Preprint] </a>(Submitted) </li>
 </ol>
@@ -15,6 +14,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Book chapters</h3>
 <ol reversed>
+  <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. <strong>Handbook of Statistics</strong>, 2024. <a href="https://doi.org/10.1016/bs.host.2024.07.002">[Published version]</a></li>
   <li>Grzegorz A. Rempała, <em>Wasiur R. KhudaBukhsh</em>. Dynamical Survival Analysis for Epidemic Modeling. In: Sriraman, B. (eds) <strong>Handbook of Visual, Experimental and Computational Mathematics</strong>, 2023. <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-030-93954-0_31-1">[Published version]</a></li>
 </ol>
 

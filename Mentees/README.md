@@ -13,6 +13,7 @@ If you are interested in any of these areas, please get in touch with me!
 ## Postdoctoral Research Fellowships
 
 1. Olga Iziumtseva (09/2023 - 09/2025)
+2. Yangrui Xiang (09/2024 - 06/2025)
 
 ## PhD students
 
