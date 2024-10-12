@@ -7,6 +7,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints/Submitted</h3>
 <ol reversed>
+  <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. (Submitted)</li>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">[Preprint] </a>(Submitted)</li>
   <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. <a href="https://arxiv.org/abs/2409.06565">[Preprint] </a>(Submitted) </li>
 </ol>

@@ -16,13 +16,14 @@ If you are interested in any of these areas, please get in touch with me!
 2. Yangrui Xiang (09/2024 - 06/2025)
 
 ## PhD students
-
-4. Kushankur Dutta 10/2023 - (jointly with [Michael Tretyakov](https://www.maths.nottingham.ac.uk/plp/pmzmt/) and [Karthik Bharath](https://karthikbharath.github.io/))
-3. Wesam El Buaishi 06/2023 - (jointly with [Yordan Raykov](https://www.yordanraykov.net/) and [Katie Severn](https://www.nottingham.ac.uk/mathematics/people/katie.severn))
-2. Yajie Guo 12/2022 - (jointly with [Christopher Fallaize](https://www.nottingham.ac.uk/mathematics/people/chris.fallaize))
-1. James Harborne, 10/2022 - (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
+1. Kushankur Dutta 10/2023 - (jointly with [Michael Tretyakov](https://www.maths.nottingham.ac.uk/plp/pmzmt/) and [Karthik Bharath](https://karthikbharath.github.io/))
+2. Wesam El Buaishi 06/2023 - (jointly with [Yordan Raykov](https://www.yordanraykov.net/) and [Katie Severn](https://www.nottingham.ac.uk/mathematics/people/katie.severn))
+3. James Harborne, 10/2022 - (jointly with [John King](https://www.nottingham.ac.uk/mathematics/people/john.king))
 
 ## M.Sc. students
+13. Kaustav Chakraborty, 2024 Master degree dissertation, School of Computer Science, [The University of Nottingham](https://www.nottingham.ac.uk/)
+12. Qi Zhang, 2024 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
+11. Siyu Xu, 2024 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 10. Changqing Du, 2023 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 9. Nazreen Asok, 2023 Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
 8. Yajie Guo, 2022, Master degree dissertation, School of Mathematical Sciences, [The University of Nottingham](https://www.nottingham.ac.uk/)
