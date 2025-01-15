@@ -7,7 +7,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints/Submitted</h3>
 <ol reversed>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738">[Preprint] </a> (Submitted)</li>
+  <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738"> [Preprint] </a> (Submitted)</li>
   <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">[Preprint] </a>(Submitted) </li>
   <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <a href="https://arxiv.org/abs/2410.09552">[Preprint] </a> (Submitted)</li>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">[Preprint] </a>(Submitted)</li>
