@@ -36,7 +36,7 @@ Current openings: [Postdoc position](https://jobs.nottingham.ac.uk/vacancy.aspx?
 <br>
 
 ## Contact
-Office: C45b  
+Office: B24  
 [School of Mathematical Sciences](https://www.nottingham.ac.uk/mathematics/)  
 University Park  
 Nottingham, NG7 2RD  
