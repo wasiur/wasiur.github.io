@@ -5,9 +5,10 @@
 
 Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf).
 
-<h3>Preprints/Submitted</h3>
+<h3>Preprints</h3>
 <ol reversed>
-  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> (Submitted)</li>
+  <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024"> [Preprint]</a> </li>
+  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> (Under revision)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738"> [Preprint] </a> (Submitted)</li>
   <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">[Preprint] </a>(Submitted) </li>
   <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <a href="https://arxiv.org/abs/2410.09552">[Preprint] </a> (Submitted)</li>
