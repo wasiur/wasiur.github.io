@@ -7,7 +7,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints</h3>
 <ol reversed>
-  <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. (Submitted) </li>
+  <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. <a href="https://arxiv.org/abs/2503.20145"> [Preprint] </a> (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024"> [Preprint]</a> </li>
   <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> (Under revision)</li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738"> [Preprint] </a> (Submitted)</li>
