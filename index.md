@@ -17,9 +17,8 @@
 
 ## News
 
-1. I am organising a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop on "Probability and stochastics with applications to biology" on the 16th of May 2025. More information available <a href="Probability and stochastics with applications to biology
-">here</a>. Please join us if you are interested in the topic.
-2. I will be teaching at the "Stochastic Reaction Networks" summer school in Italy this year. More information available <a href="https://constrained.polito.it/stochastic-reaction-networks-summer-school/">here</a>. 
+1. I am organising a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop on "Probability and stochastics with applications to biology" on the 16th of May 2025. More information available <a href="https://rss.org.uk/training-events/events/events-2025/section-groups/probability-and-stochastics-with-applications-to-b/#eventoverview">here</a>. Please join us if you are interested in the topic.
+1. I will be teaching at the "Stochastic Reaction Networks" summer school in Italy this year. More information available <a href="https://constrained.polito.it/stochastic-reaction-networks-summer-school/">here</a>. 
 
 
 ## Funding 
