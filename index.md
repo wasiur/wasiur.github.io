@@ -15,7 +15,6 @@
 <br>
 
 
-
 ## News
 
 1. I am organising a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop on "Probability and stochastics with applications to biology" on the 16th of May 2025. More information available <a href="Probability and stochastics with applications to biology
