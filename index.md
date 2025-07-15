@@ -19,7 +19,7 @@
 1. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1">Olga Iziumtseva</a>, and I are co-organising a one-day workshop on "Gaussian and Lévy-type stochastic processes" on the 10th of September 2025. More information available <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">here</a>. Registration is free but required for catering purposes. 
 
 ### Old News
-<details><summary><h3></h3></summary>
+<details><summary><h3>Click here</h3></summary>
 <ol>
 <li>Along with <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/callegaro-alice/">Alice Callegaro</a>, I  co-organised a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop on "Probability and stochastics with applications to biology" on the 16th of May 2025. More information available <a href="https://rss.org.uk/training-events/events/events-2025/section-groups/probability-and-stochastics-with-applications-to-b/#eventoverview">here</a>. Please join us if you are interested in the topic.</li>
 <li>I taught at the "Stochastic Reaction Networks" summer school in Italy this year. More information available <a href="https://constrained.polito.it/stochastic-reaction-networks-summer-school/">here</a>.</li> 
