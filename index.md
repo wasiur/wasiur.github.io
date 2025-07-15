@@ -16,7 +16,7 @@
 
 
 ## News
-1. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1">Olga Iziumtseva</a>, and I are co-organising a one-day workshop on "Gaussian and Lévy-type stochastic processes" on the 10th of September 2025. More information available <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">here</a>. Registration is free but required for catering purposes. 
+1. <a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1">Olga Iziumtseva</a>, and I are co-organising a one-day workshop on <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">"Gaussian and Lévy-type stochastic processes"</a> on the 10th of September 2025. More information available <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">here</a>. Registration is free but required for catering purposes. 
 
 <details><summary><h3>Old news</h3></summary>
 <ol>
