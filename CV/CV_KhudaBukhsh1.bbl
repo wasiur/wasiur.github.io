@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{tQSSA}
+Arnab Ganguly and \textbf{Wasiur R. KhudaBukhsh}.
+\newblock Asymptotic analysis of the total quasi-steady state approximation for the {M}ichaelis--{M}enten enzyme kinetic reactions.
+\newblock 2025.
+\newblock Submitted. ArXiv: \url{https://arxiv.org/abs/2503.20145}.
+
+\bibitem{Raykov2025Causal}
+Yordan~P. Raykov, Hengrui Luo, Justin~D. Strait, and \textbf{Wasiur R. KhudaBukhsh}.
+\newblock Kernel-based estimators for functional causal effects.
+\newblock 2025.
+\newblock ArXiv: \url{https://arxiv.org/abs/2503.05024}.
+
+\bibitem{KhudaBukhsh2025JSP}
+\textbf{Wasiur R. KhudaBukhsh} and Yangrui Xiang.
+\newblock Mixing time for a noisy {SIS} model on graphs.
+\newblock 2025.
+\newblock Submitted. ArXiv: \url{https://arxiv.org/abs/2501.07738}.
+
+\bibitem{Elsayed2024QSSA}
+Karim~S. Elsayed, Olga Izyumtseva, \textbf{Wasiur R. KhudaBukhsh}, and Amr Rizk.
+\newblock Stochastic analysis of entanglement-assisted quantum communication channels.
+\newblock 2024.
+\newblock Submitted. ArXiv: \url{https://arxiv.org/abs/2412.16157}.
+
+\bibitem{Luca2024}
+Riccardo Corradin, Luca Danese, \textbf{Wasiur R. KhudaBukhsh}, and Andrea Ongaro.
+\newblock Model-based clustering of time-dependent observations with common structural changes.
+\newblock 2024.
+\newblock ArXiv: \url{https://arxiv.org/abs/2410.09552}.
+
+\bibitem{IzyumtsevaKhudaBukhsh2024}
+Olga Izyumtseva and \textbf{Wasiur R. KhudaBukhsh}.
+\newblock Local times of self-intersection and sample path properties of {V}olterra {G}aussian processes.
+\newblock 2024.
+\newblock Submitted. ArXiv: \url{https://arxiv.org/abs/2409.04377}.
+
+\bibitem{GangulyKhudaBukhsh20204}
+Arnab Ganguly and \textbf{Wasiur R. KhudaBukhsh}.
+\newblock Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference.
+\newblock 2024.
+\newblock ArXiv: \url{https://arxiv.org/abs/2409.06565}.
+
+\end{thebibliography}

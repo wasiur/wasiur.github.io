@@ -1,0 +1,127 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ethics2025}
+Alexander~E. Zarebski, Nefel Tellioglu, Jessica~E. Stockdale, Julie~A. Spencer, \textbf{Wasiur R. KhudaBukhsh}, Joel~C. Miller, and Cameron Zachreson.
+\newblock Including frameworks of public health ethics in computational modelling of infectious disease interventions.
+\newblock {\em Interface Focus}, 15, 2025.
+
+\bibitem{SIM2024}
+Yushuf Sharker, Zaynab Diallo, \textbf{Wasiur R. KhudaBukhsh}, and Eben Kenah.
+\newblock Pairwise accelerated failure time regression models for infectious disease transmission in close contact groups with external sources of infection.
+\newblock {\em Statistics in Medicine}, 2024.
+
+\bibitem{MB_SpecialIssue}
+\textbf{Wasiur R. KhudaBukhsh} and Grzegorz~A. Rempa{\l}a.
+\newblock How to \emph{correctly} fit an {SIR} model to data from an {SEIR} model?
+\newblock {\em Mathematical Biosciences}, 2024.
+
+\bibitem{IDSA2021}
+Matthew Wascher, Patrick Schnell, \textbf{Wasiur R. KhudaBukhsh}, Mikkel~B.M. Quam, Joseph Tien, and Grzegorz Rempa{\l}a.
+\newblock {Estimating disease transmission in a closed population under repeated testing}.
+\newblock {\em Journal of the Royal Statistical Society: Series C (JRSSC)}, 2024.
+
+\bibitem{BMB2023}
+Istv{\'a}n~Z. Kiss, Luc Berthouze, and \textbf{ Wasiur R. KhudaBukhsh}.
+\newblock Towards inferring network properties from epidemic data.
+\newblock {\em Bulletin of Mathematical Biology}, 2024.
+
+\bibitem{prison2020}
+\textbf{Wasiur R. KhudaBukhsh}, Sat~Kartar Khalsa, Eben Kenah, Grzegorz Rempa{\l}a, and Joseph Tien.
+\newblock {COVID-19 dynamics in an Ohio prison}.
+\newblock {\em Frontiers in Public Health}, 2023.
+
+\bibitem{Ohiopaper2020}
+\textbf{Wasiur R. KhudaBukhsh}, Caleb~Deen Bastian, Matthew Wascher, Colin Klaus, Saumya~Yashmohini Sahai, Mark~H. Weir, Eben Kenah, Elisabeth Root, Joseph~H. Tien, and Grzegorz~A. Rempa{\l}a.
+\newblock Projecting {COVID-19} cases and hospital burden in ohio.
+\newblock {\em Journal of Theoretical Biology}, 561:111404, 2023.
+
+\bibitem{Colin2022Vaccincation}
+Colin Klaus, Matthew Wascher, \textbf{Wasiur R. KhudaBukhsh}, and Grzegorz Rempa{\l}a.
+\newblock {Likelihood-Free Dynamical Survival Analysis applied to the COVID-19 epidemic in Ohio}.
+\newblock {\em Mathematical Biosciences and Engineering}, 20, 2023.
+
+\bibitem{Hypergraphon_MFG}
+Kai Cui, \textbf{Wasiur R. KhudaBukhsh}, and Heinz Koeppl.
+\newblock Hypergraphon mean-field games.
+\newblock {\em Chaos}, 2022.
+
+\bibitem{aap2017}
+\textbf{Wasiur R. KhudaBukhsh}, Casper Woroszylo, Grzegorz Rempa{\l}a, and Heinz Koeppl.
+\newblock A functional central limit theorem for {SI} processes on configuration model graphs.
+\newblock {\em Advances in Applied Probability}, 2022.
+
+\bibitem{Assortative2022}
+Colin Klaus, Matthew Wascher, \textbf{Wasiur R. KhudaBukhsh}, Joseph~H. Tien, Grzegorz~A. Rempa{\l}a, and Eben Kenah.
+\newblock {Assortative mixing among vaccination groups and biased estimation of reproduction numbers}.
+\newblock {\em The Lancet Infectious Diseases}, 22:P579--581, 5 2022.
+
+\bibitem{NonMarkov2021}
+Francesco~Di Lauro$^\star$, \textbf{Wasiur R. KhudaBukhsh}$^\star$, Istv{\'a}n~Z. Kiss, Eben Kenah, Max Jensen, and Grzegorz Rempa{\l}a.
+\newblock Dynamic survival analysis for non-markovian epidemic models.
+\newblock {\em Journal of the Royal Society Interface}, 2022.
+\newblock $^\star$Both authors contributed equally and are joint first authors.
+
+\bibitem{Motif_MF2022}
+Kai Cui, \textbf{Wasiur R. KhudaBukhsh}, and Heinz Koeppl.
+\newblock Motif-based mean-field approximation of interacting particles on clustered networks.
+\newblock {\em Physical Review E}, 105, 4 2022.
+
+\bibitem{Ebola2022}
+Harley Vossler, Pierre Akilimali, Yuhan Pan, \textbf{Wasiur R. KhudaBukhsh}, Eben Kenah, and Grzegorz~A. Rempa{\l}a.
+\newblock Analysis of individual-level epidemic data: Study of 2018-2020 ebola outbreak in democratic republic of the congo.
+\newblock {\em Scientific Reports}, 12, 2022.
+
+\bibitem{Israel2021}
+Ido Somekh$^\star$, \textbf{Wasiur R. KhudaBukhsh}$^\star$, Elisabeth~Dowling Root$^\star$, Greg Rempala, Eric Simoes, and Eli Somekh.
+\newblock {Quantifying the Population-level Effect of COVID-19 Mass Vaccination Campaign in Israel: A Modeling Study}.
+\newblock {\em Open Forum Infectious Diseases}, 2022.
+\newblock $^\star$Equal contribution.
+
+\bibitem{delay2020}
+\textbf{Wasiur R. KhudaBukhsh}$^\star$, Hye-Won Kang, Eben Kenah, and Grzegorz Rempa{\l}a.
+\newblock Incorporating age and delay into models for biophysical systems.
+\newblock {\em Physical Biology}, 18(1), 2021.
+\newblock ($^\star$Invited paper).
+
+\bibitem{sds2019}
+\textbf{Wasiur R. KhudaBukhsh}, Boseung Choi, Eben Kenah, and Grzegorz Rempa{\l}a.
+\newblock {Survival dynamical systems: individual-level survival analysis from population-level epidemic models}.
+\newblock {\em Journal of the Royal Society Interface Focus}, 10(1), 2020.
+
+\bibitem{KhudaBukhsh2018Lumpability}
+\textbf{Wasiur R. KhudaBukhsh}, Arnab Auddy, Yann Disser, and Heinz Koeppl.
+\newblock {Approximate lumpability for Markovian agent-based models using local symmetries}.
+\newblock {\em Journal of Applied Probability}, 56, 9 2019.
+
+\bibitem{QSSA2018}
+Hye-Won Kang$^\star$, \textbf{Wasiur R. KhudaBukhsh}$^\star$, Heinz Koeppl, and Grzegorz Rempa{\l}a.
+\newblock Quasi-steady-state approximations derived from a stochastic enzyme kinetics.
+\newblock {\em Bulletin of Mathematical Biology}, 81(5):1303--1336, 2019.
+\newblock $^\star$joint first authors.
+
+\bibitem{Nowcasting2021}
+Saumya~Yashmohini Sahai, Saket Gurukar, \textbf{Wasiur R. KhudaBukhsh}, Srinivasan Parthasarathy, and Grzegorz~A. Rempa{\l}a.
+\newblock {A Machine Learning Model for Nowcasting Epidemic Incidence}.
+\newblock {\em Mathematical Biosciences}, 2021.
+
+\bibitem{KhudaBukhsh2018INFOCOM}
+\textbf{Wasiur R. KhudaBukhsh}, Sounak Kar, Bastian Alt, Amr Rizk, and Heinz Koeppl.
+\newblock Generalized cost-based job scheduling in very large cluster systems.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems}, 31(11):2594--2604, 2020.
+
+\bibitem{biomath2019}
+Boseung Choi, Sydney Busch, Dieudonn{\'e} Kazadi, Benoit Ilunga, Emile Okitolonda, Yi~Dai, Robert Lumpkin, Omar Saucedo, \textbf{Wasiur R. KhudaBukhsh}, Joseph Tien, Marcel Yotebieng, Eben Kenah, and Grzegorz~A. Rempa{\l}a.
+\newblock {Modeling Outbreak Data: Analysis of a 2012 Ebola Virus Disease Epidemic in DRC}.
+\newblock {\em BIOMATH}, 8(2), 2019.
+
+\bibitem{TOMPECS2018}
+\textbf{Wasiur R. KhudaBukhsh}, Amr Rizk, Sounak Kar, and Heinz Koeppl.
+\newblock Provisioning and performance evaluation of parallel systems with output synchronization.
+\newblock {\em ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)}, 4(1), 3 2019.
+
+\bibitem{Transition2018}
+Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, \textbf{Wasiur R. KhudaBukhsh}, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz.
+\newblock Transitions: A protocol-independent view of the future internet.
+\newblock {\em Proceedings of the IEEE}, 107(4):835--846, 4 2019.
+
+\end{thebibliography}

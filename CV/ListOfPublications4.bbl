@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{QCNC2024}
+Karim Elsayed, \textbf{Wasiur R. KhudaBukhsh}, and Amr Rizk.
+\newblock {On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification}.
+\newblock In {\em Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)}, 2024.
+\newblock {Best paper award}.
+
+\bibitem{ICC2023}
+Karim Elsayed, \textbf{Wasiur R. KhudaBukhsh}, and Amr Rizk.
+\newblock {On the Fidelity Distribution of Link-level Entanglements under Purification}.
+\newblock In {\em Proceedings of the IEEE International Conference on Communication (ICC) 2024}, 2024.
+
+\bibitem{SIS2023}
+Riccardo Corradin, Luca Danese, \textbf{Wasiur KhudaBukhsh}, and Andrea Ongaro.
+\newblock Model-based clustering of non-stationary time series with common historical change times.
+\newblock In {\em Statistical Learning, Sustainability and Impact}, 2023.
+
+\bibitem{Collaborative2018infocom}
+\textbf{Wasiur R. KhudaBukhsh}, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl.
+\newblock Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies.
+\newblock In {\em {IEEE International Conference on Computer Communications (INFOCOM)}}, 4 2018.
+\newblock {$<20\%$ acceptance rate. Best-in-Session Presentation Award.}
+
+\bibitem{infocom2017}
+\textbf{Wasiur R. KhudaBukhsh}, Amr Rizk, Alexander Fr\"{o}mmgen, and Heinz Koeppl.
+\newblock {Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds and Applications}.
+\newblock In {\em {IEEE International Conference on Computer Communications (INFOCOM)}}, 5 2017.
+\newblock {$\sim 20\%$ acceptance rate}.
+
+\bibitem{IRL2017TIRL}
+Adrian {\v S}o{\v s}i{\'c}, \textbf{Wasiur R. KhudaBukhsh}, A.~M. Zourbir, and Heinz Koeppl.
+\newblock Inverse reinforcement learning in swarm systems.
+\newblock In {\em AAMAS Workshop on Transfer in Reinforcement Learning}, May 2017.
+\newblock Available: \url{http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf}.
+
+\bibitem{2016arXiv160205450S}
+Adrian {\v S}o{\v s}i{\'c}, \textbf{Wasiur R. KhudaBukhsh}, A.~M. Zourbir, and Heinz Koeppl.
+\newblock Inverse reinforcement learning in swarm systems.
+\newblock In {\em International Conference on Autonomous Agents \& Multiagent Systems (AAMAS)}, 5 2017.
+\newblock {$\sim 26\%$ acceptance rate}, {Best Paper Award Finalist}.
+
+\bibitem{networking2016}
+\textbf{Wasiur R. KhudaBukhsh}, Julius R\"{u}ckert, Julian Wulfheide, David Hausheer, and Heinz Koeppl.
+\newblock {Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming}.
+\newblock In {\em {IFIP Networking Conference (IFIP Networking) and Workshops}}, 5 {2016}.
+\newblock {$\sim 26\%$ acceptance rate}.
+
+\bibitem{Mahdi2017VTC}
+Mahdi Mousavi, Hussein~Al Shatri, \textbf{Wasiur R. KhudaBukhsh}, Heinz Koeppl, and Anja Klein.
+\newblock {Cross-Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks}.
+\newblock In {\em IEEE 86th Vehicular Technology Conference (VTC)}, 9 2017.
+
+\end{thebibliography}

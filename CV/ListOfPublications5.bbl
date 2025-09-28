@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{KhudaBukhsh2018PhD}
+\textbf{Wasiur R. KhudaBukhsh}.
+\newblock {\em Model reductions for queueing and agent-based systems with applications in communication networks}.
+\newblock PhD thesis, Technische Universit{\"a}t, Darmstadt, 2018.
+\newblock Available at: \url{http://tuprints.ulb.tu-darmstadt.de/7588/}.
+
+\bibitem{KhudaBukhsh2018Perron}
+Mark Sinzger-D'Angelo, Heinz Koeppl, and \textbf{Wasiur R. KhudaBukhsh}.
+\newblock Bounds on the spectral radius of real-valued non-negative kernels on measurable spaces.
+\newblock 2023.
+\newblock Preprint: \url{https://arxiv.org/abs/1808.00258}.
+
+\end{thebibliography}
