@@ -7,6 +7,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints</h3>
 <ol reversed>
+  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
   <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. <a href="https://arxiv.org/abs/2503.20145"> [Preprint] </a> (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024"> [Preprint]</a> </li>
   <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738"> [Preprint] </a> (Submitted)</li>
@@ -24,8 +25,8 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Peer-reviewed publications</h3>
 <ol reversed>
-<li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <strong>Statistics and Computing</strong> <a href="https://arxiv.org/abs/2410.09552">[Preprint] </a> (Accepted for publication)</li>
-  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <strong>Interface Focus</strong> <a href="https://doi.org/10.1098/rsfs.2025.0004">[Published version]</a> <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> </li>
+<li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <strong>Statistics and Computing</strong>, 2025. <a href="https://arxiv.org/abs/2410.09552">[Preprint] </a> (Accepted for publication)</li>
+  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <strong>Interface Focus</strong>, 2025. <a href="https://doi.org/10.1098/rsfs.2025.0004">[Published version]</a> <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> </li>
 <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. <strong>Statistics in Medicine</strong>, 2024. <a href="https://doi.org/10.1002/sim.10226">[Published version]</a> <a href="https://arxiv.org/abs/1901.04916">[Preprint]</a></li>
 <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? <strong>Mathematical Biosciences</strong>, 2024. <a href="https://doi.org/10.1016/j.mbs.2024.109265">[Published version]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4690900">[Preprint]</a></li>
 <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong> <a href="https://ieeexplore.ieee.org/abstract/document/10628208">[Published version]</a> (Best Paper Award)</li>
