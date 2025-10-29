@@ -7,6 +7,7 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints</h3>
 <ol reversed>
+  <li>Yi Fu, Hye-Won Kang, <em>Wasiur R. KhudaBukhsh</em>, Lea Popovic, Grzegorz A. Rempała, and Ruth J. Williams. Fragility in a Togashi-Kaneko stochastic model with mutations. (Submitted) </li>
   <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
   <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. <a href="https://arxiv.org/abs/2503.20145"> [Preprint] </a> (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024"> [Preprint]</a> </li>
