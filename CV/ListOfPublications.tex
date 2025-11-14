@@ -1,34 +1,39 @@
 \documentclass[12pt]{scrartcl}
 % character encoding
+\usepackage{mathtools}
+\usepackage{amsmath,amssymb,amsfonts}
 \usepackage[utf8]{inputenc}  
-\usepackage{natbib}
-\usepackage[defaultbib]{bibtopic}
+\usepackage{fontspec}
+% \usepackage[authoryear]{natbib}
+\usepackage{bibtopic}
+\usepackage{url}
 \usepackage{hyperref}
 
+\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+
 \title{List of Publications}
+\author{Wasiur R. KhudaBukhsh}
+\date{}
+
 
 \begin{document}
 \maketitle
 \nocite{*}
 \bibliographystyle{unsrt}
+% \bibliographystyle{agsm}
 
-\section{Publications}
+% \section{Publications}
 %Summary: 7 journal papers. 8 peer-reviewed conference proceedings. 2 submitted journal papers. 2 theses/technical notes.
 
 
-\subsection{\textbf{Preprints/Submitted}}
-\begin{btSect}[unsrt]{SubmittedPapers}
+\section{\textbf{Preprints/Submitted}}
+\begin{btSect}{SubmittedPapers}
 % \btPrintNotCited
 \btPrintAll
 \end{btSect}
 
-\subsection{Book chapters}
-\begin{btSect}[unsrt]{book_chapters}
-% \btPrintNotCited
-\btPrintAll
-\end{btSect}
 
-\subsection{\textbf{Peer-reviewed journal publications}}
+\section{\textbf{Peer-reviewed journal publications}}
 %\subsection{Peer-reviewed publications}
 
 \begin{btSect}{publications}
@@ -36,8 +41,17 @@
 \btPrintAll
 \end{btSect}
 
-\subsection{\textbf{Peer-reviewed conference proceedings}}
-\begin{btSect}[unsrt]{proceedings}
+
+
+\section{Book chapters}
+\begin{btSect}{book_chapters}
+% \btPrintNotCited
+\btPrintAll
+\end{btSect}
+
+
+\section{\textbf{Peer-reviewed conference proceedings}}
+\begin{btSect}{proceedings}
 % \btPrintNotCited
 \btPrintAll
 \end{btSect}
@@ -49,8 +63,8 @@
 % \btPrintAll
 % \end{btSect}
 
-\subsection{\textbf{Thesis and technical notes}}
-\begin{btSect}[unsrt]{other_publications}
+\section{\textbf{Thesis and technical notes}}
+\begin{btSect}{other_publications}
 	% \btPrintNotCited
 	\btPrintAll
 \end{btSect}
