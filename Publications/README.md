@@ -1,4 +1,5 @@
 ### External links
+
 | [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [GitHub](https://github.com/wasiur) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
 
 <h3>Publications</h3>
@@ -7,7 +8,6 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Preprints</h3>
 <ol reversed>
-  <li>Yi Fu, Hye-Won Kang, <em>Wasiur R. KhudaBukhsh</em>, Lea Popovic, Grzegorz A. Rempała, and Ruth J. Williams. Fragility in a Togashi-Kaneko stochastic model with mutations. (Submitted) </li>
   <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
   <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. <a href="https://arxiv.org/abs/2503.20145"> [Preprint] </a> (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024"> [Preprint]</a> </li>
@@ -17,7 +17,6 @@ Please email me if you do not have access to any of the papers. Download list of
   <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. <a href="https://arxiv.org/abs/2409.06565">[Preprint] </a>(Submitted) </li>
 </ol>
 
-
 <h3>Book chapters</h3>
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. <strong>Handbook of Statistics</strong>, 2024. <a href="https://doi.org/10.1016/bs.host.2024.07.002">[Published version]</a></li>
@@ -26,6 +25,8 @@ Please email me if you do not have access to any of the papers. Download list of
 
 <h3>Peer-reviewed publications</h3>
 <ol reversed>
+<li>Yi Fu, Hye-Won Kang, <em>Wasiur R. KhudaBukhsh</em>, Lea Popovic, Grzegorz A. Rempała, and Ruth J. Williams. Fragility in a Togashi-Kaneko stochastic model with mutations. <strong>SIAM Journal on Life Sciences</strong>, 2026. <a href="https://mathweb.ucsd.edu/~williams/biochem/fragilityTK.pdf"> [Preprint]</a> (Accepted for publication) </li>
+  
 <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <strong>Statistics and Computing</strong>, 2025. <a href="https://doi.org/10.1007/s11222-025-10756-x">[Published version]</a> <a href="https://arxiv.org/abs/2410.09552">[Preprint] </a> </li>
   <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <strong>Interface Focus</strong>, 2025. <a href="https://doi.org/10.1098/rsfs.2025.0004">[Published version]</a> <a href="https://arxiv.org/abs/2502.00071"> [Preprint] </a> </li>
 <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. <strong>Statistics in Medicine</strong>, 2024. <a href="https://doi.org/10.1002/sim.10226">[Published version]</a> <a href="https://arxiv.org/abs/1901.04916">[Preprint]</a></li>
@@ -61,11 +62,6 @@ Please email me if you do not have access to any of the papers. Download list of
 <li>Adrian Šošić, <em>Wasiur R. KhudaBukhsh</em>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <strong>International Conference on Autonomous Agents & Multiagent Systems (AAMAS)</strong>, 2017. <a href="https://dl.acm.org/citation.cfm?id=3091320">[Published version]</a> [<strong>Best paper award finalist</strong>]</li>
 <li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">[Published version]</a></li> 
 </ol>
-
-
-
-
-   
 
 <h3>Theses and technical notes</h3>
 <ol reversed>
