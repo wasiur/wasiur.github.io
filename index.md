@@ -57,7 +57,7 @@
     </div>
   </div>
   <div class="profile-links">
-    <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Page</a>
+    <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Webpage</a>
   </div>
   <div class="contact-row">
     <span class="contact-icon">✉️</span>
