@@ -1,0 +1,290 @@
+%% CV_KhudaBukhsh_v2.tex
+%% A modern, visually enhanced CV for Wasiur Rahman Khuda Bukhsh
+%% Based on moderncv with 'banking' style for a cleaner, professional look
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% Modern CV theme - 'banking' provides a clean, professional look
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+% Custom colors for enhanced visual appeal
+\usepackage{xcolor}
+\definecolor{accentcolor}{RGB}{0, 83, 155}      % Deep blue for headers
+\definecolor{linkcolor}{RGB}{0, 102, 204}       % Blue for links
+\definecolor{sectioncolor}{RGB}{64, 64, 64}     % Dark gray for sections
+
+% Better fonts
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Character encoding
+\usepackage[utf8]{inputenc}
+
+% Page margins - slightly more generous for readability
+\usepackage[scale=0.85, top=2cm, bottom=2cm]{geometry}
+
+% Enhanced packages
+\usepackage{etaremune}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+\usepackage{multicol}
+
+% Bibliography packages
+\usepackage{natbib}
+\usepackage{bibtopic}
+\bibliographystyle{plain}
+
+% Custom section styling
+\renewcommand*{\sectionstyle}[1]{{\fontsize{13}{15}\bfseries\upshape\color{accentcolor}#1}}
+
+% Personal data
+\name{Wasiur Rahman}{Khuda Bukhsh}
+\title{Assistant Professor of Mathematics}
+
+\address{School of Mathematical Sciences}{The University of Nottingham}{University Park, Nottingham, NG7 2RD, UK}
+
+\email{wasiur.khudabukhsh@nottingham.ac.uk}
+\homepage{wasiur.xyz}
+\social[orcid]{0000-0003-1803-0470}
+\social[github]{wasiur}
+
+% Custom command for section icons
+\newcommand{\sectionicon}[2]{\section{\texorpdfstring{\faIcon{#1} \hspace{0.3em}#2}{#2}}}
+
+%----------------------------------------------------------------------------------
+%            Content
+%----------------------------------------------------------------------------------
+\begin{document}
+
+\makecvtitle
+
+\vspace{-1.5em}
+
+%==============================================================================
+\section{\faIcon{briefcase} Professional Experience}
+%==============================================================================
+
+\cventry{Oct 2021 -- Present}{Assistant Professor}{School of Mathematical Sciences}{The University of Nottingham, UK}{}{}
+
+\cventry{Jan 2020 -- Sep 2021}{President's Postdoctoral Scholar}{Mathematical Biosciences Institute \& College of Public Health}{The Ohio State University, USA}{}{}
+
+\cventry{Oct 2018 -- Dec 2019}{Postdoctoral Researcher}{Mathematical Biosciences Institute \& College of Public Health}{The Ohio State University, USA}{}{}
+
+\cventry{Jan 2014 -- Sep 2018}{Research Associate}{Department of Electrical Engineering and Information Technology}{Technische Universität Darmstadt, Germany}{}{}
+
+\cventry{Jun 2011 -- Dec 2013}{Manager, Advanced Analytics}{Business Intelligence Unit}{ICICI Bank, Mumbai, India}{}{}
+
+%==============================================================================
+\section{\faIcon{graduation-cap} Education}
+%==============================================================================
+
+\cventry{2023 -- 2024}{Postgraduate Certificate in Higher Education (PGCHE)}{University of Nottingham}{UK}{}{}
+
+\cventry{2023 -- Present}{Fellow (FHEA)}{Advance HE (formerly Higher Education Academy)}{UK}{}{}
+
+\cventry{2014 -- 2018}{Ph.D. (Dr. rer. nat.), \textit{summa cum laude}}{Technische Universität Darmstadt}{Germany}{}
+{Department of Electrical Engineering and Information Technology}
+
+\cventry{2009 -- 2011}{Master of Statistics (M.Stat.)}{Indian Statistical Institute}{Kolkata, India}{}{}
+
+\cventry{2006 -- 2009}{B.Sc. (Honours) in Statistics}{University of Calcutta}{Kolkata, India}{}{}
+
+%==============================================================================
+\section{\faIcon{book} Publications}
+%==============================================================================
+
+\subsection{Preprints/Submitted}
+\begin{btSect}[unsrt]{SubmittedPapers}
+\btPrintAll
+\end{btSect}
+
+\subsection{Peer-reviewed Journal Publications}
+\begin{btSect}[unsrt]{publications}
+\btPrintAll
+\end{btSect}
+
+\subsection{Book Chapters}
+\begin{btSect}[unsrt]{book_chapters}
+\btPrintAll
+\end{btSect}
+
+\subsection{Conference Proceedings}
+\begin{btSect}[unsrt]{proceedings}
+\btPrintAll
+\end{btSect}
+
+\subsection{Thesis and Technical Notes}
+\begin{btSect}[unsrt]{other_publications}
+\btPrintAll
+\end{btSect}
+
+%==============================================================================
+\section{\faIcon{award} Awards \& Funding}
+%==============================================================================
+
+\subsection{Awards}
+\begin{itemize}
+    \item Best Paper Award, International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)
+    \item President's Postdoctoral Scholars Program (PPSP), The Ohio State University (2019)
+    \item Best-in-Session Presentation Award, IEEE INFOCOM, Honolulu, Hawaii (2018)
+\end{itemize}
+
+\subsection{Research Funding}
+\begin{itemize}
+    \item \textbf{EPSRC EP/Y027795/1} -- £79,987.58 (March 2024 -- February 2025)
+\end{itemize}
+
+\subsection{Other Grants \& Travel Awards}
+\begin{multicols}{2}
+\begin{itemize}
+    \item Isaac Newton Institute Retreats (2024)
+    \item CM2LA Workshop Grant, South Korea (\$7,000)
+    \item LMS Research in Pairs (2024) -- £1,200
+    \item MATRIX-Simons Travel Grant -- A\$2,500
+    \item UoN International Collaboration Fund -- £3,150
+    \item HIMR Small Grants -- £1,000
+    \item Royal Society International Exchange (2022) -- £11,702
+    \item LMS Undergraduate Bursary (2022) -- £1,800
+    \item IMS New Researchers Conference (2022)
+    \item AIM SQuaREs Program
+    \item DAAD Travel Grant (2018) -- €2,000
+\end{itemize}
+\end{multicols}
+
+%==============================================================================
+\section{\faIcon{chalkboard-teacher} Teaching Experience}
+%==============================================================================
+
+\subsection{University of Nottingham, UK}
+\begin{itemize}
+    \item \textbf{MATH3060:} Financial Mathematics (2025--26, with M. Tretyakov)
+    \item \textbf{MATH2109:} Probability 3/Markov Chains (Spring 2025, 2026)
+    \item \textbf{MATH2010:} Probability Methods and Models (Spring 2022--2024)
+    \item \textbf{MATH4045:} Mathematical Finance (2022--2025)
+\end{itemize}
+
+\subsection{The Ohio State University, USA}
+\begin{itemize}
+    \item \textbf{STAT 4201:} Introduction to Mathematical Statistics (Fall 2019)
+    \item \textbf{PUBHBIO7193:} Advanced Stochastic Epidemiology (Summer 2019)
+\end{itemize}
+
+\subsection{Technische Universität Darmstadt, Germany}
+\begin{itemize}
+    \item \textbf{CMSSB:} Computational Methods for Systems and Synthetic Biology (2016--2017)
+\end{itemize}
+
+%==============================================================================
+\section{\faIcon{users} Supervision \& Mentoring}
+%==============================================================================
+
+\textit{Summary: 2 postdocs, 3 PhD students, 16 MSc students, 16 BSc students}
+
+\subsection{Postdoctoral Researchers}
+\begin{itemize}
+    \item Dr. Olga Iziumtseva (British Academy Fellowship), 2023--2025
+    \item Dr. Yangrui Xiang, 2024--2025
+\end{itemize}
+
+\subsection{PhD Students}
+\begin{itemize}
+    \item Kushankur Dutta (2023--2027 expected)
+    \item Wesam El Buaishi (2023--2026 expected)
+    \item James Harborne (2022--2026 expected)
+\end{itemize}
+
+%==============================================================================
+\section{\faIcon{microphone} Presentations}
+%==============================================================================
+
+\textit{Summary: 56 invited talks, 28 contributed talks, 7 poster presentations}
+
+\subsection{Selected Invited Talks (2023--2026)}
+\begin{multicols}{2}
+\begin{itemize}
+    \item University of Strathclyde (2026)
+    \item IIT Mandi, India (2026)
+    \item RSS Annual Meeting (2025)
+    \item SPA 2025, Wrocław, Poland
+    \item BIRS-CMO Workshop (2025)
+    \item Louisiana State University (2024)
+    \item SMB Annual Meeting, Seoul (2024)
+    \item University of Leeds (2023)
+    \item ICIAM, Tokyo (2023)
+    \item Georgia Tech (2023)
+\end{itemize}
+\end{multicols}
+
+%==============================================================================
+\section{\faIcon{hands-helping} Service \& Outreach}
+%==============================================================================
+
+\subsection{Professional Committees}
+\begin{itemize}
+    \item Applied Probability Section Committee, Royal Statistical Society
+\end{itemize}
+
+\subsection{Editorial Service}
+\begin{itemize}
+    \item Guest Associate Editor, JRSS Series B (2023)
+    \item Guest Editor, Mathematical Biosciences and Engineering
+\end{itemize}
+
+\subsection{PhD Thesis Examiner}
+\begin{itemize}
+    \item Internal: L. Critcher (Nottingham, 2025)
+    \item External: H.C. Yip (Politecnico di Torino, 2024), D. Keliger (Budapest, 2025)
+\end{itemize}
+
+\subsection{Grant Review}
+\begin{itemize}
+    \item EPSRC (UKRI), ZonMw (Netherlands) -- 2024
+\end{itemize}
+
+\subsection{Conference Organization (Selected)}
+\begin{itemize}
+    \item BIRS Workshop on Pandemic Epidemiology (2025)
+    \item CRN Satellite Workshop, South Korea (2024)
+    \item RSS Epidemic Modelling Workshop (2023)
+    \item BIRS Workshop ``Preparing for the Next Pandemic'' (2022)
+\end{itemize}
+
+\subsection{Referee Service}
+\textit{Journals:} Electronic Journal of Probability, Stochastic Processes \& their Applications, SIAM J. Appl. Dyn. Sys., Biometrika, J. Math. Biology, Bull. Math. Biology, IEEE Trans. Automatic Control, IEEE Trans. Networking, and others.
+
+%==============================================================================
+\section{\faIcon{laptop-code} Technical Skills}
+%==============================================================================
+
+\begin{cvcolumns}
+    \cvcolumn{Programming}{\begin{itemize}\item C, Python, R, Julia, SQL\end{itemize}}
+    \cvcolumn{Software}{\begin{itemize}\item MATLAB, SAS, \LaTeX\end{itemize}}
+    \cvcolumn{Languages}{\begin{itemize}\item English, Bengali, Hindi, German (B1)\end{itemize}}
+\end{cvcolumns}
+
+%==============================================================================
+\section{\faIcon{newspaper} Media Highlights}
+%==============================================================================
+
+\begin{itemize}
+    \item \href{https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh}{\textbf{SIAM DSWeb}} -- Student Feature (Jan 2021)
+    \item \href{https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans}{\textbf{OSC News}} -- COVID-19 Projection Models Equip Ohioans
+    \item \href{https://idi.osu.edu/news-articles/far-from-trivial}{\textbf{IDI News}} -- Far from Trivial: Path to OSU/IDI COVID-19 Modeling Team
+    \item \href{https://www.youtube.com/watch?v=j_DEgauzw7w}{\textbf{STEAM Spotlight}} -- Dr. Wasiur Rahman KhudaBukhsh
+\end{itemize}
+
+%==============================================================================
+\section{\faIcon{id-card} References}
+%==============================================================================
+
+Available upon request.
+
+\vfill
+\begin{center}
+    \small\textcolor{gray}{Last updated: \today}
+\end{center}
+
+\end{document}

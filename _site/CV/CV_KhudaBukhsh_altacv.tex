@@ -1,0 +1,201 @@
+%% CV_KhudaBukhsh_altacv.tex
+%% AltaCV-inspired academic CV with two-column layout
+%% Requires: altacv.cls (available on Overleaf or CTAN)
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+
+% Page layout
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+% Fonts
+\usepackage{paracol}
+\usepackage[rm]{roboto}
+\usepackage[defaultsans]{lato}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Colors - Academic navy theme
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{PrimaryColor}{HTML}{001F5B}    % Navy blue
+\definecolor{SecondaryColor}{HTML}{0063B2}  % Bright blue
+\definecolor{AccentColor}{HTML}{D4AF37}     % Gold accent
+
+\colorlet{name}{PrimaryColor}
+\colorlet{tagline}{SecondaryColor}
+\colorlet{heading}{PrimaryColor}
+\colorlet{headingrule}{AccentColor}
+\colorlet{subheading}{SecondaryColor}
+\colorlet{accent}{SecondaryColor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Bullet style
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvRatingMarker}{\faCircle}
+
+% Bibliography
+\usepackage{natbib}
+\usepackage{bibtopic}
+\bibliographystyle{plain}
+
+\begin{document}
+
+\name{Wasiur Rahman Khuda Bukhsh}
+\tagline{Assistant Professor of Mathematics}
+
+\photoR{2.8cm}{} % Add photo here if desired
+
+\personalinfo{
+    \email{wasiur.khudabukhsh@nottingham.ac.uk}
+    \phone{+44 (0) XXXX XXXXXX}
+    \homepage{wasiur.xyz}
+    \location{University of Nottingham, UK}\\
+    \orcid{0000-0003-1803-0470}
+    \github{wasiur}
+}
+
+\makecvheader
+
+%% Set up two columns
+\columnratio{0.6}
+\begin{paracol}{2}
+
+%===========================================
+% LEFT COLUMN
+%===========================================
+
+\cvsection{Professional Experience}
+
+\cvevent{Assistant Professor}{University of Nottingham, UK}{Oct 2021 -- Present}{}
+School of Mathematical Sciences
+
+\divider
+
+\cvevent{President's Postdoctoral Scholar}{The Ohio State University, USA}{Jan 2020 -- Sep 2021}{}
+Mathematical Biosciences Institute \& College of Public Health
+
+\divider
+
+\cvevent{Postdoctoral Researcher}{The Ohio State University, USA}{Oct 2018 -- Dec 2019}{}
+Mathematical Biosciences Institute
+
+\divider
+
+\cvevent{Research Associate}{TU Darmstadt, Germany}{Jan 2014 -- Sep 2018}{}
+Electrical Engineering \& Information Technology
+
+\divider
+
+\cvevent{Manager, Advanced Analytics}{ICICI Bank, India}{Jun 2011 -- Dec 2013}{}
+Business Intelligence Unit
+
+\cvsection{Education}
+
+\cvevent{Ph.D. (Dr. rer. nat.), \textit{summa cum laude}}{TU Darmstadt, Germany}{2014 -- 2018}{}
+
+\divider
+
+\cvevent{PGCHE \& Fellow (FHEA)}{University of Nottingham}{2023 -- 2024}{}
+
+\divider
+
+\cvevent{M.Stat.}{Indian Statistical Institute, Kolkata}{2009 -- 2011}{}
+
+\divider
+
+\cvevent{B.Sc. (Hons) Statistics}{University of Calcutta}{2006 -- 2009}{}
+
+\cvsection{Awards \& Honors}
+
+\cvachievement{\faTrophy}{Best Paper Award}{QCNC 2024}
+
+\divider
+
+\cvachievement{\faTrophy}{President's Postdoctoral Scholar}{Ohio State University, 2019}
+
+\divider
+
+\cvachievement{\faTrophy}{Best-in-Session Award}{IEEE INFOCOM 2018}
+
+\cvsection{Research Funding}
+
+\cvachievement{\faPoundSign}{EPSRC EP/Y027795/1}{£79,988 (2024--2025)}
+
+\divider
+
+\cvachievement{\faGlobe}{Royal Society International Exchange}{£11,702 (2022)}
+
+\divider
+
+\cvachievement{\faUsers}{AIM SQuaREs Program}{Collaborative Research Grant}
+
+%===========================================
+% RIGHT COLUMN
+%===========================================
+\switchcolumn
+
+\cvsection{Research Interests}
+
+\cvtag{Stochastic Processes}
+\cvtag{Random Graphs}
+\cvtag{Epidemiology}\\
+\cvtag{Chemical Reaction Networks}
+\cvtag{Machine Learning}\\
+\cvtag{Applied Probability}
+\cvtag{Queueing Theory}
+
+\cvsection{Publications}
+
+\cvachievement{\faBook}{Journal Articles}{25+}
+\cvachievement{\faFileAlt}{Conference Papers}{15+}
+\cvachievement{\faBookOpen}{Book Chapters}{2}
+
+\medskip
+\textit{Full publication list available at}\\
+\href{https://wasiur.xyz}{wasiur.xyz}
+
+\cvsection{Teaching}
+
+\cvevent{MATH2109}{Probability/Markov Chains}{2025--26}{}
+\cvevent{MATH2010}{Probability Methods}{2022--24}{}
+\cvevent{MATH4045}{Mathematical Finance}{2022--25}{}
+\cvevent{STAT 4201}{Mathematical Statistics}{2019}{}
+
+\cvsection{Supervision}
+
+\wheelchart{1.5cm}{0.5cm}{
+    20/10em/accent!30/Postdocs (2),
+    35/9em/accent!60/PhD Students (3),
+    45/11em/accent/MSc \& BSc (32)
+}
+
+\cvsection{Presentations}
+
+\cvachievement{\faMicrophone}{Invited Talks}{56}
+\cvachievement{\faComments}{Contributed Talks}{28}
+\cvachievement{\faImage}{Posters}{7}
+
+\cvsection{Skills}
+
+\cvskill{Python, R, Julia}{5}
+\cvskill{MATLAB, SAS}{4}
+\cvskill{\LaTeX}{5}
+\cvskill{SQL, C}{3}
+
+\cvsection{Languages}
+
+\cvskill{English}{5}
+\cvskill{Bengali (Native)}{5}
+\cvskill{Hindi}{4}
+\cvskill{German}{3}
+
+\cvsection{Service}
+
+\cvtag{RSS Committee}
+\cvtag{Editorial}\\
+\cvtag{Grant Review}
+\cvtag{PhD Examiner}
+
+\end{paracol}
+
+\end{document}

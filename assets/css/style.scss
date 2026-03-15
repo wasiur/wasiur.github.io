@@ -1,7 +1,440 @@
 ---
 ---
 @charset "utf-8";
-// my variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+// Overrides for Cayman Theme variables
+$base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$header-bg-color: #1e293b; // Deep slate
+$header-bg-color-secondary: #0f172a; // Darker slate
+$body-text-color: #334155; // Slate-700
+$body-link-color: #2563eb; // Blue-600
+$section-headings-color: #0f172a; // Slate-900
 
 @import "{{ site.theme }}";
+
+/* =========================================================================
+   Custom Utility Classes & Overrides
+   ========================================================================= */
+
+/* Body background for a premium contrast */
+body {
+  background-color: #f8fafc;
+}
+.main-content {
+  background-color: #ffffff;
+  padding: 3rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Premium page header styling */
+.page-header {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  background-image: linear-gradient(135deg, $header-bg-color, $header-bg-color-secondary);
+  padding-bottom: 3rem; /* Add padding to prevent nav overlap */
+  color: #f8fafc;
+}
+
+.page-header h1, .page-header h2, .page-header h3,
+.page-header .project-name, .page-header .project-tagline {
+  color: #ffffff;
+}
+
+/* Header buttons (Navigation) */
+.nav-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 3rem;  /* Ensure the buttons have space above them */
+  margin-bottom: 2rem; /* Add generous space below the buttons */
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-header .btn {
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: all 0.2s ease;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.page-header .btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Flexbox profile container */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  transition: transform 0.3s ease;
+}
+
+@media screen and (min-width: 768px) {
+  .profile-container {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+.profile-image-wrapper {
+  flex-shrink: 0;
+}
+
+.profile-image {
+  width: 240px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-image:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.profile-content {
+  flex: 1;
+}
+
+.profile-content p {
+  margin-top: 0;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+/* Links with beautiful underline */
+a {
+  text-decoration: none;
+  font-weight: 500;
+  background-image: linear-gradient(to right, $body-link-color, $body-link-color);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s ease, color 0.3s ease;
+}
+
+a:hover {
+  background-size: 100% 2px;
+  color: darken($body-link-color, 15%);
+}
+
+.page-header a {
+  background-image: none; /* No underline trick in header */
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+.page-header a:hover {
+  opacity: 1;
+  color: #fff;
+}
+
+/* Details and Summary (News section) */
+details {
+  background: #f1f5f9;
+  border-left: 4px solid $body-link-color;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: box-shadow 0.3s ease;
+}
+details:hover {
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  outline: none;
+  color: #0f172a;
+}
+details summary h4 {
+  display: inline;
+  margin: 0;
+  color: inherit;
+}
+details ol {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+/* Typography refinements */
+h1, h2, h3, h4, h5, h6 {
+  color: $section-headings-color;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+h2 {
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  background-color: #f8fafc;
+  color: #475569;
+  font-weight: 600;
+  text-align: left;
+}
+td, th {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+/* Clean up footer */
+.site-footer {
+  border-top: 1px solid #e2e8f0;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  text-align: center;
+  color: #64748b;
+}
+
+/* =========================================================================
+   Publications Page Styling
+   ========================================================================= */
+
+/* Remove default list styling for publication lists */
+.pub-list ol {
+  list-style-type: none;
+  padding-left: 0;
+  /* counter-reset will be handled dynamically to support reversed lists */
+}
+
+/* Style each publication as a clean card */
+.pub-list li {
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  line-height: 1.6;
+  padding-left: 3rem; /* Leave room for counter */
+}
+
+.pub-list li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-color: #cbd5e1;
+}
+
+/* Custom numbers for the cards */
+.pub-list li::before {
+  counter-increment: pub-counter -1;
+  content: counter(pub-counter) ".";
+  position: absolute;
+  left: 1rem;
+  top: 1.5rem;
+  font-weight: 700;
+  color: #94a3b8; /* Subtle gray number */
+  font-size: 1.1rem;
+}
+
+/* Author names (keep subtle) */
+.pub-list em {
+  color: #475569;
+  font-style: italic;
+}
+
+/* Highlight the venue/journal beautifully */
+.pub-list strong {
+  color: $body-link-color;
+  font-weight: 700;
+}
+
+/* Style links as modern badges inside the publication cards */
+.pub-list a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  margin-top: 0.75rem;
+  margin-right: 0.5rem;
+  border-radius: 9999px; /* Pill shape */
+  background-color: #f1f5f9;
+  color: #475569;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  background-image: none; /* override sliding underline */
+  border: 1px solid #cbd5e1;
+  transition: all 0.2s ease;
+}
+
+.pub-list a:hover {
+  background-color: $body-link-color;
+  color: #ffffff;
+  border-color: $body-link-color;
+  transform: translateY(-1px);
+}
+
+/* =========================================================================
+   Teaching Page Styling
+   ========================================================================= */
+
+/* Remove default list styling */
+.teaching-list ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Style each course as a clean card */
+.teaching-list li {
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  line-height: 1.6;
+}
+
+.teaching-list li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-color: #cbd5e1;
+}
+
+/* Emphasize the course names/codes but leave university tags standard */
+.teaching-list > ol > li {
+  color: #334155;
+  font-size: 1.05rem;
+}
+
+/* Semester Badges */
+.semester-badge-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.semester-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px; /* Pill shape */
+  background-color: #e0f2fe; /* Light blue */
+  color: #0369a1; /* Dark blue text */
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1px solid #bae6fd;
+}
+
+/* =========================================================================
+   Mentees Page Styling
+   ========================================================================= */
+
+/* Research interest tags */
+.interest-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.interest-tag {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #e0f2fe, #dbeafe);
+  color: #1e40af;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border: 1px solid #bfdbfe;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.interest-tag:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(30, 64, 175, 0.15);
+}
+
+/* Mentees card grid */
+.mentees-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.mentee-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.mentee-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+  border-color: #cbd5e1;
+}
+
+.mentee-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #0f172a;
+  margin-bottom: 0.4rem;
+}
+
+.mentee-period {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #0369a1;
+  background-color: #e0f2fe;
+  border: 1px solid #bae6fd;
+  border-radius: 9999px;
+  padding: 0.15rem 0.65rem;
+  margin-bottom: 0.75rem;
+}
+
+.mentee-supervisors {
+  font-size: 0.85rem;
+  color: #64748b;
+  line-height: 1.5;
+}
+
+.mentee-supervisors a {
+  color: $body-link-color;
+  background-image: none;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.mentee-supervisors a:hover {
+  text-decoration: underline;
+}
