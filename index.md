@@ -10,7 +10,6 @@
       <a href="https://orcid.org/0000-0003-1803-0470" class="profile-link-btn">ORCID</a>
       <a href="https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh" class="profile-link-btn">ResearchGate</a>
       <a href="https://wasiur.github.io/Publications/" class="profile-link-btn profile-link-btn--primary">Publications</a>
-      <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Page</a>
     </div>
   </div>
 </div>
@@ -56,6 +55,9 @@
       <a href="https://www.nottingham.ac.uk/mathematics/">School of Mathematical Sciences</a><br>
       University Park, Nottingham, NG7 2RD, UK
     </div>
+  </div>
+  <div class="profile-links">
+    <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Page</a>
   </div>
   <div class="contact-row">
     <span class="contact-icon">✉️</span>

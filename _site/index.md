@@ -1,4 +1,3 @@
-
 <div class="profile-container">
   <div class="profile-image-wrapper">
     <img src="/image/Wasiur_bike.jpg" alt="Wasiur R. KhudaBukhsh" class="profile-image" />
@@ -11,13 +10,14 @@
       <a href="https://orcid.org/0000-0003-1803-0470" class="profile-link-btn">ORCID</a>
       <a href="https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh" class="profile-link-btn">ResearchGate</a>
       <a href="https://wasiur.github.io/Publications/" class="profile-link-btn profile-link-btn--primary">Publications</a>
+      <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Page</a>
     </div>
   </div>
 </div>
 
 [1]: /image/BALA_1.jpeg
-<br>
 
+<br>
 
 ## News
 
@@ -41,11 +41,10 @@
   <div class="funding-badge">EPSRC</div>
   <div class="funding-details">
     <div class="funding-grant">EP/Y027795/1</div>
-    <div class="funding-period">01/03/2024 – 28/02/2025 &nbsp;·&nbsp; Single PI</div>
+    <div class="funding-period">01/03/2024 – 28/02/2025 &nbsp;·&nbsp; PI</div>
     <div class="funding-body">Engineering and Physical Sciences Research Council</div>
   </div>
 </div>
-
 
 ## Contact
 
@@ -63,7 +62,6 @@
     <a href="mailto:wasiur.khudabukhsh@nottingham.ac.uk">wasiur.khudabukhsh@nottingham.ac.uk</a>
   </div>
 </div>
-
 
 ## Education
 

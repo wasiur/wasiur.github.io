@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@600;700;800&display=swap");
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
@@ -324,22 +324,40 @@ a:hover { text-decoration: underline; }
 .site-footer-credits { color: #819198; }
 
 /* ========================================================================= Custom Utility Classes & Overrides ========================================================================= */
-/* Body background for a premium contrast */
-body { background-color: #f8fafc; }
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 8px; }
 
-.main-content { background-color: #ffffff; padding: 3rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); margin-top: 2rem; margin-bottom: 2rem; position: relative; max-width: 900px; margin-left: auto; margin-right: auto; }
+::-webkit-scrollbar-track { background: #f1f5f9; }
 
-/* Premium page header styling */
-.page-header { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); background-image: linear-gradient(135deg, #1e293b, #0f172a); padding-bottom: 3rem; /* Add padding to prevent nav overlap */ color: #f8fafc; }
+::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 9999px; }
 
-.page-header h1, .page-header h2, .page-header h3, .page-header .project-name, .page-header .project-tagline { color: #ffffff; }
+::-webkit-scrollbar-thumb:hover { background: #2563eb; }
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Body background for a premium contrast with subtle dot grid */
+body { background-color: #f1f5f9; background-image: radial-gradient(circle, #cbd5e1 1px, transparent 1px); background-size: 28px 28px; }
+
+.main-content { background-color: #ffffff; padding: 3rem; border-radius: 16px; box-shadow: 0 8px 32px rgba(15, 23, 42, 0.08), 0 2px 8px rgba(15, 23, 42, 0.04); margin-top: 2rem; margin-bottom: 2rem; position: relative; max-width: 900px; margin-left: auto; margin-right: auto; border: 1px solid rgba(226, 232, 240, 0.8); }
+
+/* Premium animated header */
+@keyframes gradientShift { 0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; } }
+.page-header { box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25); background: linear-gradient(135deg, #1e293b, #0f172a, #1e3a5f, #0f172a); background-size: 300% 300%; animation: gradientShift 12s ease infinite; padding-bottom: 3rem; color: #f8fafc; position: relative; overflow: hidden; }
+
+/* Subtle sheen overlay on the header */
+.page-header::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at 60% 40%, rgba(59, 130, 246, 0.15) 0%, transparent 70%); pointer-events: none; }
+
+.page-header h1, .page-header h2, .page-header h3, .page-header .project-name, .page-header .project-tagline { color: #ffffff; font-family: 'Outfit', 'Inter', sans-serif; text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3); }
 
 /* Header buttons (Navigation) */
-.nav-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 3rem; /* Ensure the buttons have space above them */ margin-bottom: 2rem; /* Add generous space below the buttons */ max-width: 900px; margin-left: auto; margin-right: auto; }
+.nav-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 3rem; margin-bottom: 2rem; max-width: 900px; margin-left: auto; margin-right: auto; }
 
-.page-header .btn { color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.4); background-color: rgba(255, 255, 255, 0.05); transition: all 0.2s ease; padding: 0.6rem 1.2rem; border-radius: 6px; font-weight: 500; white-space: nowrap; }
+.page-header .btn { color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.35); background-color: rgba(255, 255, 255, 0.08); backdrop-filter: blur(4px); transition: all 0.25s ease; padding: 0.6rem 1.4rem; border-radius: 8px; font-weight: 600; font-size: 0.9rem; white-space: nowrap; letter-spacing: 0.01em; }
 
-.page-header .btn:hover { background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.8); color: #ffffff; text-decoration: none; }
+.page-header .btn:hover { background-color: rgba(255, 255, 255, 0.18); border-color: rgba(255, 255, 255, 0.9); color: #ffffff; text-decoration: none; box-shadow: 0 0 20px rgba(255, 255, 255, 0.15), 0 4px 12px rgba(0, 0, 0, 0.2); transform: translateY(-1px); }
 
 /* Flexbox profile container */
 .profile-container { display: flex; flex-direction: column; gap: 2rem; align-items: center; margin-bottom: 3rem; transition: transform 0.3s ease; }
@@ -378,7 +396,11 @@ details ol { margin-top: 1rem; margin-bottom: 0; }
 /* Typography refinements */
 h1, h2, h3, h4, h5, h6 { color: #0f172a; font-weight: 700; letter-spacing: -0.025em; }
 
-h2 { border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-top: 2.5rem; }
+h2 { display: flex; align-items: center; gap: 0.6rem; border-bottom: none; padding-bottom: 0.6rem; margin-top: 2.75rem; font-family: 'Outfit', 'Inter', sans-serif; font-size: 1.4rem; color: #0f172a; }
+
+h2::before { content: ''; display: inline-block; width: 5px; height: 1.2em; border-radius: 3px; background: linear-gradient(180deg, #2563eb, #7c3aed); flex-shrink: 0; }
+
+h2::after { content: ''; flex: 1; height: 1px; background: linear-gradient(to right, #e2e8f0, transparent); margin-left: 0.5rem; }
 
 table { width: 100%; border-collapse: collapse; }
 
