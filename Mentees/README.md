@@ -1,4 +1,3 @@
-
 <h2>Research Opportunities</h2>
 
 I am interested in working with students and researchers in the following areas:
@@ -19,7 +18,7 @@ If you are interested in working with me in any of these areas, please get in to
 <div class="mentees-grid">
   <div class="mentee-card">
     <div class="mentee-name">Olga Iziumtseva</div>
-    <div class="mentee-period">09/2023 – 09/2025</div>
+    <div class="mentee-period">09/2023 – 09/2026</div>
   </div>
   <div class="mentee-card">
     <div class="mentee-name">Yangrui Xiang</div>
