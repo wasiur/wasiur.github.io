@@ -9,13 +9,13 @@ Please email me if you do not have access to any of the papers. Download list of
 <h3>Preprints</h3>
 <div class="pub-list">
 <ol reversed>
-  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <a href="https://arxiv.org/abs/2606.02036">Preprint </a> </li>
-  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. </li>
+  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Fluctuation analysis of the standard QSSA for a stochastic multistage Michaelis-Menten model. (Submitted) </li>
+  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <a href="https://arxiv.org/abs/2606.02036">Preprint </a> (Submitted)</li>
+  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024">Preprint </a> </li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Yangrui Xiang. Mixing time for a noisy SIS model on graphs.<a href="https://arxiv.org/abs/2501.07738">Preprint </a></li>
-  <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">Preprint </a></li>
-  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">Preprint </a></li>
-  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. <a href="https://arxiv.org/abs/2409.06565">Preprint </a></li>
+  <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">Preprint </a> (Under revision)</li>
+  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">Preprint </a> (Under revision)</li>
+  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference. <a href="https://arxiv.org/abs/2409.06565">Preprint </a> (Under revision)</li>
 </ol>
 </div>
 
