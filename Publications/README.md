@@ -12,7 +12,7 @@ Please email me if you do not have access to any of the papers. Download list of
   <li>Yordan Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Shrinkage priors for Bayesian Substitute Confounders. <a href="https://arxiv.org/abs/2606.18535">Preprint </a> </li>
   <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Fluctuation analysis of the standard QSSA for a stochastic multistage Michaelis-Menten model. (Submitted) </li>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <a href="https://arxiv.org/abs/2606.02036">Preprint </a> (Submitted)</li>
-  <li>Wasiur R. KhudaBukhsh and Yangrui Xiang. Mixing time for a noisy {SIS} model on graphs. <a href="https://arxiv.org/abs/2501.07738">Preprint </a> (Submitted) </li>
+  <li>Wasiur R. KhudaBukhsh and Yangrui Xiang. Mixing time for a noisy SIS model on graphs. <a href="https://arxiv.org/abs/2501.07738">Preprint </a> (Submitted) </li>
   <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024">Preprint </a> </li>
   <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">Preprint </a> (Under revision)</li>
