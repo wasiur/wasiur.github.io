@@ -4,15 +4,17 @@
 
 Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf). In mathematics, the authors are conventionally ordered alphabetically.
 
-<h3>Sample path properties of stochastic processes</h3>
+<details style="margin-bottom: 0.25cm"><summary><h3>Sample path properties of stochastic processes</h3></summary>
 <div class="pub-list">
 <ol reversed>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <a href="https://arxiv.org/abs/2606.02036">Preprint </a> (Submitted)</li>
   <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">Preprint </a> (Under revision)</li>
 </ol>
 </div>
+</details>
 
-<h3>Stochastic processes on (random) graphs</h3>
+<details style="margin-bottom: 0.25cm"><summary>
+<h3>Stochastic processes on (random) graphs</h3></summary>
 <div class="pub-list">
 <ol reversed>
   <li>Wasiur R. KhudaBukhsh and Yangrui Xiang. Mixing time for a noisy SIS model on graphs. <a href="https://arxiv.org/abs/2501.07738">Preprint </a> (Submitted) </li>
@@ -22,8 +24,10 @@ Please email me if you do not have access to any of the papers. Download list of
   <li><em>Wasiur R. KhudaBukhsh</em>, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. <strong>Journal of Applied Probability</strong>, 2019. <a href="https://doi.org/10.1017/jpr.2019.44">Published version</a> <a href="http://arxiv.org/abs/1804.00910">Preprint</a></li>
 </ol>
 </div>
+</details>
 
-<h3>Stochastic reaction networks</h3>
+<details style="margin-bottom: 0.25cm"><summary>
+<h3>Stochastic reaction networks</h3></summary>
 <div class="pub-list">
 <ol reversed>
   <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Fluctuation analysis of the standard QSSA for a stochastic multistage Michaelis-Menten model. (Submitted) </li>
@@ -34,8 +38,11 @@ Please email me if you do not have access to any of the papers. Download list of
   <li>Hye-Won Kang*, <em>Wasiur R. KhudaBukhsh</em>*, Heinz Koeppl, and Grzegorz Rempała. Quasi-Steady-State Approximations Derived from the Stochastic Model of Enzyme Kinetics. <strong>Bulletin of Mathematical Biology</strong>, 2019. (* joint first authors.) <a href="https://doi.org/10.1007/s11538-019-00574-4">Published version</a> <a href="https://arxiv.org/abs/1711.02791">Preprint</a></li>
 </ol>
 </div>
+</details>
 
+<details style="margin-bottom: 0.25cm"><summary>
 <h3>Epidemic modelling and applied statistics</h3>
+</summary>
 <div class="pub-list">
 <ol reversed>
   <li>Yordan Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Shrinkage priors for Bayesian Substitute Confounders. <a href="https://arxiv.org/abs/2606.18535">Preprint </a> </li>
@@ -59,8 +66,11 @@ Please email me if you do not have access to any of the papers. Download list of
   <li><em>Wasiur R. KhudaBukhsh</em>, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival dynamical systems: individual-level survival analysis from population-level epidemic models. <strong>Interface Focus</strong>, 2019. <a href="https://doi.org/10.1098/rsfs.2019.0048">Published version</a> <a href="http://arxiv.org/abs/1901.00405">Preprint</a></li>
 </ol>
 </div>
+</details>
 
+<details style="margin-bottom: 0.25cm"><summary>
 <h3>Queueing theory and communication networks</h3>
+</summary>
 <div class="pub-list">
 <ol reversed>
   <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">Preprint </a> (Under revision)</li>
@@ -77,22 +87,29 @@ Please email me if you do not have access to any of the papers. Download list of
   <li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">Published version</a></li> 
 </ol>
 </div>
+</details>
 
+<details style="margin-bottom: 0.25cm"><summary>
 <h3>Book chapters</h3>
+</summary>
 <div class="pub-list">
 <ol reversed>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. <strong>Handbook of Statistics</strong>, 2024. <a href="https://doi.org/10.1016/bs.host.2024.07.002">Published version</a></li>
   <li>Grzegorz A. Rempała, <em>Wasiur R. KhudaBukhsh</em>. Dynamical Survival Analysis for Epidemic Modeling. In: Sriraman, B. (eds) <strong>Handbook of Visual, Experimental and Computational Mathematics</strong>, 2023. <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-030-93954-0_31-1">Published version</a></li>
 </ol>
 </div>
+</details>
 
+<details style="margin-bottom: 0.25cm"><summary>
 <h3>Theses and technical notes</h3>
+</summary>
 <div class="pub-list">
 <ol reversed>
     <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <em>Wasiur R. KhudaBukhsh</em>. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: <a href="https://arxiv.org/abs/1808.00258">https://arxiv.org/abs/1808.00258</a></li>
   <li><em>Wasiur R. KhudaBukhsh</em>. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: <a href="http://tuprints.ulb.tu-darmstadt.de/7588/">http://tuprints.ulb.tu-darmstadt.de/7588/</a></li>
 </ol>
 </div>
+</details>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
