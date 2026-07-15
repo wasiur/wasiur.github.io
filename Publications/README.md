@@ -4,6 +4,8 @@
 
 Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf). In mathematics, the authors are conventionally ordered alphabetically.
 
+Please click on the topics below to see my relevant publications.
+
 <details style="margin-bottom: 0.25cm"><summary><h3>Sample path properties of stochastic processes</h3></summary>
 <div class="pub-list">
 <ol reversed>
