@@ -48,7 +48,7 @@ Please click on the topics below to see my relevant publications.
 <div class="pub-list">
 <ol reversed>
   <li>Yordan Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Shrinkage priors for Bayesian Substitute Confounders. <a href="https://arxiv.org/abs/2606.18535">Preprint </a> </li>
-  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Submitted) </li>
+  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Revision requested.) </li>
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024">Preprint </a> </li>
   <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <strong>Statistics and Computing</strong>, 2025. <a href="https://doi.org/10.1007/s11222-025-10756-x">Published version</a> <a href="https://arxiv.org/abs/2410.09552">Preprint </a> </li>
   <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <strong>Interface Focus</strong>, 2025. <a href="https://doi.org/10.1098/rsfs.2025.0004">Published version</a> <a href="https://arxiv.org/abs/2502.00071"> Preprint </a> </li>
