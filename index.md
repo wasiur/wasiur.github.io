@@ -46,6 +46,8 @@
   </div>
 </div>
 
+Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhsh.pdf">CV</a>.
+
 ## Contact
 
 <div class="contact-card">

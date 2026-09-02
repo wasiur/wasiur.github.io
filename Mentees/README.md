@@ -17,11 +17,11 @@ If you are interested in working with me in any of these areas, please get in to
 
 <div class="mentees-grid">
   <div class="mentee-card">
-    <div class="mentee-name">Olga Iziumtseva</div>
+    <div class="mentee-name"><a href="https://sites.google.com/view/olga-izyumtseva/home">Olga Iziumtseva</a></div>
     <div class="mentee-period">09/2023 – 09/2026</div>
   </div>
   <div class="mentee-card">
-    <div class="mentee-name">Yangrui Xiang</div>
+    <div class="mentee-name"><a href="https://scholar.google.com/citations?user=YOf3KWcAAAAJ&hl=en&inst=870422376466319397">Yangrui Xiang</a></div>
     <div class="mentee-period">09/2024 – 06/2025</div>
   </div>
 </div>
