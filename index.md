@@ -100,4 +100,4 @@ Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhs
 
 ## Publications
 
-List of publications available [here](https://wasiur.github.io/Publications/).
+List of publications available [here](https://wasiur.xyz/Publications/).
