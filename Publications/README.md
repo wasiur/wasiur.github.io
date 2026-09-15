@@ -47,6 +47,7 @@ Please click on the topics below to see my relevant publications.
 </summary>
 <div class="pub-list">
 <ol reversed>
+  <li>Kushankur Dutta, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Coloured Epidemic Models: Functional Law of Large Numbers and Propagation of Chaos. <a href="https://arxiv.org/abs/2609.13416">Preprint </a> (Submitted)</li>
   <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, M. Gabriela M. Gomes, Grzegorz A. Rempała. From Individual-Based Stochastic Epidemics to Heterogeneous SIR Equations. <a href="https://arxiv.org/abs/2608.22122">Preprint </a> (Submitted) </li>
   <li>Yordan Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Shrinkage priors for Bayesian Substitute Confounders. <a href="https://arxiv.org/abs/2606.18535">Preprint </a> </li>
   <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Revision requested.) </li>
