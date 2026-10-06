@@ -18,14 +18,6 @@
 
 <br>
 
-## Editorial Service
-
-<div class="news-list">
-<ol>
-  <li>Editorial Board Member, <a href="https://www.sciencedirect.com/journal/mathematical-biosciences">Mathematical Biosciences</a> (2026 - )</li>
-</ol>
-</div>
-
 ## News
 
 <div class="news-list">
@@ -43,6 +35,14 @@
 <li>I co-organised a BIRS-CMO workshop on <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5369">"Mathematical and Statistical Challenges in Post-Pandemic Epidemiology and Public Health"</a> in Oaxaca, Mexico from 15 June to 20 June 2025. Please contact me or any of the other organisers if you are interested in attending.</li>
 </ol>
 </details>
+
+## Editorial Service
+
+<div class="news-list">
+<ol>
+  <li>Editorial Board Member, <a href="https://www.sciencedirect.com/journal/mathematical-biosciences">Mathematical Biosciences</a> (2026 - )</li>
+</ol>
+</div>
 
 ## Funding
 
