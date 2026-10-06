@@ -18,6 +18,14 @@
 
 <br>
 
+## Editorial Service
+
+<div class="news-list">
+<ol>
+  <li>Editorial Board Member, <a href="https://www.sciencedirect.com/journal/mathematical-biosciences">Mathematical Biosciences</a> (2026 - )</li>
+</ol>
+</div>
+
 ## News
 
 <div class="news-list">
