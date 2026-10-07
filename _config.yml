@@ -1,7 +1,20 @@
 theme: jekyll-theme-cayman
 
-# needed for CI builds:
-exclude: [vendor]
+# vendor is needed for CI builds; the CV sources stay in the repo but only the PDFs are published.
+exclude:
+  - vendor
+  - CV/*.tex
+  - CV/*.bib
+  - CV/*.bst
+  - CV/*.cls
+  - CV/*.sty
+  - CV/*.def
+  - CV/*.blg
+  - CV/*.xmpi
+  - CV/makefile
+  - CV/README.md
+  - CV/CV_KhudaBukhsh_v2.pdf
+  - CV/CV_KhudaBukhsh_altacv.pdf
 
 # Site settings
 title: Wasiur R. KhudaBukhsh
