@@ -1,73 +1,43 @@
-\documentclass[12pt]{scrartcl}
-% character encoding
-\usepackage{mathtools}
-\usepackage{amsmath,amssymb,amsfonts}
-\usepackage[utf8]{inputenc}  
-\usepackage{fontspec}
-% \usepackage[authoryear]{natbib}
-\usepackage{bibtopic}
-\usepackage{url}
-\usepackage{hyperref}
+%% List of publications of Wasiur R. KhudaBukhsh.
+%% Build with `make ListOfPublications.pdf` (LuaLaTeX; bibtopic + BibTeX).
+%% Layout lives in cvstyle.sty, shared with CV_KhudaBukhsh.tex.
 
-\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+\documentclass[11pt,a4paper]{article}
 
-\title{List of Publications}
-\author{Wasiur R. KhudaBukhsh}
-\date{}
-
+\usepackage{cvstyle}
+\renewcommand{\cvdoctype}{List of publications}
+\hypersetup{pdftitle={List of Publications -- Wasiur R. KhudaBukhsh}, pdfsubject={List of publications}}
 
 \begin{document}
-\maketitle
+
+\cvheader{List of publications}
+
 \nocite{*}
-\bibliographystyle{unsrt}
-% \bibliographystyle{agsm}
+\cvnote{In mathematics, authors are conventionally listed alphabetically. Links to all papers are available at \href{https://www.wasiur.xyz/Publications/}{www.wasiur.xyz/Publications}.}
 
-% \section{Publications}
-%Summary: 7 journal papers. 8 peer-reviewed conference proceedings. 2 submitted journal papers. 2 theses/technical notes.
-
-
-\section{\textbf{Preprints/Submitted}}
-\begin{btSect}{SubmittedPapers}
-% \btPrintNotCited
+\section{Preprints and submitted papers}
+\begin{btSect}[cvunsrt]{SubmittedPapers}
 \btPrintAll
 \end{btSect}
 
-
-\section{\textbf{Peer-reviewed journal publications}}
-%\subsection{Peer-reviewed publications}
-
-\begin{btSect}{publications}
-% \btPrintNotCited
+\section{Peer-reviewed journal articles}
+\begin{btSect}[cvunsrt]{publications}
 \btPrintAll
 \end{btSect}
-
-
 
 \section{Book chapters}
-\begin{btSect}{book_chapters}
-% \btPrintNotCited
+\begin{btSect}[cvunsrt]{book_chapters}
 \btPrintAll
 \end{btSect}
 
-
-\section{\textbf{Peer-reviewed conference proceedings}}
-\begin{btSect}{proceedings}
-% \btPrintNotCited
+\section{Peer-reviewed conference proceedings}
+\begin{btSect}[cvunsrt]{proceedings}
 \btPrintAll
 \end{btSect}
 
-
-
-% \subsection{\textbf{Manuscripts in progress}}
-% \begin{btSect}[unsrt]{under_prep}
-% \btPrintAll
-% \end{btSect}
-
-\section{\textbf{Thesis and technical notes}}
-\begin{btSect}{other_publications}
-	% \btPrintNotCited
-	\btPrintAll
+\section{Thesis and technical notes}
+\begin{btSect}[cvunsrt]{other_publications}
+\btPrintAll
 \end{btSect}
-
 
 \end{document}

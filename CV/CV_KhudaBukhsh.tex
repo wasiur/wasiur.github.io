@@ -1,116 +1,17 @@
 %% Curriculum vitae of Wasiur R. KhudaBukhsh.
 %% Build with `make` (LuaLaTeX; publications via bibtopic + BibTeX).
-%% Typography and colours match www.wasiur.xyz: Source Serif 4 / Source Sans 3, maroon accent.
+%% Layout lives in cvstyle.sty, shared with ListOfPublications.tex.
 
 \documentclass[11pt,a4paper]{article}
 
-\usepackage[a4paper,top=2.2cm,bottom=2.6cm,left=2.4cm,right=2.4cm]{geometry}
-
-% ---------------------------------------------------------------- fonts
-\usepackage{fontspec}
-\setmainfont{SourceSerif4}[
-  Extension      = .otf,
-  UprightFont    = *-Regular,
-  ItalicFont     = *-RegularIt,
-  BoldFont       = *-Semibold,
-  BoldItalicFont = *-SemiboldIt,
-  Numbers        = OldStyle]
-\setsansfont{SourceSans3}[
-  Extension      = .otf,
-  UprightFont    = *-Regular,
-  ItalicFont     = *-RegularIt,
-  BoldFont       = *-Semibold,
-  BoldItalicFont = *-SemiboldIt]
-\usepackage{microtype}
-
-% ---------------------------------------------------------------- colours
-\usepackage{xcolor}
-\definecolor{accent}{HTML}{7A1F2B}
-\definecolor{muted}{HTML}{6E6A65}
-\definecolor{hairline}{HTML}{D9D3CB}
-
-% ---------------------------------------------------------------- headings
-\usepackage{titlesec}
-\usepackage{needspace}
-\titleformat{\section}
-  {\needspace{7\baselineskip}\normalfont\Large\scshape\color{accent}}{}{0pt}{\lsstyle}
-  [{\color{hairline}\vspace{2pt}\titlerule[0.4pt]}]
-\titlespacing*{\section}{0pt}{20pt}{10pt}
-\titleformat{\subsection}{\needspace{4\baselineskip}\normalfont\itshape}{}{0pt}{}
-\titlespacing*{\subsection}{0pt}{10pt}{5pt}
-
-% ---------------------------------------------------------------- lists
-\usepackage{enumitem}
-\setlist{itemsep=2pt, topsep=2pt, parsep=0pt}
-\setlist[itemize]{label={\textcolor{muted}{\small\textbullet}}, leftmargin=1.2em}
-\usepackage{multicol}
-
-% ---------------------------------------------------------------- page style
-\usepackage{lastpage}
-\usepackage{fancyhdr}
-\newcommand{\cvmonth}{\ifcase\month\or January\or February\or March\or April\or May\or June\or
-  July\or August\or September\or October\or November\or December\fi}
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot[L]{\sffamily\footnotesize\color{muted}Wasiur R. KhudaBukhsh \textperiodcentered\ Curriculum vitae}
-\fancyfoot[R]{\sffamily\footnotesize\color{muted}\cvmonth\ \the\year\ \textperiodcentered\ Page \thepage\ of \pageref{LastPage}}
-\fancypagestyle{plain}{\fancyhf{}\fancyfoot[R]{\sffamily\footnotesize\color{muted}\cvmonth\ \the\year\ \textperiodcentered\ Page \thepage\ of \pageref{LastPage}}}
-
-% ---------------------------------------------------------------- links & metadata
-\usepackage[hidelinks]{hyperref}
-\hypersetup{
-  pdftitle   = {Curriculum Vitae -- Wasiur R. KhudaBukhsh},
-  pdfauthor  = {Wasiur R. KhudaBukhsh},
-  pdfsubject = {Curriculum vitae},
-  pdfkeywords= {probability, stochastic processes, mathematical biology},
-  colorlinks, linkcolor=accent, urlcolor=accent, citecolor=accent}
-\urlstyle{same}
-
-% ---------------------------------------------------------------- CV entries
-% A date column on the left, the entry on the right.
-\newlength{\datewidth}
-\setlength{\datewidth}{3.35cm}
-\newcommand{\datefont}{\sffamily\small\color{muted}}
-\newcommand{\cvitem}[2]{%
-  \par\noindent
-  \begin{minipage}[t]{\datewidth}\leavevmode\raggedright\datefont #1\end{minipage}%
-  \begin{minipage}[t]{\dimexpr\linewidth-\datewidth\relax}\leavevmode\raggedright #2\end{minipage}%
-  \par\vspace{3.5pt}}
-% \cventry[detail]{dates}{title}{place}
-\newcommand{\cventry}[4][]{%
-  \cvitem{#2}{\textbf{#3}\\#4%
-    \if\relax\detokenize{#1}\relax\else\\{\small\color{muted}#1}\fi}}
-% Short note under a section heading.
-\newcommand{\cvnote}[1]{\par\noindent{\small\color{muted}#1}\par\vspace{6pt}}
-
-% ---------------------------------------------------------------- publications
-\usepackage[numbers,sort]{natbib}
-\usepackage{bibtopic}
-% Bibliography as a plain numbered list without a "References" heading;
-% numbering continues across the publication sections.
-\renewcommand{\bibsection}{}
-\renewcommand{\bibnumfmt}[1]{{\sffamily\small\color{muted}#1.}}
-\setlength{\bibsep}{3pt}
-
-\setlength{\parindent}{0pt}
-\raggedbottom
+\usepackage{cvstyle}
+\hypersetup{pdftitle={Curriculum Vitae -- Wasiur R. KhudaBukhsh}, pdfsubject={Curriculum vitae}}
 
 %==========================================================================
 \begin{document}
 
 % ---------------------------------------------------------------- header
-{\fontsize{26}{30}\selectfont Wasiur R. KhudaBukhsh\par}
-\vspace{5pt}
-{\large\itshape\color{muted}Assistant Professor, School of Mathematical Sciences, University of Nottingham\par}
-\vspace{9pt}
-{\sffamily\small\color{muted}%
-  School of Mathematical Sciences, University of Nottingham, University Park, Nottingham NG7 2RD, UK\\[1pt]
-  \href{mailto:wasiur.khudabukhsh@nottingham.ac.uk}{wasiur.khudabukhsh@nottingham.ac.uk}
-  \ \textperiodcentered\ \href{https://www.wasiur.xyz/}{www.wasiur.xyz}
-  \ \textperiodcentered\ ORCID \href{https://orcid.org/0000-0003-1803-0470}{0000-0003-1803-0470}\par}
-\vspace{6pt}
-{\color{hairline}\rule{\linewidth}{0.4pt}}
+\cvheader{Assistant Professor, School of Mathematical Sciences, University of Nottingham}
 
 % ---------------------------------------------------------------- appointments
 \section{Appointments}
@@ -207,7 +108,7 @@ Probability theory and stochastic processes; mathematical biology.
 
 % ---------------------------------------------------------------- talks
 \section{Talks}
-\cvnote{59 invited and 30 contributed or local talks; 7 poster presentations.}
+\cvnote{60 invited and 30 contributed or local talks; 7 poster presentations.}
 
 \subsection{Invited talks}
 \cvitem{Jun 2026}{Stochastic Processes and their Applications (SPA 2026), Ithaca, NY, USA}
@@ -247,6 +148,7 @@ Probability theory and stochastic processes; mathematical biology.
 \cvitem{Feb 2022}{Statistics and Probability Seminar, University of Nottingham, UK}
 \cvitem{Jan 2022}{Mathematics of Reaction Networks (MoRN) Seminar}
 \cvitem{Nov 2021}{Math Bio Seminar, The Ohio State University, USA (online)}
+\cvitem{Oct 2021}{CMMB Seminar, University of Nottingham, UK}
 \cvitem{Oct 2021}{Stochastic Systems Seminar, Department of Mathematics, University of California San Diego, USA (online)}
 \cvitem{Sep 2021}{Guest lecture on infectious disease epidemiology, The Ohio State University, USA (online)}
 \cvitem{Jul 2021}{American Institute of Mathematics (AIM) workshop ``Limits and control of stochastic reaction networks''}
@@ -338,7 +240,7 @@ Probability theory and stochastic processes; mathematical biology.
 \subsection{PhD students (University of Nottingham)}
 \cvitem{2023 -- 2027}{Kushankur Dutta {\small\color{muted}(expected April 2027; secondary supervisors: Mikhail Tretyakov and Karthik Bharath)}}
 \cvitem{2023 -- 2026}{Wesam El Buaishi {\small\color{muted}(expected December 2026; primary supervisor: Yordan Raykov)}}
-\cvitem{2022 -- 2026}{James Harborne {\small\color{muted}(expected April 2026; primary supervisor: John King)}}
+\cvitem{2022 -- 2026}{James Harborne {\small\color{muted}(viva November 2026; primary supervisor: John King)}}
 
 \subsection{MSc students}
 \cvitem{2026}{Jennifer Wood, MSc dissertation, University of Nottingham}
@@ -405,7 +307,6 @@ Probability theory and stochastic processes; mathematical biology.
 \cvitem{Jul 2023}{Mini-symposium, Annual Meeting of the SMB, Columbus, OH, USA {\small\color{muted}(with Hye-Won Kang)}}
 \cvitem{May 2023}{Mini-symposium, SIAM Conference on Optimization, Seattle, WA, USA}
 \cvitem{Sep 2022}{Workshop ``Recent challenges in mathematical epidemiology'', University of Nottingham, UK {\small\color{muted}(with Kirsty Bolton and Yordan Raykov)}}
-\cvitem{2022}{Invited session, IMS Asia Pacific Rim Meeting, Melbourne, Australia {\small\color{muted}(pending acceptance; with Gursharn Kaur)}}
 \cvitem{Sep 2022}{Mini-symposium, European Conference on Mathematical and Theoretical Biology (ECMTB 2022) {\small\color{muted}(with Hye-Won Kang)}}
 \cvitem{Jun 2022}{BIRS Workshop ``Preparing for the next pandemic'' {\small\color{muted}(with Sara Del Valle, Joel C. Miller, and Rick Durrett)}}
 \cvitem{2021}{Mini-symposium, SIAM Conference on Applications of Dynamical Systems}

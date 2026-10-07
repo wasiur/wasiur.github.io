@@ -35,6 +35,7 @@ See the [full list of publications](/Publications/).
   <li>Statistics and Probability Seminar, University of Essex, UK, 15 May 2025</li>
   <li>KSIAM Annual Meeting, Busan, South Korea, December 2024</li>
   <li>International Conference on Non-linear Analysis and Scientific Computing (ICNASC’24), India, December 2024</li>
+  <li>CMMB Seminar, University of Nottingham, UK, 22 October 2024</li>
   <li>Mini-symposium, Annual Meeting of the Society for Mathematical Biology, Seoul, South Korea, 30 June – 5 July 2024</li>
   <li>Epidemiology Workshop, Konkuk University, Seoul, South Korea, 29 June 2024</li>
   <li>Mathematical Biology Seminar, University of Leeds, UK, 7 December 2023</li>
@@ -62,7 +63,7 @@ See the [full list of publications](/Publications/).
   <li>Special session, Joint Mathematics Meetings (JMM), 6–9 January 2021 (online)</li>
   <li>IDI Virtual COVID-19 Symposium, The Ohio State University, USA, 3 December 2020 (online)</li>
   <li>Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, Poland, 30 November 2020</li>
-  <li>Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, Poland, 19 November 2020</li>
+  <li>Seminar, Institute of Applied Mathematics and Mechanics, University of Warsaw, Poland, 23 November 2020</li>
   <li>Biostatistics Seminar, The Ohio State University, Columbus, OH, USA, 30 October 2020</li>
   <li>Math Bio Seminar, Virginia Tech, USA, 23 September 2020 (online)</li>
   <li>International Webinar Series on Artificial Intelligence and Machine Learning, 18 September 2020 (online)</li>

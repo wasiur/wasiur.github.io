@@ -1,5 +1,6 @@
 % cvunsrt.bst -- unsrt.bst with the CV owner's name set in bold.
-% Only change: format.names wraps names whose last name is KhudaBukhsh in \textbf.
+% Only change: format.names wraps names whose last name starts with KhudaBukhsh
+% (including a joint-first-author mark such as KhudaBukhsh$^\star$) in \textbf.
 % BibTeX standard bibliography style `unsrt'
    % Version 0.99b (8-Dec-10 release) for BibTeX versions 0.99a or later.
    % Copyright (C) 1984, 1985, 1988, 2010 Howard Trickey and Oren Patashnik.
@@ -191,7 +192,7 @@ FUNCTION {format.names}
   numnames 'namesleft :=
     { namesleft #0 > }
     { s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ 't :=
-      s nameptr "{ll}" format.name$ "KhudaBukhsh" =
+      s nameptr "{ll}" format.name$ #1 #11 substring$ "KhudaBukhsh" =
         { "\textbf{" t * "}" * 't := }
         'skip$
       if$
