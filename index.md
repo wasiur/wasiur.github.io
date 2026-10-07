@@ -1,6 +1,6 @@
 <div class="profile-container">
   <div class="profile-image-wrapper">
-    <img src="/image/Wasiur_bike.jpg" alt="Wasiur R. KhudaBukhsh" class="profile-image" />
+    <img src="/image/profile.jpg" alt="Wasiur R. KhudaBukhsh" class="profile-image" />
   </div>
   <div class="profile-content">
     <p>My full name is <strong>Wasiur Rahman Khuda Bukhsh</strong>. I am an Assistant Professor in the <a href="https://www.nottingham.ac.uk/mathematics/">School of Mathematical Sciences</a> at the <a href="https://www.nottingham.ac.uk/">University of Nottingham</a>, UK.</p>
@@ -9,7 +9,7 @@
       <a href="https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en" class="profile-link-btn">Google Scholar</a>
       <a href="https://orcid.org/0000-0003-1803-0470" class="profile-link-btn">ORCID</a>
       <a href="https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh" class="profile-link-btn">ResearchGate</a>
-      <a href="https://wasiur.github.io/Publications/" class="profile-link-btn profile-link-btn--primary">Publications</a>
+      <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn">University webpage</a>
     </div>
   </div>
 </div>
@@ -22,25 +22,25 @@
 
 <div class="news-list">
 <ol>
-  <li>New paper “Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos” accepted for publication in <strong>Stochastic Processes and their Applications</strong>. Preprint available <a href="https://arxiv.org/abs/2409.06565">here</a>.</li>
+  <li>New paper “Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos” accepted for publication in <strong>Stochastic Processes and their Applications</strong>. Preprint: <a href="https://arxiv.org/abs/2409.06565">arXiv:2409.06565</a>.</li>
 </ol>
 </div>
 
 <details style="margin-bottom: 0.25cm"><summary><h4>Old news</h4></summary>
 <ol>
-<li>Tess Vernon and I are organising a one-day workshop on <a href="https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/#eventoverview">"Recent advances in stochastic processes: theory and applications"</a> on the 27th of May, 2026 at the University of Edinburgh. More information available <a href="https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/#eventoverview">here</a>. Please register!</li>
-<li><a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1">Olga Iziumtseva</a>, and I are co-organising a one-day workshop on <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">"Gaussian and Lévy-type stochastic processes"</a> on the 10th of September 2025. More information available <a href="https://wasiur.xyz/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">here</a>. Registration is free but required for catering purposes.</li>
-<li>Along with <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/callegaro-alice/">Alice Callegaro</a>, I  co-organised a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop on "Probability and stochastics with applications to biology" on the 16th of May 2025. More information available <a href="https://rss.org.uk/training-events/events/events-2025/section-groups/probability-and-stochastics-with-applications-to-b/#eventoverview">here</a>. Please join us if you are interested in the topic.</li>
-<li>I taught at the "Stochastic Reaction Networks" summer school in Italy this year. More information available <a href="https://constrained.polito.it/stochastic-reaction-networks-summer-school/">here</a>.</li>
-<li>I co-organised a BIRS-CMO workshop on <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5369">"Mathematical and Statistical Challenges in Post-Pandemic Epidemiology and Public Health"</a> in Oaxaca, Mexico from 15 June to 20 June 2025. Please contact me or any of the other organisers if you are interested in attending.</li>
+<li>Tess Vernon and I organised a one-day workshop, <a href="https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/#eventoverview">“Recent advances in stochastic processes: theory and applications”</a>, at the University of Edinburgh on 27 May 2026.</li>
+<li><a href="https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1">Olga Izyumtseva</a> and I organised a one-day workshop, <a href="/Gaussian_Levy_Workshop2025/Gauss_LevyWorkshop2025.html">“Gaussian and Lévy-type stochastic processes”</a>, on 10 September 2025.</li>
+<li><a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/callegaro-alice/">Alice Callegaro</a> and I organised a one-day <a href="https://www.rss.org.uk/">Royal Statistical Society (RSS)</a> workshop, <a href="https://rss.org.uk/training-events/events/events-2025/section-groups/probability-and-stochastics-with-applications-to-b/#eventoverview">“Probability and stochastics with applications to biology”</a>, on 16 May 2025.</li>
+<li>I taught at the <a href="https://constrained.polito.it/stochastic-reaction-networks-summer-school/">“Stochastic Reaction Networks” summer school</a> in Italy in 2025.</li>
+<li>I co-organised a BIRS-CMO workshop, <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5369">“Mathematical and statistical challenges in post-pandemic epidemiology and public health”</a>, in Oaxaca, Mexico, 15–20 June 2025.</li>
 </ol>
 </details>
 
-## Editorial Service
+## Editorial service
 
 <div class="news-list">
 <ol>
-  <li>Editorial Board Member, <a href="https://www.sciencedirect.com/journal/mathematical-biosciences">Mathematical Biosciences</a> (2026 - )</li>
+  <li>Editorial Board Member, <a href="https://www.sciencedirect.com/journal/mathematical-biosciences">Mathematical Biosciences</a> (2026–present)</li>
 </ol>
 </div>
 
@@ -50,12 +50,12 @@
   <div class="funding-badge">EPSRC</div>
   <div class="funding-details">
     <div class="funding-grant">EP/Y027795/1</div>
-    <div class="funding-period">01/03/2024 – 28/02/2025 &nbsp;·&nbsp; PI</div>
+    <div class="funding-period">March 2024 – February 2025 &nbsp;·&nbsp; Principal Investigator</div>
     <div class="funding-body">Engineering and Physical Sciences Research Council</div>
   </div>
 </div>
 
-Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhsh.pdf">CV</a>.
+Smaller grants are listed in my <a href="/CV/CV_KhudaBukhsh.pdf">CV</a>.
 
 ## Contact
 
@@ -69,7 +69,7 @@ Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhs
     </div>
   </div>
   <div class="profile-links">
-    <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn profile-link-btn">University Webpage</a>
+    <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn">University webpage</a>
   </div>
   <div class="contact-row">
     <span class="contact-icon">✉️</span>
@@ -81,14 +81,14 @@ Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhs
 
 <div class="edu-timeline">
   <div class="edu-item">
-    <div class="edu-degree">Fellow (FHEA)</div>
-    <div class="edu-inst">Advance HE (formerly Higher Education Academy), UK</div>
-    <div class="edu-year">2023</div>
-  </div>
-  <div class="edu-item">
     <div class="edu-degree">Postgraduate Certificate in Higher Education (PGCHE)</div>
     <div class="edu-inst"><a href="https://www.nottingham.ac.uk/">University of Nottingham</a></div>
     <div class="edu-year">2024</div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">Fellow (FHEA)</div>
+    <div class="edu-inst">Advance HE (formerly Higher Education Academy), UK</div>
+    <div class="edu-year">2023</div>
   </div>
   <div class="edu-item">
     <div class="edu-degree">PhD (Dr. rer. nat.)</div>
@@ -109,4 +109,4 @@ Smaller grants are listed in my <a href="https://www.wasiur.xyz/CV/CV_KhudaBukhs
 
 ## Publications
 
-List of publications available [here](https://wasiur.xyz/Publications/).
+See the [full list of publications](/Publications/).

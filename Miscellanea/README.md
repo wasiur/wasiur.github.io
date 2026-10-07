@@ -1,26 +1,34 @@
+---
+title: Miscellanea
+permalink: /Miscellanea/
+---
+
 <!-- ## Statistics and Probability seminars
 I organise the Statistics and Probability seminars at Nottingham Maths. List of upcoming talks in the seminar series can be found [here](https://www.wasiur.xyz/UoNMaths_SP_Seminars/). -->
 
 ## News
 <ol reversed>
-  <li><a href="https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html">Kirsty Bolton</a>, <a href="https://www.yordanraykov.net/">Yordan Raykov</a>, and I organized a one-day workshop on "Recent challenges in mathematical epidemiology". More details available <a href="https://wasiur.xyz/EpiWorkshopSep2022/EpiWorkshopSep2022.html">here</a></li>
-  <li>Alex Cox, Fraser Daly, Lucy Teece, and I organized a workshop on "Mathematical Epidemiology" on behalf of the Applied Probability Section and the East Midlands Local Group of the Royal Statistical Society (RSS) on October 11, 2023.</li>
+  <li>Alex Cox, Fraser Daly, Lucy Teece, and I organised a workshop on mathematical epidemiology on behalf of the Applied Probability Section and the East Midlands Local Group of the Royal Statistical Society (RSS) on 11 October 2023.</li>
+  <li>Kirsty Bolton, <a href="https://www.yordanraykov.net/">Yordan Raykov</a>, and I organised a one-day workshop, <a href="/EpiWorkshopSep2022/EpiWorkshopSep2022.html">“Recent challenges in mathematical epidemiology”</a>, on 27 September 2022.</li>
 </ol>
 
 
-The OSU/IDI COVID-19 response modeling team received much appreciation. I am fortunate to have contributed to this effort. Here are some highlights: 
+### COVID-19 modelling at Ohio State
+
+The OSU/IDI COVID-19 response modelling team received much appreciation, and I am fortunate to have contributed to this effort. Some highlights:
 <ol reversed>
-  <li>Many thanks to the STEAM Factiory for the spotlight: <a href="https://www.youtube.com/watch?v=j_DEgauzw7w">STEAM Member Spotlight - Dr. Wasiur Rahman KhudaBukhsh</a></li>
-  <li>The <a href="https://idi.osu.edu/">Infectious Diseases Institute</a> did a nice story a while ago: <a href="https://idi.osu.edu/news-articles/far-from-trivial">FAR FROM TRIVIAL: A POSTDOCTORAL RESEARCHER’S PATH TO A KEY POSITION ON THE OSU/IDI COVID-19 MODELING RESPONSE TEAM</a></li>
+  <li>STEAM Factory: <a href="https://www.youtube.com/watch?v=j_DEgauzw7w">STEAM Member Spotlight – Dr. Wasiur Rahman KhudaBukhsh</a></li>
+  <li><a href="https://idi.osu.edu/">Infectious Diseases Institute</a>: <a href="https://idi.osu.edu/news-articles/far-from-trivial">Far from trivial: a postdoctoral researcher’s path to a key position on the OSU/IDI COVID-19 modeling response team</a></li>
   <li>HPC Wire: <a href="https://www.hpcwire.com/off-the-wire/pandemic-modeling-covid-19-projection-models-equip-ohioans/">Pandemic Modeling: COVID-19 Projection Models Equip Ohioans</a></li>
   <li>OSC news: <a href="https://www.osc.edu/press/pandemic_modeling_covid_19_projection_models_equip_ohioans">Pandemic Modeling: COVID-19 Projection Models Equip Ohioans</a></li>
 </ol>
 
-Other news
+### Other news
+
 <ol reversed>
-  <li>The Dynamical Systems Web: Student Feature of the January 2021 issue of the journal <a href="https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh">here</a></li>
-  <li>SIAM MDS Mini-symposium on Probabilistic and Topological Methods for Biological Data going virtual. More details <a href="https://wasiur.github.io/MDS2020/mds2020.html">here</a>. It is a two-part mini-symposium that I am jointly organizing with Veronica Ciocanel. Details on the topology session available <a href="https://wasiur.github.io/MDS2020/MS25.html">here</a>, and the probability session, <a href="https://wasiur.github.io/MDS2020/MS10.html">here</a>.</li>
-    <li>Named as a President's Postdoctoral Scholar (2019 cohort). Read <a href="https://research.osu.edu/ppsp/ppsp-participants/">here</a>.</li>
+  <li>The Dynamical Systems Web: <a href="https://dsweb.siam.org/The-Magazine/Article/student-feature-wasiur-rahman-khuda-bukhsh">student feature</a>, January 2021 issue</li>
+  <li>Veronica Ciocanel and I organised a two-part <a href="/MDS2020/mds2020.html">SIAM MDS20 mini-symposium on probabilistic and topological methods for biological data</a>, held online in 2020 (<a href="/MDS2020/MS10.html">probability session</a>, <a href="/MDS2020/MS25.html">topology session</a>).</li>
+    <li>Named a <a href="https://research.osu.edu/ppsp/ppsp-participants/">President’s Postdoctoral Scholar</a> (2019 cohort).</li>
   <li>Best-in-Session Presentation Award, IEEE INFOCOM, 2018.</li>
 </ol>
 <!-- 
@@ -40,13 +48,13 @@ Links to some of my talks:
 12. MBI Seminar, the Ohio State University, Columbus, OH, February 2019 (video available [here](https://video.mbi.ohio-state.edu/video/player/?id=4678&title=Approximate+lumpability+for+Markovian+agent-based+models+using+local+symmetries)) -->
 
 
-## Professional Service
+## Professional service
 ### Referee
 <ol reversed>
   <li>Electronic Journal of Probability</li>
   <li>Stochastic Processes and their Applications</li>
   <li>Bulletin of Mathematical Biology</li>
-  <li>Journal of Applied Probability/Advances in Applied Probability (Applied Probability Trust)</li> 
+  <li>Journal of Applied Probability and Advances in Applied Probability (Applied Probability Trust)</li> 
   <li>Biometrika</li>
   <li>Journal of Chemical Physics</li>
   <li>Mathematical Biosciences</li>
@@ -69,7 +77,7 @@ Links to some of my talks:
 </ol>
 
 
-## Good things on the Internet
+## Good things on the internet
 1. [Gateway to the beautiful world of Rabindranath Tagore](http://www.tagoreweb.in)
 2. [Terry Tao's blog](https://terrytao.wordpress.com)
 3. [Manjunath Krishnapur's suggested list of books every probability graduate student should read](http://math.iisc.ernet.in/~manju/suggestedreading.html)

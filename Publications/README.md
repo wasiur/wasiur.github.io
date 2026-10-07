@@ -1,127 +1,96 @@
-### External links
+---
+title: Publications
+permalink: /Publications/
+---
 
-| [Google Scholar](https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh) | [ORCID](https://orcid.org/0000-0003-1803-0470) | [arXiv Preprints](https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R) | [University webpage](https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh) |
+<div class="profile-links">
+  <a href="https://scholar.google.de/citations?user=omkLnoEAAAAJ&hl=en" class="profile-link-btn">Google Scholar</a>
+  <a href="https://arxiv.org/search/?searchtype=author&query=KhudaBukhsh%2C+W+R" class="profile-link-btn">arXiv</a>
+  <a href="https://orcid.org/0000-0003-1803-0470" class="profile-link-btn">ORCID</a>
+  <a href="https://www.researchgate.net/profile/Wasiur_R_Khudabukhsh" class="profile-link-btn">ResearchGate</a>
+  <a href="https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh" class="profile-link-btn">University webpage</a>
+</div>
 
-Please email me if you do not have access to any of the papers. Download list of publications as a PDF file [here](https://www.wasiur.xyz/CV/ListOfPublications.pdf). In mathematics, the authors are conventionally ordered alphabetically.
+In mathematics, authors are conventionally listed alphabetically. A <a href="/CV/ListOfPublications.pdf">PDF list of publications</a> is also available. Please email me if you cannot access any of the papers.
 
-Please click on the topics below to see my relevant publications.
+<p class="pub-contents"><a href="#preprints">Preprints</a> &middot; <a href="#journal-articles">Journal articles</a> &middot; <a href="#conference-proceedings">Conference proceedings</a> &middot; <a href="#book-chapters">Book chapters</a> &middot; <a href="#thesis">Thesis and technical notes</a></p>
 
-<details style="margin-bottom: 0.25cm"><summary><h3>Sample path properties of stochastic processes</h3></summary>
+<h2 id="preprints">Preprints</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <a href="https://arxiv.org/abs/2606.02036">Preprint </a> (Submitted)</li>
-  <li>Olga Izyumtseva,  <em>Wasiur R. KhudaBukhsh</em>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <a href="https://arxiv.org/abs/2409.04377">Preprint </a> (Under revision)</li>
+  <li>Kushankur Dutta, Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, and Grzegorz A. Rempała. Coloured epidemic models: functional law of large numbers and propagation of chaos. <span class="pub-links"><a href="https://arxiv.org/abs/2609.13416">arXiv</a></span> <span class="pub-note">Submitted</span></li>
+  <li>Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, M. Gabriela M. Gomes, and Grzegorz A. Rempała. From individual-based stochastic epidemics to heterogeneous SIR equations. <span class="pub-links"><a href="https://arxiv.org/abs/2608.22122">arXiv</a></span> <span class="pub-note">Submitted</span></li>
+  <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, and <span class="me">Wasiur R. KhudaBukhsh</span>. Shrinkage priors for Bayesian substitute confounders. <span class="pub-links"><a href="https://arxiv.org/abs/2606.18535">arXiv</a></span></li>
+  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Self-intersection local times for Volterra Gaussian processes in stochastic flows with interaction. <span class="pub-links"><a href="https://arxiv.org/abs/2606.02036">arXiv</a></span> <span class="pub-note">Submitted</span></li>
+  <li>Arnab Ganguly and <span class="me">Wasiur R. KhudaBukhsh</span>. Fluctuation analysis of the standard QSSA for a stochastic multistage Michaelis–Menten model. <span class="pub-note">Submitted</span></li>
+  <li>James D. Harborne, <span class="me">Wasiur R. KhudaBukhsh</span>, and John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. <span class="pub-note">Revision requested</span></li>
+  <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, and <span class="me">Wasiur R. KhudaBukhsh</span>. Kernel-based estimators for functional causal effects. <span class="pub-links"><a href="https://arxiv.org/abs/2503.05024">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span> and Yangrui Xiang. Mixing time for a noisy SIS model on graphs. <span class="pub-links"><a href="https://arxiv.org/abs/2501.07738">arXiv</a></span> <span class="pub-note">Submitted</span></li>
+  <li>Karim S. Elsayed, Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, and Amr Rizk. Stochastic analysis of entanglement-assisted quantum communication channels. <span class="pub-links"><a href="https://arxiv.org/abs/2412.16157">arXiv</a></span> <span class="pub-note">Under revision</span></li>
+  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <span class="pub-links"><a href="https://arxiv.org/abs/2409.04377">arXiv</a></span> <span class="pub-note">Under revision</span></li>
 </ol>
 </div>
-</details>
 
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Stochastic processes on (random) graphs</h3></summary>
+<h2 id="journal-articles">Journal articles</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Wasiur R. KhudaBukhsh and Yangrui Xiang. Mixing time for a noisy SIS model on graphs. <a href="https://arxiv.org/abs/2501.07738">Preprint </a> (Submitted) </li>
-  <li>Kai Cui, <em>Wasiur R. KhudaBukhsh</em>, Heinz Koeppl. Hypergraphon Mean Field Games. <strong>Chaos</strong>, 2022. <a href="https://doi.org/10.1063/5.0093758">Published version</a> <a href="https://arxiv.org/abs/2203.16223">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Casper Woroszylo, Grzegorz Rempała, and Heinz Koeppl. A Functional Central Limit Theorem for Susceptible-Infected (SI) Process on Configuration Model Graphs. <strong>Advances in Applied Probability</strong>, 2022. <a href="https://www.cambridge.org/core/journals/advances-in-applied-probability/article/functional-central-limit-theorem-for-si-processes-on-configuration-model-graphs/8ECE68C7706243E769C7B4BF565C8F3E">Published version</a> <a href="https://arxiv.org/abs/1703.06328">Preprint</a></li>
-  <li>Kai Cui, <em>Wasiur R. KhudaBukhsh</em>, Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. <strong>Physical Review E</strong>, 2022. <a href="https://doi.org/10.1103/PhysRevE.105.L042301">Published version</a> <a href="https://arxiv.org/abs/2201.04999">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Arnab Auddy, Yann Disser and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. <strong>Journal of Applied Probability</strong>, 2019. <a href="https://doi.org/10.1017/jpr.2019.44">Published version</a> <a href="http://arxiv.org/abs/1804.00910">Preprint</a></li>
+  <li>Arnab Ganguly and <span class="me">Wasiur R. KhudaBukhsh</span>. Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos. <cite>Stochastic Processes and their Applications</cite>, to appear. <span class="pub-links"><a href="https://arxiv.org/abs/2409.06565">arXiv</a></span></li>
+  <li>Yi Fu, Hye-Won Kang, <span class="me">Wasiur R. KhudaBukhsh</span>, Lea Popovic, Grzegorz A. Rempała, and Ruth J. Williams. Fragility in a Togashi–Kaneko stochastic model with mutations. <cite>SIAM Journal on Life Sciences</cite>, 2026. <span class="pub-links"><a href="https://epubs.siam.org/eprint/SD2DDMET5TJ6KJXCDECC/full">Journal</a> <a href="https://mathweb.ucsd.edu/~williams/biochem/fragilityTK.pdf">Preprint</a></span></li>
+  <li>Arnab Ganguly and <span class="me">Wasiur R. KhudaBukhsh</span>. Asymptotic analysis of the total quasi-steady state approximation for the Michaelis–Menten enzyme kinetic reactions. <cite>Journal of Mathematical Analysis and Applications</cite>, 2026. <span class="pub-links"><a href="https://doi.org/10.1016/j.jmaa.2026.130551">Journal</a> <a href="https://arxiv.org/abs/2503.20145">arXiv</a></span></li>
+  <li>Riccardo Corradin, Luca Danese, <span class="me">Wasiur R. KhudaBukhsh</span>, and Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <cite>Statistics and Computing</cite>, 2025. <span class="pub-links"><a href="https://doi.org/10.1007/s11222-025-10756-x">Journal</a> <a href="https://arxiv.org/abs/2410.09552">arXiv</a></span></li>
+  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <span class="me">Wasiur R. KhudaBukhsh</span>, Joel C. Miller, and Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <cite>Interface Focus</cite>, 2025. <span class="pub-links"><a href="https://doi.org/10.1098/rsfs.2025.0004">Journal</a> <a href="https://arxiv.org/abs/2502.00071">arXiv</a></span></li>
+  <li>Yushuf Sharker, Zaynab Diallo, <span class="me">Wasiur R. KhudaBukhsh</span>, and Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. <cite>Statistics in Medicine</cite>, 2024. <span class="pub-links"><a href="https://doi.org/10.1002/sim.10226">Journal</a> <a href="https://arxiv.org/abs/1901.04916">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span> and Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? <cite>Mathematical Biosciences</cite>, 2024. <span class="pub-links"><a href="https://doi.org/10.1016/j.mbs.2024.109265">Journal</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4690900">SSRN</a></span></li>
+  <li>Matthew Wascher, Patrick Schnell, <span class="me">Wasiur R. KhudaBukhsh</span>, Mikkel B. Quam, Joseph H. Tien, and Grzegorz A. Rempała. Estimating disease transmission in a closed population under repeated testing. <cite>Journal of the Royal Statistical Society: Series C</cite>, 2024. <span class="pub-links"><a href="https://doi.org/10.1093/jrsssc/qlae021">Journal</a> <a href="https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1">medRxiv</a></span></li>
+  <li>Istvan Z. Kiss, Luc Berthouze, and <span class="me">Wasiur R. KhudaBukhsh</span>. Towards inferring network properties from epidemic data. <cite>Bulletin of Mathematical Biology</cite>, 2024. <span class="pub-links"><a href="https://link.springer.com/article/10.1007/s11538-023-01235-3">Journal</a> <a href="https://arxiv.org/abs/2302.02470">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, and Joseph H. Tien. COVID-19 dynamics in an Ohio prison. <cite>Frontiers in Public Health</cite>, 2023. <span class="pub-links"><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1087698/full">Journal</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1">medRxiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Saumya Yashmohini Sahai, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz A. Rempała. Projecting COVID-19 cases and hospital burden in Ohio. <cite>Journal of Theoretical Biology</cite>, 2023. <span class="pub-links"><a href="https://doi.org/10.1016/j.jtbi.2022.111404">Journal</a> <a href="https://www.medrxiv.org/content/10.1101/2022.07.27.22278117v1">medRxiv</a></span></li>
+  <li>Kai Cui, <span class="me">Wasiur R. KhudaBukhsh</span>, and Heinz Koeppl. Hypergraphon mean field games. <cite>Chaos</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1063/5.0093758">Journal</a> <a href="https://arxiv.org/abs/2203.16223">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Casper Woroszylo, Grzegorz A. Rempała, and Heinz Koeppl. A functional central limit theorem for susceptible-infected (SI) process on configuration model graphs. <cite>Advances in Applied Probability</cite>, 2022. <span class="pub-links"><a href="https://www.cambridge.org/core/journals/advances-in-applied-probability/article/functional-central-limit-theorem-for-si-processes-on-configuration-model-graphs/8ECE68C7706243E769C7B4BF565C8F3E">Journal</a> <a href="https://arxiv.org/abs/1703.06328">arXiv</a></span></li>
+  <li>Kai Cui, <span class="me">Wasiur R. KhudaBukhsh</span>, and Heinz Koeppl. Motif-based mean-field approximation of interacting particles on clustered networks. <cite>Physical Review E</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1103/PhysRevE.105.L042301">Journal</a> <a href="https://arxiv.org/abs/2201.04999">arXiv</a></span></li>
+  <li>Colin Klaus, Matthew Wascher, <span class="me">Wasiur R. KhudaBukhsh</span>, Joseph H. Tien, Grzegorz A. Rempała, and Eben Kenah. Assortative mixing among vaccination groups and biased estimation of reproduction numbers. <cite>The Lancet Infectious Diseases</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1016/S1473-3099(22)00155-4">Journal</a></span></li>
+  <li>Colin Klaus, Matthew Wascher, <span class="me">Wasiur R. KhudaBukhsh</span>, and Grzegorz A. Rempała. Likelihood-free dynamical survival analysis applied to the COVID-19 epidemic in Ohio. <cite>Mathematical Biosciences and Engineering</cite>, 2022. <span class="pub-links"><a href="https://www.aimspress.com/article/doi/10.3934/mbe.2023192">Journal</a> <a href="https://arxiv.org/abs/2208.00417">arXiv</a></span></li>
+  <li>Francesco Di Lauro*, <span class="me">Wasiur R. KhudaBukhsh</span>*, István Z. Kiss, Eben Kenah, Max Jensen, and Grzegorz A. Rempała. Dynamic survival analysis for non-Markovian epidemic models. <cite>Journal of the Royal Society Interface</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1098/rsif.2022.0124">Journal</a> <a href="https://arxiv.org/abs/2202.09948">arXiv</a></span> <span class="pub-note">*Joint first authors</span></li>
+  <li>Harley Vossler, Pierre Akilimali, Yuhan Pan, <span class="me">Wasiur R. KhudaBukhsh</span>, Eben Kenah, and Grzegorz A. Rempała. Analysis of individual-level epidemic data: study of 2018–2020 Ebola outbreak in Democratic Republic of the Congo. <cite>Scientific Reports</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1038/s41598-022-09564-4">Journal</a></span></li>
+  <li>Ido Somekh*, <span class="me">Wasiur R. KhudaBukhsh</span>*, Elisabeth Dowling Root*, Grzegorz A. Rempała, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of COVID-19 mass vaccination campaign in Israel: a modeling study. <cite>Open Forum Infectious Diseases</cite>, 2022. <span class="pub-links"><a href="https://doi.org/10.1093/ofid/ofac087">Journal</a></span> <span class="pub-note">*Joint first authors</span></li>
+  <li>Saumya Y. Sahai, Saket Gurukar, <span class="me">Wasiur R. KhudaBukhsh</span>, Srinivasan Parthasarathy, and Grzegorz A. Rempała. A machine learning model for nowcasting epidemic incidence. <cite>Mathematical Biosciences</cite>, 2021. <span class="pub-links"><a href="https://doi.org/10.1016/j.mbs.2021.108677">Journal</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Hye-Won Kang, Eben Kenah, and Grzegorz A. Rempała. Incorporating age and delay into models for biophysical systems. <cite>Physical Biology</cite>, 2020. <span class="pub-links"><a href="https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta">Journal</a> <a href="https://arxiv.org/abs/2007.00577">arXiv</a></span> <span class="pub-note">Invited paper</span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Sounak Kar, Bastian Alt, Amr Rizk, and Heinz Koeppl. Generalized cost-based job scheduling in very large heterogeneous cluster systems. <cite>IEEE Transactions on Parallel and Distributed Systems</cite>, 2020. <span class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/9099971">Journal</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Arnab Auddy, Yann Disser, and Heinz Koeppl. Approximate lumpability for Markovian agent-based models using local symmetries. <cite>Journal of Applied Probability</cite>, 2019. <span class="pub-links"><a href="https://doi.org/10.1017/jpr.2019.44">Journal</a> <a href="https://arxiv.org/abs/1804.00910">arXiv</a></span></li>
+  <li>Hye-Won Kang*, <span class="me">Wasiur R. KhudaBukhsh</span>*, Heinz Koeppl, and Grzegorz A. Rempała. Quasi-steady-state approximations derived from the stochastic model of enzyme kinetics. <cite>Bulletin of Mathematical Biology</cite>, 2019. <span class="pub-links"><a href="https://doi.org/10.1007/s11538-019-00574-4">Journal</a> <a href="https://arxiv.org/abs/1711.02791">arXiv</a></span> <span class="pub-note">*Joint first authors</span></li>
+  <li>Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, <span class="me">Wasiur R. KhudaBukhsh</span>, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz. Transitions: a protocol-independent view of the future internet. <cite>Proceedings of the IEEE</cite>, 2019. <span class="pub-links"><a href="https://ieeexplore.ieee.org/document/8651367">Journal</a></span></li>
+  <li>Boseung Choi, Sydney Busch, Dieudonné Kazadi, Benoit Ilunga, Emile Okitolonda, Yi Dai, Robert Lumpkin, Omar Saucedo, <span class="me">Wasiur R. KhudaBukhsh</span>, Joseph H. Tien, Marcel Yotebieng, Eben Kenah, and Grzegorz A. Rempała. Modeling outbreak data: analysis of a 2012 Ebola virus disease epidemic in DRC. <cite>BIOMATH</cite>, 2019. <span class="pub-links"><a href="https://doi.org/10.11145/j.biomath.2019.10.037">Journal</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Boseung Choi, Eben Kenah, and Grzegorz A. Rempała. Survival dynamical systems: individual-level survival analysis from population-level epidemic models. <cite>Interface Focus</cite>, 2019. <span class="pub-links"><a href="https://doi.org/10.1098/rsfs.2019.0048">Journal</a> <a href="https://arxiv.org/abs/1901.00405">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. <cite>ACM Transactions on Modeling and Performance Evaluation of Computing Systems</cite>, 2018. <span class="pub-links"><a href="https://dl.acm.org/citation.cfm?id=3300142">Journal</a></span></li>
 </ol>
 </div>
-</details>
 
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Stochastic reaction networks</h3></summary>
+<h2 id="conference-proceedings">Conference proceedings</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Fluctuation analysis of the standard QSSA for a stochastic multistage Michaelis-Menten model. (Submitted) </li>
-  <li>Arnab Ganguly,  <em>Wasiur R. KhudaBukhsh</em>. Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos. <strong>Stochastic Processes and their Applications</strong>, 2027. <a href="https://arxiv.org/abs/2409.06565">Preprint </a> (Accepted for publication)</li>
-  <li>Yi Fu, Hye-Won Kang, <em>Wasiur R. KhudaBukhsh</em>, Lea Popovic, Grzegorz A. Rempała, and Ruth J. Williams. Fragility in a Togashi-Kaneko stochastic model with mutations. <strong>SIAM Journal on Life Sciences</strong>, 2026. <a href="https://epubs.siam.org/eprint/SD2DDMET5TJ6KJXCDECC/full"> Published version</a>  <a href="https://mathweb.ucsd.edu/~williams/biochem/fragilityTK.pdf">Preprint</a> </li>
-  <li>Arnab Ganguly, <em>Wasiur R. KhudaBukhsh</em>. Asymptotic Analysis of the Total Quasi-Steady State Approximation for the Michaelis--Menten Enzyme Kinetic Reactions. <strong>Journal of Mathematical Analysis and Applications</strong>, 2026. <a href="https://doi.org/10.1016/j.jmaa.2026.130551"> Published version</a> <a href="https://arxiv.org/abs/2503.20145">Preprint </a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>*, Hye-Wong Kang, Eben Kenah, and Grzegorz Rempała. Incorporating age and delay into models for biophysical systems. <strong>Physical Biology</strong>, 2020. <a href="https://iopscience.iop.org/article/10.1088/1478-3975/abc2ab/meta">Published version</a> <a href="https://arxiv.org/abs/2007.00577">Preprint</a> (*Invited paper)</li>
-  <li>Hye-Won Kang*, <em>Wasiur R. KhudaBukhsh</em>*, Heinz Koeppl, and Grzegorz Rempała. Quasi-Steady-State Approximations Derived from the Stochastic Model of Enzyme Kinetics. <strong>Bulletin of Mathematical Biology</strong>, 2019. (* joint first authors.) <a href="https://doi.org/10.1007/s11538-019-00574-4">Published version</a> <a href="https://arxiv.org/abs/1711.02791">Preprint</a></li>
+  <li>Karim S. Elsayed, <span class="me">Wasiur R. KhudaBukhsh</span>, and Amr Rizk. On the trade-off between fidelity and latency for the quantum link layer with few memories and entanglement purification. <cite>International Conference on Quantum Communications, Networking, and Computing (QCNC)</cite>, 2024. <span class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10628208">Proceedings</a></span> <span class="pub-note">Best Paper Award</span></li>
+  <li>Karim S. Elsayed, <span class="me">Wasiur R. KhudaBukhsh</span>, and Amr Rizk. On the fidelity distribution of link-level entanglements under purification. <cite>IEEE International Conference on Communications (ICC)</cite>, 2024. <span class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10622822">Proceedings</a> <a href="https://arxiv.org/abs/2310.18198">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: optimal and adaptive strategies. <cite>IEEE International Conference on Computer Communications (INFOCOM)</cite>, 2018. <span class="pub-note">Best-in-Session Presentation Award</span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Amr Rizk, Alexander Frömmgen, and Heinz Koeppl. Optimizing stochastic scheduling in fork-join queueing models: bounds and applications. <cite>IEEE International Conference on Computer Communications (INFOCOM)</cite>, 2017. <span class="pub-links"><a href="http://ieeexplore.ieee.org/document/8057013/">Proceedings</a></span></li>
+  <li>Adrian Šošić, <span class="me">Wasiur R. KhudaBukhsh</span>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <cite>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</cite>, 2017. <span class="pub-links"><a href="https://dl.acm.org/citation.cfm?id=3091320">Proceedings</a></span> <span class="pub-note">Best Paper Award finalist</span></li>
+  <li>Adrian Šošić, <span class="me">Wasiur R. KhudaBukhsh</span>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <cite>AAMAS Workshop on Transfer in Reinforcement Learning</cite>, 2017. <span class="pub-links"><a href="http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf">PDF</a></span></li>
+  <li>Mahdi Mousavi, Hussein Al Shatri, <span class="me">Wasiur R. KhudaBukhsh</span>, Heinz Koeppl, and Anja Klein. Cross-layer QoE-based incentive mechanism for video streaming in multi-hop wireless networks. <cite>IEEE 86th Vehicular Technology Conference (VTC)</cite>, 2017.</li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and leveraging client heterogeneity in swarming-based live streaming. <cite>IFIP Networking Conference</cite>, 2016. <span class="pub-links"><a href="http://ieeexplore.ieee.org/document/7497234/">Proceedings</a></span></li>
 </ol>
 </div>
-</details>
 
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Epidemic modelling and applied statistics</h3>
-</summary>
+<h2 id="book-chapters">Book chapters</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Kushankur Dutta, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Coloured Epidemic Models: Functional Law of Large Numbers and Propagation of Chaos. <a href="https://arxiv.org/abs/2609.13416">Preprint </a> (Submitted)</li>
-  <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, M. Gabriela M. Gomes, Grzegorz A. Rempała. From Individual-Based Stochastic Epidemics to Heterogeneous SIR Equations. <a href="https://arxiv.org/abs/2608.22122">Preprint </a> (Submitted) </li>
-  <li>Yordan Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Shrinkage priors for Bayesian Substitute Confounders. <a href="https://arxiv.org/abs/2606.18535">Preprint </a> </li>
-  <li>James D. Harborne, <em>Wasiur R. KhudaBukhsh</em>, John R. King. Deterministic and stochastic asymptotics for a multiscale epidemic model. (Revision requested.) </li>
-  <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, <em>Wasiur R. KhudaBukhsh</em>. Kernel-based estimators for functional causal effects. <a href="https://arxiv.org/abs/2503.05024">Preprint </a> </li>
-  <li>Riccardo Corradin, Luca Danese, <em>Wasiur R. KhudaBukhsh</em>, Andrea Ongaro. Model-based clustering of time-dependent observations with common structural changes. <strong>Statistics and Computing</strong>, 2025. <a href="https://doi.org/10.1007/s11222-025-10756-x">Published version</a> <a href="https://arxiv.org/abs/2410.09552">Preprint </a> </li>
-  <li>Alexander E. Zarebski, Nefel Tellioglu, Jessica E. Stockdale, Julie A. Spencer, <em>Wasiur R. KhudaBukhsh</em>,  Joel C. Miller, Cameron Zachreson. Including frameworks of public health ethics in computational modelling of infectious disease interventions. <strong>Interface Focus</strong>, 2025. <a href="https://doi.org/10.1098/rsfs.2025.0004">Published version</a> <a href="https://arxiv.org/abs/2502.00071">Preprint </a> </li>
-  <li>Yushuf Sharker, Zaynab Diallo, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah. Pairwise accelerated failure time models for infectious disease transmission in close contact groups with external sources of infection. <strong>Statistics in Medicine</strong>, 2024. <a href="https://doi.org/10.1002/sim.10226">Published version</a> <a href="https://arxiv.org/abs/1901.04916">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. How to <em>correctly</em> fit an SIR model to data from an SEIR model? <strong>Mathematical Biosciences</strong>, 2024. <a href="https://doi.org/10.1016/j.mbs.2024.109265">Published version</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4690900">Preprint</a></li>
-  <li>Matthew Wascher, Patrick Schnell, <em>Wasiur R. KhudaBukhsh</em>, Mikkel B. Quam, Joseph H. Tien, Grzegorz A. Rempała. Estimating disease transmission in a closed population under repeated testing. <strong>Journal of the Royal Statistical Society: Series C (JRSSC)</strong>, 2024. <a href="https://doi.org/10.1093/jrsssc/qlae021">Published version</a> <a href="https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1">Preprint</a></li>
-  <li>Istvan Z. Kiss, Luc Berthouze, <em>Wasiur R. KhudaBukhsh</em>. Towards inferring network properties from epidemic data. <strong>Bulletin of Mathematical Biology</strong>, 2024. <a href="https://link.springer.com/article/10.1007/s11538-023-01235-3">Published version</a> <a href="https://arxiv.org/abs/2302.02470">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Sat Kartar Khalsa, Eben Kenah, Grzegorz A. Rempała, Joseph H. Tien. COVID-19 dynamics in an Ohio prison. <strong>Frontiers in Public Health</strong>, 2023. <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1087698/full">Published version</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.14.21249782v1">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Caleb Deen Bastian, Matthew Wascher, Colin Klaus, Saumya Yashmohini Sahai, Mark Weir, Eben Kenah, Elisabeth Root, Joseph H. Tien, and Grzegorz Rempała. Projecting COVID-19 Cases and Hospital Burden in Ohio. <strong>Journal of Theoretical Biology</strong>, 2023. <a href="https://doi.org/10.1016/j.jtbi.2022.111404">Published version</a> <a href="https://www.medrxiv.org/content/10.1101/2022.07.27.22278117v1">Preprint</a></li>
-  <li>Colin Klaus, Matthew Wascher, <em>Wasiur R. KhudaBukhsh</em>, Joseph H. Tien, Grzegorz A. Rempała, Eben Kenah. Assortative mixing among vaccination groups and biased estimation of reproduction numbers. <strong>The Lancet Infectious Diseases</strong>, 2022. <a href="https://doi.org/10.1016/S1473-3099(22)00155-4">Published version</a></li>
-  <li>Colin Klaus, Matthew Wascher, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz Rempała. Likelihood-Free Dynamical Survival Analysis Applied to the COVID-19 Epidemic in Ohio. <strong>Mathematical Biosciences and Engineering</strong>, 2022. <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2023192">Published version</a> <a href="https://arxiv.org/abs/2208.00417">Preprint</a></li>
-  <li>Francesco Di Lauro*, <em>Wasiur R. KhudaBukhsh</em>*, István Z. Kiss, Eben Kenah, Max Jensen, Grzegorz A. Rempała. Dynamic Survival Analysis for non-Markovian Epidemic Models. <strong>Royal Society Interface</strong>, 2022. <a href="https://doi.org/10.1098/rsif.2022.0124">Published version</a>  <a href="https://arxiv.org/abs/2202.09948">Preprint</a> (*Joint first authors)</li>
-  <li>Harley Vossler, Pierre Akilimali, Yuhan Pan, <em>Wasiur R. KhudaBukhsh</em>, Eben Kenah, Grzegorz A. Rempała. Analysis of Individual-level Epidemic Data: Study of 2018-2020 Ebola Outbreak in Democratic Republic of the Congo. <strong>Scientific Reports</strong>, 2022. <a href="https://doi.org/10.1038/s41598-022-09564-4">Published version</a></li>
-  <li>Ido Somekh*, <em>Wasiur R. KhudaBukhsh</em>*, Elisabeth Dowling Root*, Greg Rempala, Eric Simoes, and Eli Somekh. Quantifying the population-level effect of covid-19 mass vaccination campaign in Israel: A modeling study. <strong>Open Forum Infectious Diseases</strong>, 2022. <a href="https://doi.org/10.1093/ofid/ofac087">Published version</a> (*Joint first authors)</li>
-  <li>Saumya Y. Sahai, Saket Gurukar, <em>Wasiur R. KhudaBukhsh</em>, Srinivasan Parthasarathy, Grzegorz A. Rempała. A Machine Learning Model for Nowcasting Epidemic Incidence. <strong>Mathematical Biosciences</strong>, 2021. <a href="https://doi.org/10.1016/j.mbs.2021.108677">Published version</a></li>
-  <li>Boseung Choi, Sydney Busch, Dieudonné Kazadi, Benoit Ilunga, Emile Okitolonda, Yi Dai, Robert Lumpkin, Omar Saucedo, <em>Wasiur R. KhudaBukhsh</em>, Joseph Tien, Marcel Yotebieng, Eben Kenah, Grzegorz A. Rempała. Modeling Outbreak Data: Analysis of a 2012 Ebola Virus Disease Epidemic in DRC. <strong>BIOMATH</strong>, 2019. <a href="http://dx.doi.org/10.11145/j.biomath.2019.10.037">Published version</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Boseung Choi, Eben Kenah, and Grzegorz Rempała. Survival dynamical systems: individual-level survival analysis from population-level epidemic models. <strong>Interface Focus</strong>, 2019. <a href="https://doi.org/10.1098/rsfs.2019.0048">Published version</a> <a href="http://arxiv.org/abs/1901.00405">Preprint</a></li>
+  <li>Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, and Grzegorz A. Rempała. Functional law of large numbers for an epidemic model with random effects. <cite>Handbook of Statistics</cite>, 2024. <span class="pub-links"><a href="https://doi.org/10.1016/bs.host.2024.07.002">Chapter</a></span></li>
+  <li>Grzegorz A. Rempała and <span class="me">Wasiur R. KhudaBukhsh</span>. Dynamical survival analysis for epidemic modeling. In B. Sriraman (ed.), <cite>Handbook of Visual, Experimental and Computational Mathematics</cite>, 2023. <span class="pub-links"><a href="https://link.springer.com/referenceworkentry/10.1007/978-3-030-93954-0_31-1">Chapter</a></span></li>
 </ol>
 </div>
-</details>
 
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Queueing theory and communication networks</h3>
-</summary>
+<h2 id="thesis">Thesis and technical notes</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Karim S. Elsayed, Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. Stochastic Analysis of Entanglement-assisted Quantum Communication Channels. <a href="https://arxiv.org/abs/2412.16157">Preprint </a> (Under revision)</li>
-  <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification.<strong> Proceedings of the International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)</strong> <a href="https://ieeexplore.ieee.org/abstract/document/10628208">Published version</a> (Best Paper Award)</li>
-  <li>Karim Elsayed, <em>Wasiur R. KhudaBukhsh</em>, Amr Rizk. On the Fidelity Distribution of Link-level Entanglements under Purification. <strong>Proceedings of the IEEE International Conference on Communications</strong>, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10622822">Published version</a> <a href="https://arxiv.org/abs/2310.18198">Preprint</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Sounak Kar, Bastian Alt, Amr Rizk, Heinz Koeppl. Generalized Cost-Based Job Scheduling in Very Large Heterogeneous Cluster Systems. <strong>IEEE Transactions on Parallel and Distributed Systems</strong>, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9099971">Published version</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Amr Rizk, Sounak Kar, and Heinz Koeppl. Provisioning and performance evaluation of parallel systems with output synchronization. <strong>ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)</strong>, 2018. <a href="https://dl.acm.org/citation.cfm?id=3300142">Published version</a></li>
-  <li>Bastian Alt, Markus Weckesser, Christian Becker, Matthias Hollick, Sounak Kar, Anja Klein, Robin Klose, Roland Kluge, Heinz Koeppl, Boris Koldehofe, <em>Wasiur R. KhudaBukhsh</em>, Mahdi Mousavi, Martin Pfannemueller, Amr Rizk, Andy Schuerr, and Ralf Steinmetz. Transitions: A protocol-independent view of the future internet. <strong>Proceedings of the IEEE</strong>, 2019. <a href="https://ieeexplore.ieee.org/document/8651367">[Publisher version]</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Bastian Alt, Sounak Kar, Amr Rizk, and Heinz Koeppl. Collaborative uploading in heterogeneous networks: Optimal and adaptive strategies. <strong>IEEE International Conference on Computer Communications (INFOCOM)</strong>, 2018.[<strong>Best-in-Session Presentation Award</strong>]</li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Amr Rizk, Alexander Frömmgen, and Heinz Koeppl. Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds and Applications. <strong>IEEE International Conference on Computer Communications (INFOCOM)</strong>, 2017. <a href="http://ieeexplore.ieee.org/document/8057013/">Published version</a></li>
-  <li>Adrian Šošić, <em>Wasiur R. KhudaBukhsh</em>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <strong>AAMAS Workshop on Transfer in Reinforcement Learning</strong>, 2017. <a href="http://www.tirl.info/proceedings/2017/SosicEtal-Inverse.pdf">Published version</a></li>
-  <li>Mahdi Mousavi, Hussein Al Shatri, <em>Wasiur R. KhudaBukhsh</em>, Heinz Koeppl, and Anja Klein. Cross- Layer QoE-based Incentive Mechanism for Video Streaming in Multi-Hop Wireless Networks. <strong>IEEE 86th Vehicular Technology Conference (VTC)</strong>, 2017.</li>
-  <li>Adrian Šošić, <em>Wasiur R. KhudaBukhsh</em>, Abdelhak M. Zoubir, and Heinz Koeppl. Inverse reinforcement learning in swarm systems. <strong>International Conference on Autonomous Agents & Multiagent Systems (AAMAS)</strong>, 2017. <a href="https://dl.acm.org/citation.cfm?id=3091320">Published version</a> [<strong>Best paper award finalist</strong>]</li>
-  <li><em>Wasiur R. KhudaBukhsh</em>, Julius Rückert, Julian Wulfheide, David Hausheer, and Heinz Koeppl. Analysing and Leveraging Client Heterogeneity in Swarming-based Live Streaming. <strong>IFIP Networking Conference (IFIP Networking)</strong>, 2016. <a href="http://ieeexplore.ieee.org/document/7497234/">Published version</a></li> 
+  <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <span class="me">Wasiur R. KhudaBukhsh</span>. Bounds on the spectral radius of real-valued non-negative kernels on measurable spaces. <cite>Technical note</cite>, 2018. <span class="pub-links"><a href="https://arxiv.org/abs/1808.00258">arXiv</a></span></li>
+  <li><span class="me">Wasiur R. KhudaBukhsh</span>. Model reductions for queueing and agent-based systems with applications in communication networks. <cite>PhD thesis, Technische Universität Darmstadt</cite>, 2018. <span class="pub-links"><a href="http://tuprints.ulb.tu-darmstadt.de/7588/">Thesis</a></span></li>
 </ol>
 </div>
-</details>
-
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Book chapters</h3>
-</summary>
-<div class="pub-list">
-<ol reversed>
-  <li>Olga Izyumtseva, <em>Wasiur R. KhudaBukhsh</em>, Grzegorz A. Rempała. Functional Law of Large Numbers for an Epidemic Model with Random Effects. <strong>Handbook of Statistics</strong>, 2024. <a href="https://doi.org/10.1016/bs.host.2024.07.002">Published version</a></li>
-  <li>Grzegorz A. Rempała, <em>Wasiur R. KhudaBukhsh</em>. Dynamical Survival Analysis for Epidemic Modeling. In: Sriraman, B. (eds) <strong>Handbook of Visual, Experimental and Computational Mathematics</strong>, 2023. <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-030-93954-0_31-1">Published version</a></li>
-</ol>
-</div>
-</details>
-
-<details style="margin-bottom: 0.25cm"><summary>
-<h3>Theses and technical notes</h3>
-</summary>
-<div class="pub-list">
-<ol reversed>
-    <li>Mark Sinzger-D'Angelo, Heinz Koeppl, and <em>Wasiur R. KhudaBukhsh</em>. Bounds on the spectral radius of real-valued non-negative Kernels on measurable spaces. arXiv preprint: <a href="https://arxiv.org/abs/1808.00258">https://arxiv.org/abs/1808.00258</a></li>
-  <li><em>Wasiur R. KhudaBukhsh</em>. Model reductions for queueing and agent-based systems with applications in communication networks. PhD thesis. Available here: <a href="http://tuprints.ulb.tu-darmstadt.de/7588/">http://tuprints.ulb.tu-darmstadt.de/7588/</a></li>
-</ol>
-</div>
-</details>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var pubLists = document.querySelectorAll('.pub-list ol');
-    pubLists.forEach(function(ol) {
-      // Set the starting value to Length + 1. 
-      // The CSS counter-increment will subtract 1 for the first item.
-      ol.style.setProperty('counter-reset', 'pub-counter ' + (ol.children.length + 1));
-    });
-  });
-</script>

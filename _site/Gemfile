@@ -1,8 +1,0 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem 'csv'
-gem 'bigdecimal'
-gem 'base64'
-gem 'mutex_m'
-gem 'logger'
-gem "webrick", "~> 1.9"
