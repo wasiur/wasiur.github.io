@@ -1,6 +1,6 @@
 <div class="profile-container">
   <div class="profile-image-wrapper">
-    <img src="/image/profile.jpg" alt="Wasiur R. KhudaBukhsh" class="profile-image" />
+    <img src="/image/Wasiur_bike.jpg" alt="Wasiur R. KhudaBukhsh" class="profile-image" />
   </div>
   <div class="profile-content">
     <p>My full name is <strong>Wasiur Rahman Khuda Bukhsh</strong>. I am an Assistant Professor in the <a href="https://www.nottingham.ac.uk/mathematics/">School of Mathematical Sciences</a> at the <a href="https://www.nottingham.ac.uk/">University of Nottingham</a>, UK.</p>
