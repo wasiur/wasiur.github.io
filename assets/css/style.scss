@@ -244,24 +244,25 @@ details > summary h4 {
    Home page
    ========================================================================= */
 
+/* Photo floats beside the bio; the text wraps underneath it instead of
+   leaving an empty column below the photo. */
 .profile-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1.75rem;
+  display: flow-root;
   margin-bottom: 1rem;
 }
-@media (min-width: 640px) {
-  .profile-container { flex-direction: row; align-items: flex-start; }
-}
-
-.profile-image-wrapper { flex-shrink: 0; }
+.profile-image-wrapper { margin: 0 0 1.5rem; }
 .profile-image {
   display: block;
-  width: 190px;
+  width: 210px;
+  max-width: 100%;
   border-radius: 3px;
 }
-.profile-content { flex: 1; }
-.profile-content p:first-child { margin-top: -0.3rem; }
+@media (min-width: 640px) {
+  .profile-image-wrapper {
+    float: left;
+    margin: 0.35rem 1.75rem 0.75rem 0;
+  }
+}
 
 /* Link rows: quiet sans text links separated by a middle dot */
 .profile-links {
