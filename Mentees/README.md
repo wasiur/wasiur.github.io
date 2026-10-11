@@ -8,7 +8,7 @@ permalink: /Mentees/
 My research interests lie in the following broad areas of mathematics:
 
 <div class="interest-tags">
-  <span class="interest-tag">Probability theory and stochastic processes</span>
+  <span class="interest-tag">Probability Theory</span>
   <span class="interest-tag">Mathematical Biology</span>
 </div>
 
