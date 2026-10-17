@@ -28,7 +28,7 @@ In mathematics, authors are conventionally listed alphabetically. A <a href="/CV
   <li>Yordan P. Raykov, Hengrui Luo, Justin D. Strait, and <span class="me">Wasiur R. KhudaBukhsh</span>. Kernel-based estimators for functional causal effects. <span class="pub-links"><a href="https://arxiv.org/abs/2503.05024">arXiv</a></span></li>
   <li><span class="me">Wasiur R. KhudaBukhsh</span> and Yangrui Xiang. Mixing time for a noisy SIS model on graphs. <span class="pub-links"><a href="https://arxiv.org/abs/2501.07738">arXiv</a></span> <span class="pub-note">Submitted</span></li>
   <li>Karim S. Elsayed, Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, and Amr Rizk. Stochastic analysis of entanglement-assisted quantum communication channels. <span class="pub-links"><a href="https://arxiv.org/abs/2412.16157">arXiv</a></span> <span class="pub-note">Revision requested</span></li>
-  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <span class="pub-links"><a href="https://arxiv.org/abs/2409.04377">arXiv</a></span> <span class="pub-note">Revision requested</span></li>
+  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Local times of self-intersection and sample path properties of Volterra Gaussian processes. <span class="pub-links"><a href="https://arxiv.org/abs/2409.04377">arXiv</a></span> <span class="pub-note">Minor revisions requested</span></li>
 </ol>
 </div>
 
