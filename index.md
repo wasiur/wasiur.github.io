@@ -20,7 +20,7 @@
 
 <div class="news-list">
 <ol>
-  <li>New paper “Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos” accepted for publication in <strong>Stochastic Processes and their Applications</strong>. <span class="pub-links"><a href="https://doi.org/10.1016/j.spa.2026.105122">Journal</a></span>  <span class="pub-links"><a href="https://arxiv.org/abs/2409.06565">Preprint</a></span>.</li>
+  <li>New paper “Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos”  published in <strong>Stochastic Processes and their Applications</strong>. <span class="pub-links"><a href="https://doi.org/10.1016/j.spa.2026.105122">Journal</a></span>  <span class="pub-links"><a href="https://arxiv.org/abs/2409.06565">Preprint</a></span>.</li>
 </ol>
 </div>
 
