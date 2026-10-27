@@ -18,7 +18,7 @@ In mathematics, authors are conventionally listed alphabetically. A <a href="/CV
 <h2 id="preprints">Preprints</h2>
 <div class="pub-list">
 <ol reversed>
-  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Self-intersection local times of Volterra Gaussian bridges with large end-to-end distance. <span class="pub-note">Submitted</span></li>
+  <li>Olga Izyumtseva and <span class="me">Wasiur R. KhudaBukhsh</span>. Self-intersection local times of Volterra Gaussian bridges with large end-to-end distance. <span class="pub-links"><a href="https://doi.org/10.48550/arXiv.2610.35769">arXiv</a></span> <span class="pub-note">Submitted</span></li>
   <li><span class="me">Wasiur R. KhudaBukhsh</span> and Yangrui Xiang. Cutoff profiles and boundary effects in the Togashi--Kaneko model of autocatalytic reactions with weak mutations <span class="pub-links"><a href="https://doi.org/10.48550/arXiv.2610.17775">arXiv</a></span> <span class="pub-note">Submitted</span></li>
   <li>Kushankur Dutta, Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, and Grzegorz A. Rempała. Coloured epidemic models: functional law of large numbers and propagation of chaos. <span class="pub-links"><a href="https://arxiv.org/abs/2609.13416">arXiv</a></span> <span class="pub-note">Submitted</span></li>
   <li>Olga Izyumtseva, <span class="me">Wasiur R. KhudaBukhsh</span>, M. Gabriela M. Gomes, and Grzegorz A. Rempała. From individual-based stochastic epidemics to heterogeneous SIR equations. <span class="pub-links"><a href="https://arxiv.org/abs/2608.22122">arXiv</a></span> <span class="pub-note">Minor revisions requested</span></li>

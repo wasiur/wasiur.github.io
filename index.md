@@ -20,6 +20,7 @@
 
 <div class="news-list">
 <ol>
+  <li>New preprint with <a href="https://sites.google.com/view/olga-izyumtseva/home">Olga Izyumtseva</a> on "Self-intersection local times of Volterra Gaussian bridges with large end-to-end distance" on arXiv! <span class="pub-links"><a href="https://doi.org/10.48550/arXiv.2610.35769">Preprint</a></span> </li>
   <li>New paper “Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos”  published in <strong>Stochastic Processes and their Applications</strong>. <span class="pub-links"><a href="https://doi.org/10.1016/j.spa.2026.105122">Journal</a></span>  <span class="pub-links"><a href="https://arxiv.org/abs/2409.06565">Preprint</a></span>.</li>
 </ol>
 </div>
