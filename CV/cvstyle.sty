@@ -1,5 +1,5 @@
 %% cvstyle.sty -- shared layout for the CV and the list of publications.
-%% Typography and colours match www.wasiur.xyz: Source Serif 4 / Source Sans 3, maroon accent.
+%% Typography and colours match www.wasiur.xyz: Source Serif 4 / Source Sans 3, Oxford blue accent.
 %% Requires LuaLaTeX or XeLaTeX (fontspec).
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{cvstyle}[2026/10/08 CV and publication list layout]
@@ -25,7 +25,7 @@
 
 % ---------------------------------------------------------------- colours
 \RequirePackage{xcolor}
-\definecolor{accent}{HTML}{7A1F2B}
+\definecolor{accent}{HTML}{2A5594}
 \definecolor{muted}{HTML}{6E6A65}
 \definecolor{hairline}{HTML}{D9D3CB}
 
@@ -97,6 +97,12 @@
 \newcommand{\cventry}[4][]{%
   \cvitem{#2}{\textbf{#3}\\#4%
     \if\relax\detokenize{#1}\relax\else\\{\small\color{muted}#1}\fi}}
+% Numbered entry (e.g. talks): \cvnitem{date}{text}. The number sits in the
+% date column; reset with \setcounter{cvnum}{0} at the start of each list.
+\newcounter{cvnum}
+\newcommand{\cvnitem}[2]{%
+  \stepcounter{cvnum}%
+  \cvitem{\makebox[1.6em][r]{\thecvnum.}\hspace{0.5em}#1}{#2}}
 % Short note under a section heading.
 \newcommand{\cvnote}[1]{\par\noindent{\small\color{muted}#1}\par\vspace{6pt}}
 

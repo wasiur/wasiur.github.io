@@ -12,8 +12,8 @@
   --heading: #1a1817;
   --muted: #6e6a65;
   --rule: #e6e1da;
-  --accent: #7a1f2b;
-  --accent-hover: #5a1520;
+  --accent: #2a5594;
+  --accent-hover: #1e4073;
   --mark: #f5efe7;
 
   --serif: "Source Serif 4", "Iowan Old Style", Georgia, "Times New Roman", serif;
@@ -28,8 +28,8 @@
     --heading: #f2eee8;
     --muted: #9b968f;
     --rule: #34313a;
-    --accent: #e3949c;
-    --accent-hover: #f2b8be;
+    --accent: #86abe3;
+    --accent-hover: #a9c4ee;
     --mark: #232127;
   }
 }
@@ -288,6 +288,8 @@ details > summary h4 {
 .news-list li { margin-bottom: 0.9rem; }
 .news-list li:last-child { margin-bottom: 0; }
 .news-list strong { font-weight: 400; font-style: italic; }
+.news-list--numbered ol { list-style: decimal; padding-left: 1.5rem; }
+.news-list--numbered li { padding-left: 0.25rem; }
 
 /* Funding */
 .funding-card {
